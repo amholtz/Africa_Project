@@ -1,0 +1,4002 @@
+DATASET_COLORSTRIP
+
+SEPARATOR TAB
+BORDER_WIDTH	0.5
+MARGIN	5
+STRIP_WIDTH	25
+COLOR	#ffffff
+DATASET_LABEL	Country
+
+LEGEND_COLORS	#cc6e66	#ccbf33	#a5cc99	#66cca1	#338ccc	#a599cc	#cc66c3	#cc333f	#cc4c33	#cccc99	#76cc66	#33cc99	#99b2cc	#8766cc	#cc33b2	#cc9999	#cca599	#c3cc66	#3fcc33	#99ccbf	#6690cc	#7233cc	#cc99bf	#cc8866	#b2cc33	#99cc99	#66ccbb	#3365cc	#b299cc	#cc66aa	#cc7233	#bfcc99	#66cc6e	#33ccbf	#99a5cc	#a166cc	#cc338c	#ccb299	#aacc66	#33cc4c	#99cccc	#6677cc	#9933cc	#cc99b2	#cca166	#8ccc33	#99cca5	#66c3cc	#333fcc	#bf99cc	#cc6690	#cc9933	#b2cc99	#66cc88	#33b2cc	#9999cc	#bb66cc	#cc3366	#ccbf99	#90cc66	#33cc72	#99bfcc	#6e66cc	#bf33cc	#cc99a5	#ccbb66	#66cc33	#99ccb2	#66aacc	#4c33cc	#cc99cc	#cc6677
+LEGEND_LABELS	Afghanistan	Algeria	Benin	Botswana	Brazil	Burkina Faso	Burundi	Cameroon	Canada	Central African Republic	Chad	China	Côte d'Ivoire	Democratic Republic of the Congo	Egypt	Equatorial Guinea	Estonia	Ethiopia	France	French Guiana	Gabon	Gambia	Germany	Ghana	Grenada	Guinea	Hungary	India	Iran	Israel	Kazakhstan	Kenya	Lao	Lesotho	Liberia	Madagascar	Malawi	Mali	Mauritania	Mexico	Montenegro	Morocco	Mozambique	Namibia	Nepal	Niger	Nigeria	Philippines	Poland	Russia	Rwanda	Saudi Arabia	Senegal	Serbia	Sierra Leone	Slovenia	Somalia	South Africa	South Korea	Spain	Sri Lanka	Sudan	Swaziland	Taiwan	Tanzania	Thailand	Tunisia	Turkey	Uganda	United States	Zambia	Zimbabwe
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_TITLE	Country
+
+DATA
+#NODE_ID COLOR LABEL_OR_STYLE
+AB635373	#33cc72	Sri Lanka
+MF143384	#4c33cc	United States
+MK540805	#cc4c33	Canada
+MG562594	#4c33cc	United States
+MF143247	#cc4c33	Canada
+KM594026	#338ccc	Brazil
+KM594028	#338ccc	Brazil
+KX148245	#cca166	Nepal
+KX148108	#cca166	Nepal
+MN534894	#cca166	Nepal
+KM594029	#338ccc	Brazil
+JQ685971	#4c33cc	United States
+JQ685920	#4c33cc	United States
+JQ685925	#4c33cc	United States
+GU345746	#33cc99	China
+GU345747	#33cc99	China
+KX148265	#33cc99	China
+KU055531	#b2cc99	Senegal
+KU055527	#b2cc99	Senegal
+JQ685955	#4c33cc	United States
+AB618032	#338ccc	Brazil
+KM594034	#338ccc	Brazil
+FJ712193	#33cc99	China
+KX148255	#66cc6e	Lao
+KX148257	#66cc6e	Lao
+LC717423	#ccbb66	Thailand
+EU293111	#ccbb66	Thailand
+MN726871	#66c3cc	Philippines
+KU055556	#aacc66	Mauritania
+KU055530	#b2cc99	Senegal
+KY952220	#33cc99	China
+JQ685952	#4c33cc	United States
+JQ685921	#4c33cc	United States
+JQ685918	#4c33cc	United States
+JQ685957	#4c33cc	United States
+KJ564280	#33cc99	China
+MK577649	#33cc99	China
+MN726880	#66c3cc	Philippines
+KF620487	#bf33cc	Taiwan
+KF620488	#bf33cc	Taiwan
+KU946961	#33cc99	China
+KU055529	#b2cc99	Senegal
+KY982922	#33cc99	China
+KC171644	#ccbf99	South Korea
+JQ692989	#cc3366	South Africa
+KX148101	#cc33b2	Egypt
+JQ685903	#4c33cc	United States
+JQ685958	#4c33cc	United States
+JQ685915	#4c33cc	United States
+JQ685916	#4c33cc	United States
+KM594037	#338ccc	Brazil
+KM594038	#338ccc	Brazil
+MN857170	#66c3cc	Philippines
+MN857171	#66c3cc	Philippines
+KU055521	#cccc99	Central African Republic
+KU055502	#b2cc99	Senegal
+KU055528	#b2cc99	Senegal
+KU055524	#b2cc99	Senegal
+KU055539	#99cc99	Guinea
+MK540994	#cc4c33	Canada
+MK540961	#cc4c33	Canada
+MN233968	#cc4c33	Canada
+MN233987	#cc4c33	Canada
+MK760770	#cc33b2	Egypt
+MG458317	#cc33b2	Egypt
+JQ685914	#4c33cc	United States
+JQ685907	#4c33cc	United States
+JQ685902	#4c33cc	United States
+JQ685895	#4c33cc	United States
+JQ685922	#4c33cc	United States
+KX148109	#338ccc	Brazil
+KX148100	#99ccbf	French Guiana
+OM971001	#33cc4c	Mexico
+OM971002	#33cc4c	Mexico
+MG201921	#33cc99	China
+KX148264	#33cc99	China
+GU647092	#33cc99	China
+FJ712196	#33cc99	China
+KU055552	#99cc99	Guinea
+KX148228	#cca166	Nepal
+MN534895	#cca166	Nepal
+MK760702	#b299cc	Iran
+KY775603	#3365cc	India
+OM863569	#3365cc	India
+FJ392385	#cc3366	South Africa
+MK858227	#cc3366	South Africa
+JQ692986	#cc3366	South Africa
+JQ692991	#cc3366	South Africa
+DQ194896	#cc3366	South Africa
+OM971005	#33cc4c	Mexico
+JQ685944	#4c33cc	United States
+JQ685924	#4c33cc	United States
+JQ685948	#4c33cc	United States
+JQ685941	#4c33cc	United States
+JQ685896	#4c33cc	United States
+JQ685910	#4c33cc	United States
+KU055526	#ccb299	Mali
+KU055562	#99b2cc	Côte d'Ivoire
+MK760729	#b299cc	Iran
+MK760735	#b299cc	Iran
+KX148225	#cc6e66	Afghanistan
+KX148226	#cc6e66	Afghanistan
+MK760761	#b299cc	Iran
+KX148227	#cc6e66	Afghanistan
+JQ692981	#cc3366	South Africa
+JQ685894	#4c33cc	United States
+JQ685970	#4c33cc	United States
+KX708503	#33cc4c	Mexico
+KX148111	#33cc4c	Mexico
+KC737850	#4c33cc	United States
+KX148217	#338ccc	Brazil
+KM594039	#338ccc	Brazil
+JQ685900	#4c33cc	United States
+FJ545662	#cccc99	Central African Republic
+FJ545683	#76cc66	Chad
+FJ545660	#33b2cc	Sierra Leone
+EU853594	#99cc99	Guinea
+FJ392390	#cc3366	South Africa
+FJ392366	#cc3366	South Africa
+JX088731	#cc3366	South Africa
+FJ392368	#cc3366	South Africa
+FJ392383	#cc3366	South Africa
+MK858230	#cc3366	South Africa
+JQ685899	#4c33cc	United States
+JQ685943	#4c33cc	United States
+OK564514	#33cc4c	Mexico
+JQ685975	#33cc4c	Mexico
+KX148214	#338ccc	Brazil
+KX148215	#338ccc	Brazil
+JQ685947	#4c33cc	United States
+JQ685919	#4c33cc	United States
+MK471250	#99cc99	Guinea
+EU853593	#99cc99	Guinea
+FJ392387	#cc3366	South Africa
+JQ692983	#cc3366	South Africa
+HQ266616	#cc3366	South Africa
+JN899142	#cc3366	South Africa
+FJ392379	#cc3366	South Africa
+DQ194899	#cc3366	South Africa
+DQ194898	#cc3366	South Africa
+FJ392375	#cc3366	South Africa
+FJ392370	#cc3366	South Africa
+JX088732	#cc3366	South Africa
+MK858229	#cc3366	South Africa
+JX088728	#cc3366	South Africa
+FJ392388	#cc3366	South Africa
+MG458319	#b2cc33	Grenada
+FJ545663	#99cc99	Guinea
+KU055534	#cc3366	South Africa
+FJ465402	#cc3366	South Africa
+JQ692993	#cc3366	South Africa
+JQ692995	#cc3366	South Africa
+FJ392369	#cc3366	South Africa
+FJ392376	#cc3366	South Africa
+FJ392384	#cc3366	South Africa
+FJ392389	#cc3366	South Africa
+KT892014	#cc3366	South Africa
+JQ692994	#cc3366	South Africa
+MK760676	#b299cc	Iran
+KX148104	#99cccc	Montenegro
+MG458309	#66cc88	Serbia
+KF734738	#cccc99	Central African Republic
+MN196575	#99cca5	Nigeria
+MN196573	#99cca5	Nigeria
+MN196574	#99cca5	Nigeria
+MK471247	#99cc99	Guinea
+EU853595	#33b2cc	Sierra Leone
+EU853591	#7233cc	Gambia
+EU853592	#b2cc99	Senegal
+HQ266614	#cc3366	South Africa
+JQ692987	#cc3366	South Africa
+JX088730	#cc3366	South Africa
+KT892013	#cc3366	South Africa
+JQ692984	#cc3366	South Africa
+JQ692996	#cc3366	South Africa
+HQ266632	#cc3366	South Africa
+MK760690	#b299cc	Iran
+KY860591	#99ccb2	Turkey
+KX148201	#99cca5	Nigeria
+KU055550	#99cca5	Nigeria
+EU827276	#a599cc	Burkina Faso
+EU888696	#99cca5	Nigeria
+EU888803	#99cca5	Nigeria
+MN196565	#99cca5	Nigeria
+MN196566	#99cca5	Nigeria
+MN196567	#99cca5	Nigeria
+MN196568	#99cca5	Nigeria
+FJ545685	#99cc99	Guinea
+KX148244	#99cc99	Guinea
+FJ545680	#99cc99	Guinea
+JN162083	#cc3366	South Africa
+FJ465404	#cc3366	South Africa
+HQ266615	#cc3366	South Africa
+HQ266630	#cc3366	South Africa
+FJ392377	#cc3366	South Africa
+FJ392378	#cc3366	South Africa
+AF467950	#cc3366	South Africa
+FJ465398	#cc3366	South Africa
+FJ465395	#cc3366	South Africa
+MK760747	#b299cc	Iran
+MK760684	#b299cc	Iran
+KY860597	#99ccb2	Turkey
+KX148161	#66cc88	Serbia
+MF781074	#bf99cc	Russia
+KC787074	#a166cc	Madagascar
+KC787063	#a166cc	Madagascar
+AF325479	#99cca5	Nigeria
+LC380134	#cc99cc	Zambia
+EU853624	#aacc66	Mauritania
+FJ545677	#99b2cc	Côte d'Ivoire
+EU888675	#99cca5	Nigeria
+KF022172	#99cca5	Nigeria
+KF022169	#99cca5	Nigeria
+KF022171	#99cca5	Nigeria
+KJ921998	#99cca5	Nigeria
+MN196572	#99cca5	Nigeria
+MN196571	#99cca5	Nigeria
+FJ465407	#cc3366	South Africa
+JN162079	#cc3366	South Africa
+KX148223	#cc3366	South Africa
+MG458307	#cc3366	South Africa
+HQ266633	#cc6677	Zimbabwe
+KY553273	#cc6677	Zimbabwe
+EU982551	#cc6677	Zimbabwe
+KY553278	#cc6677	Zimbabwe
+FJ392380	#cc3366	South Africa
+FJ465401	#cc3366	South Africa
+KY860598	#99ccb2	Turkey
+KY860599	#99ccb2	Turkey
+KX148191	#cc66aa	Israel
+KX148192	#cc66aa	Israel
+KY860611	#99ccb2	Turkey
+JF327499	#cc3366	South Africa
+KX148211	#a166cc	Madagascar
+KC787058	#a166cc	Madagascar
+KC787051	#a166cc	Madagascar
+KC787055	#a166cc	Madagascar
+KC787057	#a166cc	Madagascar
+KC787060	#a166cc	Madagascar
+KR906748	#cc99a5	Tanzania
+KR906752	#cc99a5	Tanzania
+KJ133668	#66aacc	Uganda
+LC029890	#66aacc	Uganda
+KX148231	#8ccc33	Niger
+EU853621	#99b2cc	Côte d'Ivoire
+KF022176	#99cca5	Nigeria
+KT119755	#cccc99	Central African Republic
+KF734703	#cccc99	Central African Republic
+KF734705	#cccc99	Central African Republic
+KT119779	#76cc66	Chad
+KT119774	#cc333f	Cameroon
+KT119767	#cccc99	Central African Republic
+EU888663	#99cca5	Nigeria
+KR080522	#99cca5	Nigeria
+EU853657	#76cc66	Chad
+EU853655	#76cc66	Chad
+EU853656	#76cc66	Chad
+MF773574	#99cca5	Nigeria
+MN196570	#99cca5	Nigeria
+MN196569	#99cca5	Nigeria
+FJ465385	#cc3366	South Africa
+FJ465408	#cc6677	Zimbabwe
+JN162077	#cc3366	South Africa
+FJ392371	#cc3366	South Africa
+JQ692999	#cc3366	South Africa
+FJ465391	#cc3366	South Africa
+MG458308	#cc3366	South Africa
+KX148221	#cc3366	South Africa
+KX148173	#cc9933	Saudi Arabia
+KT119772	#6690cc	Gabon
+MZ418095	#c3cc66	Ethiopia
+MZ418096	#c3cc66	Ethiopia
+AY605032	#cc6677	Zimbabwe
+AY605039	#cc6677	Zimbabwe
+EU853572	#6677cc	Morocco
+GU798255	#6677cc	Morocco
+AY138571	#a166cc	Madagascar
+KC787059	#a166cc	Madagascar
+KC787054	#a166cc	Madagascar
+KC787052	#a166cc	Madagascar
+KC787073	#a166cc	Madagascar
+KC787067	#a166cc	Madagascar
+KC787072	#a166cc	Madagascar
+LC380182	#cc99cc	Zambia
+LC683180	#cc338c	Malawi
+LC682838	#cc338c	Malawi
+KX148208	#cccc99	Central African Republic
+KX148230	#a599cc	Burkina Faso
+EU853645	#a599cc	Burkina Faso
+EU478508	#a599cc	Burkina Faso
+KX148229	#8ccc33	Niger
+EU827275	#a599cc	Burkina Faso
+KP976113	#ccb299	Mali
+KX148235	#99b2cc	Côte d'Ivoire
+MN049984	#99a5cc	Liberia
+FJ545669	#ccb299	Mali
+FJ545670	#ccb299	Mali
+KX148107	#a5cc99	Benin
+HM368100	#cc8866	Ghana
+AY854600	#99cca5	Nigeria
+KJ922001	#99cca5	Nigeria
+KJ922002	#99cca5	Nigeria
+KJ921997	#99cca5	Nigeria
+KJ922000	#99cca5	Nigeria
+EU888717	#99cca5	Nigeria
+EU888720	#99cca5	Nigeria
+FJ545679	#8ccc33	Niger
+KT119773	#cc333f	Cameroon
+MN196558	#99cca5	Nigeria
+MN196559	#99cca5	Nigeria
+MN196563	#99cca5	Nigeria
+KY553255	#cc6677	Zimbabwe
+KX148218	#66cca1	Botswana
+GQ983443	#cc3366	South Africa
+FJ465386	#cc3366	South Africa
+JQ692988	#cc3366	South Africa
+JX088729	#cc3366	South Africa
+JQ692990	#cc3366	South Africa
+GU936878	#cc3366	South Africa
+JQ692985	#cc3366	South Africa
+MK760726	#b299cc	Iran
+MK760742	#b299cc	Iran
+KX148155	#cca599	Estonia
+JQ944708	#bf99cc	Russia
+EU853577	#66cc33	Tunisia
+GU798102	#66cc33	Tunisia
+GU798257	#6677cc	Morocco
+GU798258	#6677cc	Morocco
+GU798256	#6677cc	Morocco
+EU851127	#90cc66	Spain
+EU851129	#90cc66	Spain
+KC787068	#a166cc	Madagascar
+KX148210	#a166cc	Madagascar
+DQ420623	#a166cc	Madagascar
+KC787069	#a166cc	Madagascar
+LC380184	#cc99cc	Zambia
+LC380180	#cc99cc	Zambia
+LC380181	#cc99cc	Zambia
+LC683182	#cc338c	Malawi
+LC682836	#cc338c	Malawi
+LC682835	#cc338c	Malawi
+LC682824	#cc338c	Malawi
+LC682834	#cc338c	Malawi
+KU739043	#8ccc33	Niger
+KU739039	#a599cc	Burkina Faso
+EU888659	#99cca5	Nigeria
+EU888660	#99cca5	Nigeria
+FJ545674	#8ccc33	Niger
+EU853649	#8ccc33	Niger
+EU853648	#8ccc33	Niger
+EU853646	#8ccc33	Niger
+EU853647	#8ccc33	Niger
+FJ545678	#8ccc33	Niger
+KU739038	#a599cc	Burkina Faso
+FJ545668	#ccb299	Mali
+KP976122	#ccb299	Mali
+EU478502	#a599cc	Burkina Faso
+EU478515	#a599cc	Burkina Faso
+EU478492	#a599cc	Burkina Faso
+EU478518	#a599cc	Burkina Faso
+GU815997	#99b2cc	Côte d'Ivoire
+KX148234	#a599cc	Burkina Faso
+EU853620	#ccb299	Mali
+MK471251	#99cc99	Guinea
+FJ545673	#a5cc99	Benin
+KF734723	#cccc99	Central African Republic
+KF734725	#cccc99	Central African Republic
+KF734727	#cccc99	Central African Republic
+KF734728	#cccc99	Central African Republic
+KF734736	#cccc99	Central African Republic
+KF734678	#cccc99	Central African Republic
+KF734681	#cccc99	Central African Republic
+KF734682	#cccc99	Central African Republic
+KF734686	#cccc99	Central African Republic
+KF734687	#cccc99	Central African Republic
+KF734688	#cccc99	Central African Republic
+KF734697	#cccc99	Central African Republic
+KF734698	#cccc99	Central African Republic
+KF734699	#cccc99	Central African Republic
+KF734700	#cccc99	Central African Republic
+KF734704	#cccc99	Central African Republic
+KF734706	#cccc99	Central African Republic
+KF734707	#cccc99	Central African Republic
+KF734708	#cccc99	Central African Republic
+KF734712	#cccc99	Central African Republic
+KF734714	#cccc99	Central African Republic
+KF734715	#cccc99	Central African Republic
+KF734716	#cccc99	Central African Republic
+KF734718	#cccc99	Central African Republic
+KF734720	#cccc99	Central African Republic
+KF734721	#cccc99	Central African Republic
+KF734722	#cccc99	Central African Republic
+KF022192	#99cca5	Nigeria
+KF022190	#99cca5	Nigeria
+KX148240	#76cc66	Chad
+EU853654	#8ccc33	Niger
+KX148243	#cc333f	Cameroon
+KU055546	#cc333f	Cameroon
+KU055547	#cc333f	Cameroon
+KT119784	#cc333f	Cameroon
+MN196564	#99cca5	Nigeria
+KY553266	#cc6677	Zimbabwe
+FJ465394	#cc3366	South Africa
+KC535506	#cc3366	South Africa
+MK598393	#66ccbb	Hungary
+MK598343	#66ccbb	Hungary
+KX148160	#66ccbb	Hungary
+MK598342	#66ccbb	Hungary
+ON366710	#cc7233	Kazakhstan
+KC595280	#bf99cc	Russia
+MK760712	#b299cc	Iran
+KT728348	#bf99cc	Russia
+KT119775	#6690cc	Gabon
+KT119783	#6690cc	Gabon
+KT119782	#cc333f	Cameroon
+HM368143	#cc8866	Ghana
+FJ947007	#99bfcc	Sudan
+KX148199	#bb66cc	Somalia
+KX148198	#bb66cc	Somalia
+EU643558	#66cc33	Tunisia
+EU643561	#66cc33	Tunisia
+EU643559	#66cc33	Tunisia
+EU643560	#66cc33	Tunisia
+GU798259	#6677cc	Morocco
+GU798260	#6677cc	Morocco
+AY854666	#6677cc	Morocco
+KX148194	#6677cc	Morocco
+EU853571	#6677cc	Morocco
+GU798110	#6677cc	Morocco
+GU798554	#ccbf33	Algeria
+GU798298	#ccbf33	Algeria
+GU798109	#ccbf33	Algeria
+GU798266	#ccbf33	Algeria
+MN991294	#a166cc	Madagascar
+MN991295	#a166cc	Madagascar
+KC787062	#a166cc	Madagascar
+KC787061	#a166cc	Madagascar
+KC787064	#a166cc	Madagascar
+KC787066	#a166cc	Madagascar
+KC787065	#a166cc	Madagascar
+KX148209	#a166cc	Madagascar
+KC787071	#a166cc	Madagascar
+KC787070	#a166cc	Madagascar
+LC683178	#cc338c	Malawi
+LC682832	#cc338c	Malawi
+LC682833	#cc338c	Malawi
+LC682851	#cc338c	Malawi
+LC682848	#cc338c	Malawi
+LC682840	#cc338c	Malawi
+LC682837	#cc338c	Malawi
+LC682846	#cc338c	Malawi
+LC682853	#cc338c	Malawi
+LC682850	#cc338c	Malawi
+LC682831	#cc338c	Malawi
+LC380115	#cc99cc	Zambia
+DQ194880	#cc99b2	Namibia
+EU478499	#a599cc	Burkina Faso
+EU827271	#a599cc	Burkina Faso
+EU478522	#a599cc	Burkina Faso
+EU478519	#a599cc	Burkina Faso
+EU478521	#a599cc	Burkina Faso
+EU827277	#8ccc33	Niger
+EU478517	#a599cc	Burkina Faso
+EU827273	#a599cc	Burkina Faso
+EU514571	#8ccc33	Niger
+FJ545682	#aacc66	Mauritania
+EU853642	#aacc66	Mauritania
+EU853625	#b2cc99	Senegal
+EU853626	#b2cc99	Senegal
+FJ545664	#aacc66	Mauritania
+FJ545666	#b2cc99	Senegal
+KP976125	#ccb299	Mali
+FJ545672	#a599cc	Burkina Faso
+MN049980	#99a5cc	Liberia
+EU888770	#99cca5	Nigeria
+KU055555	#aacc66	Mauritania
+HM368095	#cc8866	Ghana
+HM368116	#cc8866	Ghana
+HM368119	#cc8866	Ghana
+EU888647	#99cca5	Nigeria
+EU888648	#99cca5	Nigeria
+EU853651	#cccc99	Central African Republic
+KT119754	#cccc99	Central African Republic
+KF734709	#cccc99	Central African Republic
+KF734710	#cccc99	Central African Republic
+EU038108	#99cca5	Nigeria
+EU038109	#99cca5	Nigeria
+KF022170	#99cca5	Nigeria
+EU888714	#99cca5	Nigeria
+KX148241	#76cc66	Chad
+KU564993	#76cc66	Chad
+DQ275561	#76cc66	Chad
+EU888729	#99cca5	Nigeria
+FJ435703	#99cca5	Nigeria
+FJ545671	#cc333f	Cameroon
+FJ545675	#cc333f	Cameroon
+KX148242	#cc333f	Cameroon
+MN196560	#99cca5	Nigeria
+FJ392367	#cc3366	South Africa
+FJ392391	#cc6677	Zimbabwe
+KX148219	#66cca1	Botswana
+KU739041	#66cca1	Botswana
+KU055532	#66cca1	Botswana
+KU055533	#66cca1	Botswana
+JN162080	#cc3366	South Africa
+FJ465387	#cc3366	South Africa
+HQ266617	#cc3366	South Africa
+JN162084	#cc3366	South Africa
+JQ692997	#cc3366	South Africa
+JQ692982	#cc3366	South Africa
+FJ392373	#cc3366	South Africa
+JQ692992	#cc3366	South Africa
+MK598355	#66ccbb	Hungary
+MK598356	#66ccbb	Hungary
+KX148136	#66ccbb	Hungary
+KX148139	#66ccbb	Hungary
+KX148123	#cc99bf	Germany
+KX148135	#cc99bf	Germany
+KT119771	#6690cc	Gabon
+KT119777	#6690cc	Gabon
+MW553269	#6690cc	Gabon
+MW553270	#6690cc	Gabon
+MF537573	#cc333f	Cameroon
+HM368133	#cc8866	Ghana
+MZ418094	#c3cc66	Ethiopia
+MZ418093	#c3cc66	Ethiopia
+MZ418091	#c3cc66	Ethiopia
+MZ418092	#c3cc66	Ethiopia
+MZ418086	#c3cc66	Ethiopia
+FJ947027	#99bfcc	Sudan
+EU853573	#66cc33	Tunisia
+GU798105	#66cc33	Tunisia
+EU853574	#66cc33	Tunisia
+EU853579	#66cc33	Tunisia
+GU798108	#66cc33	Tunisia
+EU643588	#66cc33	Tunisia
+GU798389	#66cc33	Tunisia
+GU798430	#6677cc	Morocco
+GU798396	#ccbf33	Algeria
+GU798548	#ccbf33	Algeria
+GU798549	#ccbf33	Algeria
+EU853566	#66cc33	Tunisia
+MN991297	#a166cc	Madagascar
+DQ420624	#a166cc	Madagascar
+KU055519	#a166cc	Madagascar
+LC380104	#cc99cc	Zambia
+KP257624	#8766cc	Democratic Republic of the Congo
+JQ691419	#cc99b2	Namibia
+KX148206	#cc99a5	Tanzania
+DQ900570	#cc99a5	Tanzania
+EU478503	#a599cc	Burkina Faso
+EU478504	#a599cc	Burkina Faso
+EU478510	#a599cc	Burkina Faso
+EU478523	#a599cc	Burkina Faso
+EU827270	#a599cc	Burkina Faso
+EU853650	#8ccc33	Niger
+EU478524	#a599cc	Burkina Faso
+KR080521	#99cca5	Nigeria
+EU888743	#99cca5	Nigeria
+EU514572	#8ccc33	Niger
+EU853643	#b2cc99	Senegal
+EU853622	#ccb299	Mali
+EU853614	#a599cc	Burkina Faso
+KP345881	#3fcc33	France
+EU853615	#99b2cc	Côte d'Ivoire
+EU888745	#99cca5	Nigeria
+EU888754	#99cca5	Nigeria
+EU888780	#99cca5	Nigeria
+EU888788	#99cca5	Nigeria
+EU514581	#aacc66	Mauritania
+MK471248	#99cc99	Guinea
+MF538629	#76cc66	Chad
+KT119778	#76cc66	Chad
+EU853652	#76cc66	Chad
+MN196561	#99cca5	Nigeria
+MN196562	#99cca5	Nigeria
+JQ692998	#cc3366	South Africa
+JF327504	#cc3366	South Africa
+JF327505	#cc3366	South Africa
+JN162086	#cc3366	South Africa
+GQ983487	#cc3366	South Africa
+KX148116	#333fcc	Poland
+LN879481	#cc99bf	Germany
+GU815999	#6690cc	Gabon
+KX148202	#6690cc	Gabon
+KT119785	#6690cc	Gabon
+AF325470	#6690cc	Gabon
+KU055517	#6690cc	Gabon
+FJ440104	#cc9999	Equatorial Guinea
+MF537568	#cc333f	Cameroon
+MF537571	#cc333f	Cameroon
+MF537572	#cc333f	Cameroon
+MF537574	#cc333f	Cameroon
+MF537569	#cc333f	Cameroon
+MF537570	#cc333f	Cameroon
+HM368109	#cc8866	Ghana
+HM368092	#cc8866	Ghana
+HM368103	#cc8866	Ghana
+HM368105	#cc8866	Ghana
+HM368112	#cc8866	Ghana
+HM368113	#cc8866	Ghana
+HM368117	#cc8866	Ghana
+HM368157	#cc8866	Ghana
+HM368163	#cc8866	Ghana
+HM368155	#cc8866	Ghana
+HM368162	#cc8866	Ghana
+HM368101	#cc8866	Ghana
+FJ947028	#99bfcc	Sudan
+MZ418099	#c3cc66	Ethiopia
+MZ418087	#c3cc66	Ethiopia
+KF831545	#66cc33	Tunisia
+EU643557	#66cc33	Tunisia
+EU643556	#66cc33	Tunisia
+GU798393	#66cc33	Tunisia
+KX148196	#6677cc	Morocco
+GU798126	#6677cc	Morocco
+GU798270	#ccbf33	Algeria
+GU798271	#6677cc	Morocco
+GU798272	#6677cc	Morocco
+GU798267	#ccbf33	Algeria
+GU798542	#6677cc	Morocco
+GU798558	#6677cc	Morocco
+GU798559	#6677cc	Morocco
+GU798557	#ccbf33	Algeria
+EU851123	#90cc66	Spain
+GU798261	#ccbf33	Algeria
+MN991296	#a166cc	Madagascar
+LC380214	#cc99cc	Zambia
+LC380215	#cc99cc	Zambia
+LC380216	#cc99cc	Zambia
+KT119637	#cccc99	Central African Republic
+KT119640	#cccc99	Central African Republic
+LC380206	#cc99cc	Zambia
+KT119776	#8766cc	Democratic Republic of the Congo
+AB284516	#cc99cc	Zambia
+LC380106	#cc99cc	Zambia
+DQ194877	#cc99b2	Namibia
+DQ194878	#cc99b2	Namibia
+DQ900579	#cc99a5	Tanzania
+DQ900557	#cc99a5	Tanzania
+DQ900549	#cc99a5	Tanzania
+DQ900569	#cc99a5	Tanzania
+EU478511	#a599cc	Burkina Faso
+EU478497	#a599cc	Burkina Faso
+KP976121	#ccb299	Mali
+HM368102	#cc8866	Ghana
+KC876039	#99cca5	Nigeria
+MH514968	#b2cc99	Senegal
+EU853623	#ccb299	Mali
+KU055538	#a599cc	Burkina Faso
+KP976119	#ccb299	Mali
+HM368142	#cc8866	Ghana
+FJ545681	#99b2cc	Côte d'Ivoire
+MN049979	#99a5cc	Liberia
+MK471246	#99cc99	Guinea
+KX148236	#aacc66	Mauritania
+EU853612	#ccb299	Mali
+EU853613	#aacc66	Mauritania
+KP976117	#ccb299	Mali
+HM368127	#cc8866	Ghana
+HM368152	#cc8866	Ghana
+HM368091	#cc8866	Ghana
+HM368093	#cc8866	Ghana
+HM368098	#cc8866	Ghana
+HM368124	#cc8866	Ghana
+HM368111	#cc8866	Ghana
+HM368154	#cc8866	Ghana
+EU888656	#99cca5	Nigeria
+KF977826	#cccc99	Central African Republic
+MK234794	#99cca5	Nigeria
+KF022184	#99cca5	Nigeria
+KF022180	#99cca5	Nigeria
+MF538630	#76cc66	Chad
+KF022189	#99cca5	Nigeria
+KF022191	#99cca5	Nigeria
+KF022173	#99cca5	Nigeria
+KF022175	#99cca5	Nigeria
+KF022177	#99cca5	Nigeria
+KF022188	#99cca5	Nigeria
+KF022186	#99cca5	Nigeria
+EU718783	#76cc66	Chad
+EU718771	#76cc66	Chad
+EU888679	#99cca5	Nigeria
+JX088735	#cc3366	South Africa
+JN162087	#cc3366	South Africa
+JQ756143	#cc3366	South Africa
+JN162082	#cc3366	South Africa
+FJ465389	#cc3366	South Africa
+KX148222	#cc3366	South Africa
+FJ465396	#cc3366	South Africa
+GQ983421	#cc3366	South Africa
+FJ465388	#cc3366	South Africa
+FJ465397	#cc3366	South Africa
+FJ465384	#cc3366	South Africa
+FJ392381	#cc3366	South Africa
+FJ465399	#cc3366	South Africa
+KX148220	#cc3366	South Africa
+MF197742	#333fcc	Poland
+OM542193	#333fcc	Poland
+KX148131	#9999cc	Slovenia
+KX148132	#9999cc	Slovenia
+MW553267	#6690cc	Gabon
+MW553268	#6690cc	Gabon
+MF537532	#cc333f	Cameroon
+MF537548	#cc333f	Cameroon
+MF537560	#cc333f	Cameroon
+MF537562	#cc333f	Cameroon
+MF537563	#cc333f	Cameroon
+MF537564	#cc333f	Cameroon
+MF537561	#cc333f	Cameroon
+MF537566	#cc333f	Cameroon
+MF537565	#cc333f	Cameroon
+MF537567	#cc333f	Cameroon
+HQ256771	#cc8866	Ghana
+HM368108	#cc8866	Ghana
+HM368096	#cc8866	Ghana
+MZ418097	#c3cc66	Ethiopia
+MZ418098	#c3cc66	Ethiopia
+GU798104	#66cc33	Tunisia
+EU853575	#66cc33	Tunisia
+GU798103	#66cc33	Tunisia
+GU798392	#66cc33	Tunisia
+EU853570	#6677cc	Morocco
+GU798112	#6677cc	Morocco
+GU798111	#6677cc	Morocco
+GU798119	#6677cc	Morocco
+GU798579	#ccbf33	Algeria
+GU798576	#ccbf33	Algeria
+EU643583	#66cc33	Tunisia
+GU798555	#6677cc	Morocco
+GU798556	#6677cc	Morocco
+EU643587	#66cc33	Tunisia
+EU853568	#ccbf33	Algeria
+GU798289	#ccbf33	Algeria
+GU798296	#ccbf33	Algeria
+GU798273	#ccbf33	Algeria
+KC787053	#a166cc	Madagascar
+KC787050	#a166cc	Madagascar
+LC380185	#cc99cc	Zambia
+LC380219	#cc99cc	Zambia
+LC380178	#cc99cc	Zambia
+LC380179	#cc99cc	Zambia
+LC380218	#cc99cc	Zambia
+LC380183	#cc99cc	Zambia
+KT119650	#cccc99	Central African Republic
+LC380217	#cc99cc	Zambia
+LC380198	#cc99cc	Zambia
+LC380127	#cc99cc	Zambia
+LC380102	#cc99cc	Zambia
+LC380107	#cc99cc	Zambia
+MN264706	#8766cc	Democratic Republic of the Congo
+EU296441	#cc99a5	Tanzania
+DQ900556	#cc99a5	Tanzania
+EU514573	#8ccc33	Niger
+EU514574	#8ccc33	Niger
+EU478501	#a599cc	Burkina Faso
+EU853641	#b2cc99	Senegal
+KX148238	#b2cc99	Senegal
+KX148239	#b2cc99	Senegal
+EU853638	#b2cc99	Senegal
+EU853644	#b2cc99	Senegal
+FJ545661	#b2cc99	Senegal
+KP976123	#ccb299	Mali
+KP976118	#ccb299	Mali
+KP976120	#ccb299	Mali
+FJ545659	#99b2cc	Côte d'Ivoire
+FJ545684	#99b2cc	Côte d'Ivoire
+MH481713	#99a5cc	Liberia
+MN049981	#99a5cc	Liberia
+MH481711	#99a5cc	Liberia
+MN049983	#99a5cc	Liberia
+EU853606	#aacc66	Mauritania
+EU853607	#aacc66	Mauritania
+EU853608	#aacc66	Mauritania
+KX148237	#aacc66	Mauritania
+EU718774	#76cc66	Chad
+EU718775	#76cc66	Chad
+EU718778	#76cc66	Chad
+EU718779	#76cc66	Chad
+EU718780	#76cc66	Chad
+EU718781	#76cc66	Chad
+EU718782	#76cc66	Chad
+EU718786	#76cc66	Chad
+EU718767	#76cc66	Chad
+KF022179	#99cca5	Nigeria
+KF022187	#99cca5	Nigeria
+KF022178	#99cca5	Nigeria
+KF022185	#99cca5	Nigeria
+MF577065	#76cc66	Chad
+MF538631	#76cc66	Chad
+EU718776	#76cc66	Chad
+EU718777	#76cc66	Chad
+KF022181	#99cca5	Nigeria
+JQ756145	#cc3366	South Africa
+JQ756144	#cc3366	South Africa
+JN162078	#cc3366	South Africa
+JN162081	#cc3366	South Africa
+JN162089	#cc3366	South Africa
+FJ465406	#cc3366	South Africa
+FJ465405	#cc3366	South Africa
+JX088733	#cc3366	South Africa
+JX088736	#cc3366	South Africa
+KC535504	#cc3366	South Africa
+FJ465393	#cc3366	South Africa
+GQ983459	#cc3366	South Africa
+MF537552	#cc333f	Cameroon
+MF537553	#cc333f	Cameroon
+MF537531	#cc333f	Cameroon
+MF537515	#cc333f	Cameroon
+MF537516	#cc333f	Cameroon
+MF537517	#cc333f	Cameroon
+MF537505	#cc333f	Cameroon
+MF537506	#cc333f	Cameroon
+MF537507	#cc333f	Cameroon
+MF537508	#cc333f	Cameroon
+MF537509	#cc333f	Cameroon
+MF537510	#cc333f	Cameroon
+MF537511	#cc333f	Cameroon
+MF537512	#cc333f	Cameroon
+MF537513	#cc333f	Cameroon
+MF537514	#cc333f	Cameroon
+MF537544	#cc333f	Cameroon
+HM368107	#cc8866	Ghana
+HM368129	#cc8866	Ghana
+HM368138	#cc8866	Ghana
+HM368148	#cc8866	Ghana
+HM368150	#cc8866	Ghana
+HM368106	#cc8866	Ghana
+HM368120	#cc8866	Ghana
+HM368149	#cc8866	Ghana
+HM368145	#cc8866	Ghana
+HM368110	#cc8866	Ghana
+HM368128	#cc8866	Ghana
+HM368134	#cc8866	Ghana
+KJ133676	#66aacc	Uganda
+MN726819	#bfcc99	Kenya
+AB505879	#66aacc	Uganda
+AB505881	#66aacc	Uganda
+KJ133669	#66aacc	Uganda
+KJ133672	#66aacc	Uganda
+KX148200	#c3cc66	Ethiopia
+EU853580	#c3cc66	Ethiopia
+EU853576	#66cc33	Tunisia
+GU798106	#66cc33	Tunisia
+GU798395	#66cc33	Tunisia
+GU798391	#66cc33	Tunisia
+GU798390	#66cc33	Tunisia
+EU851128	#90cc66	Spain
+GU798143	#6677cc	Morocco
+GU798125	#6677cc	Morocco
+EU853569	#6677cc	Morocco
+GU798412	#6677cc	Morocco
+GU798127	#6677cc	Morocco
+GU798128	#6677cc	Morocco
+KX148195	#6677cc	Morocco
+GU798553	#ccbf33	Algeria
+GU798141	#6677cc	Morocco
+GU798268	#6677cc	Morocco
+GU798269	#6677cc	Morocco
+GU798544	#6677cc	Morocco
+GU798545	#6677cc	Morocco
+GU798547	#6677cc	Morocco
+GU798262	#ccbf33	Algeria
+GU798370	#ccbf33	Algeria
+EU853567	#ccbf33	Algeria
+GU798297	#ccbf33	Algeria
+GU798295	#ccbf33	Algeria
+GU798293	#ccbf33	Algeria
+GU798384	#ccbf33	Algeria
+KT119648	#cccc99	Central African Republic
+KT119649	#cccc99	Central African Republic
+KX148103	#cc3366	South Africa
+LC380128	#cc99cc	Zambia
+LC380173	#cc99cc	Zambia
+AB572988	#cc99cc	Zambia
+MF425813	#cc6677	Zimbabwe
+LC380195	#cc99cc	Zambia
+AB572931	#cc99cc	Zambia
+AB284513	#cc99cc	Zambia
+LC380155	#cc6677	Zimbabwe
+LC380108	#cc99cc	Zambia
+AB572934	#cc99cc	Zambia
+MN264703	#8766cc	Democratic Republic of the Congo
+MN264694	#8766cc	Democratic Republic of the Congo
+MN264711	#8766cc	Democratic Republic of the Congo
+MN264695	#8766cc	Democratic Republic of the Congo
+DQ900550	#cc99a5	Tanzania
+HM368094	#cc8866	Ghana
+DQ900565	#cc99a5	Tanzania
+DQ900561	#cc99a5	Tanzania
+EU296434	#cc99a5	Tanzania
+KR534252	#cc99a5	Tanzania
+KR906744	#cc99a5	Tanzania
+DQ900573	#cc99a5	Tanzania
+DQ900559	#cc99a5	Tanzania
+EU478506	#a599cc	Burkina Faso
+EU478513	#a599cc	Burkina Faso
+EU478509	#a599cc	Burkina Faso
+HM368151	#cc8866	Ghana
+HM368153	#cc8866	Ghana
+HM368126	#cc8866	Ghana
+HM368131	#cc8866	Ghana
+HM368132	#cc8866	Ghana
+HM368139	#cc8866	Ghana
+HM368140	#cc8866	Ghana
+HM368146	#cc8866	Ghana
+HM368097	#cc8866	Ghana
+HM368118	#cc8866	Ghana
+HM368122	#cc8866	Ghana
+HM368125	#cc8866	Ghana
+MT370504	#a5cc99	Benin
+MT370505	#a5cc99	Benin
+EU853640	#b2cc99	Senegal
+MH514971	#b2cc99	Senegal
+MH514982	#b2cc99	Senegal
+EU853619	#99b2cc	Côte d'Ivoire
+KX148233	#99b2cc	Côte d'Ivoire
+MN049982	#99a5cc	Liberia
+MH481712	#99a5cc	Liberia
+KU739042	#aacc66	Mauritania
+EU853605	#ccb299	Mali
+KP976116	#ccb299	Mali
+FJ545667	#aacc66	Mauritania
+EU853653	#76cc66	Chad
+KT119786	#76cc66	Chad
+KT119758	#cccc99	Central African Republic
+KC196743	#99cca5	Nigeria
+MN166229	#99cca5	Nigeria
+DQ275559	#76cc66	Chad
+DQ275560	#76cc66	Chad
+MF773575	#99cca5	Nigeria
+KJ921999	#99cca5	Nigeria
+MF537576	#cc333f	Cameroon
+MF537578	#cc333f	Cameroon
+MF537579	#cc333f	Cameroon
+JX088734	#cc3366	South Africa
+JN162085	#cc3366	South Africa
+KC660352	#cc3366	South Africa
+JN162090	#cc3366	South Africa
+JX088737	#cc3366	South Africa
+JN162076	#cc3366	South Africa
+JN162088	#cc3366	South Africa
+KT119788	#cc333f	Cameroon
+KT119794	#cc333f	Cameroon
+MF537519	#cc333f	Cameroon
+MF537520	#cc333f	Cameroon
+EU296444	#cc99a5	Tanzania
+MF537559	#cc333f	Cameroon
+MF537558	#cc333f	Cameroon
+HM368123	#cc8866	Ghana
+HM368130	#cc8866	Ghana
+HM368135	#cc8866	Ghana
+HM368136	#cc8866	Ghana
+HM368137	#cc8866	Ghana
+HM368141	#cc8866	Ghana
+HM368144	#cc8866	Ghana
+HM368147	#cc8866	Ghana
+HM368156	#cc8866	Ghana
+HM368158	#cc8866	Ghana
+HM368160	#cc8866	Ghana
+HM368161	#cc8866	Ghana
+HM368159	#cc8866	Ghana
+HQ256770	#cc8866	Ghana
+HQ256772	#cc8866	Ghana
+HM368099	#cc8866	Ghana
+HM368104	#cc8866	Ghana
+HM368114	#cc8866	Ghana
+HM368115	#cc8866	Ghana
+FJ947019	#99bfcc	Sudan
+FJ947029	#99bfcc	Sudan
+FJ947017	#99bfcc	Sudan
+KJ133660	#66aacc	Uganda
+KP723638	#c3cc66	Ethiopia
+GU062189	#c3cc66	Ethiopia
+GU798394	#66cc33	Tunisia
+GU798107	#66cc33	Tunisia
+GU798406	#6677cc	Morocco
+GU798407	#6677cc	Morocco
+GU798122	#6677cc	Morocco
+AF401287	#6677cc	Morocco
+GU798120	#6677cc	Morocco
+GU798118	#6677cc	Morocco
+GU798117	#6677cc	Morocco
+GU798116	#6677cc	Morocco
+GU798578	#ccbf33	Algeria
+GU798580	#ccbf33	Algeria
+GU798583	#ccbf33	Algeria
+EU643584	#66cc33	Tunisia
+GU798543	#6677cc	Morocco
+GU798546	#6677cc	Morocco
+GU798290	#ccbf33	Algeria
+GU798294	#ccbf33	Algeria
+GU798291	#ccbf33	Algeria
+GU798292	#ccbf33	Algeria
+GU798329	#ccbf33	Algeria
+GU798313	#ccbf33	Algeria
+GU798360	#ccbf33	Algeria
+GU798349	#ccbf33	Algeria
+GU798359	#ccbf33	Algeria
+GU798363	#ccbf33	Algeria
+GU798364	#ccbf33	Algeria
+GU798365	#ccbf33	Algeria
+GU798366	#ccbf33	Algeria
+GU798367	#ccbf33	Algeria
+GU798368	#ccbf33	Algeria
+GU798284	#ccbf33	Algeria
+GU798380	#ccbf33	Algeria
+GU798381	#ccbf33	Algeria
+GU798386	#ccbf33	Algeria
+GU798383	#ccbf33	Algeria
+GU798385	#ccbf33	Algeria
+KT119647	#cccc99	Central African Republic
+KT119652	#cccc99	Central African Republic
+KT119663	#cccc99	Central African Republic
+KT119665	#cccc99	Central African Republic
+KT119638	#cccc99	Central African Republic
+KT119639	#cccc99	Central African Republic
+KT119641	#cccc99	Central African Republic
+KT119642	#cccc99	Central African Republic
+KT119643	#cccc99	Central African Republic
+KT119644	#cccc99	Central African Republic
+KT119645	#cccc99	Central African Republic
+KT119646	#cccc99	Central African Republic
+KT119651	#cccc99	Central African Republic
+KT119653	#cccc99	Central African Republic
+KT119654	#cccc99	Central African Republic
+KT119655	#cccc99	Central African Republic
+KT119656	#cccc99	Central African Republic
+KT119657	#cccc99	Central African Republic
+KT119664	#cccc99	Central African Republic
+KT119635	#cccc99	Central African Republic
+KT119636	#cccc99	Central African Republic
+KT119634	#cccc99	Central African Republic
+KY553257	#cc3366	South Africa
+LC380199	#cc99cc	Zambia
+LC380172	#cc99cc	Zambia
+LC380197	#cc99cc	Zambia
+LC380162	#cc99cc	Zambia
+LC380161	#cc99cc	Zambia
+LC380163	#cc99cc	Zambia
+MK467477	#cc3366	South Africa
+MK467478	#cc3366	South Africa
+LC683173	#cc338c	Malawi
+LC683175	#cc338c	Malawi
+LC380164	#cc99cc	Zambia
+LC380211	#cc99cc	Zambia
+AB284510	#cc99cc	Zambia
+AB285215	#cc99cc	Zambia
+AB284509	#cc99cc	Zambia
+LC380129	#cc99cc	Zambia
+AB572928	#cc99cc	Zambia
+LC380122	#cc99cc	Zambia
+LC380143	#cc99cc	Zambia
+LC380160	#cc6677	Zimbabwe
+MN264700	#8766cc	Democratic Republic of the Congo
+MN264698	#8766cc	Democratic Republic of the Congo
+MN264702	#8766cc	Democratic Republic of the Congo
+KY210263	#cc99a5	Tanzania
+KR906779	#cc99a5	Tanzania
+KY210309	#cc99a5	Tanzania
+KR906739	#cc99a5	Tanzania
+DQ900574	#cc99a5	Tanzania
+DQ900551	#cc99a5	Tanzania
+DQ900547	#cc99a5	Tanzania
+AB505874	#66aacc	Uganda
+KC792032	#bfcc99	Kenya
+EU478516	#a599cc	Burkina Faso
+EU478498	#a599cc	Burkina Faso
+MN196576	#99cca5	Nigeria
+MT370506	#a5cc99	Benin
+MT370501	#a5cc99	Benin
+MT370503	#a5cc99	Benin
+MT370502	#a5cc99	Benin
+MT370507	#a5cc99	Benin
+EU853637	#b2cc99	Senegal
+EU853639	#b2cc99	Senegal
+MH514983	#b2cc99	Senegal
+MH514985	#b2cc99	Senegal
+KP976130	#ccb299	Mali
+KP976129	#ccb299	Mali
+KP976128	#ccb299	Mali
+EU853616	#99b2cc	Côte d'Ivoire
+EU853617	#99b2cc	Côte d'Ivoire
+KX148232	#99b2cc	Côte d'Ivoire
+MK471249	#99cc99	Guinea
+EU853602	#ccb299	Mali
+EU853604	#ccb299	Mali
+EU853601	#ccb299	Mali
+EU853611	#aacc66	Mauritania
+EU853609	#aacc66	Mauritania
+EU853610	#aacc66	Mauritania
+KY124540	#76cc66	Chad
+KY124541	#76cc66	Chad
+KU564994	#76cc66	Chad
+KU564999	#76cc66	Chad
+KY124533	#76cc66	Chad
+EU718784	#76cc66	Chad
+EU718787	#76cc66	Chad
+EU718764	#76cc66	Chad
+EU718769	#76cc66	Chad
+EU718772	#76cc66	Chad
+EU718773	#76cc66	Chad
+EU718785	#76cc66	Chad
+KF734680	#cccc99	Central African Republic
+KT119769	#cccc99	Central African Republic
+KT119757	#cccc99	Central African Republic
+KT119760	#cccc99	Central African Republic
+EU038098	#99cca5	Nigeria
+EU888662	#99cca5	Nigeria
+KU564983	#76cc66	Chad
+KU564984	#76cc66	Chad
+KU564986	#76cc66	Chad
+KU564991	#76cc66	Chad
+KU564987	#76cc66	Chad
+KY124534	#76cc66	Chad
+KU564990	#76cc66	Chad
+MF773572	#99cca5	Nigeria
+FJ435700	#99cca5	Nigeria
+KR080523	#99cca5	Nigeria
+KX874613	#99cca5	Nigeria
+EU038093	#99cca5	Nigeria
+EU888666	#99cca5	Nigeria
+EU888724	#99cca5	Nigeria
+MF537577	#cc333f	Cameroon
+MF537580	#cc333f	Cameroon
+GQ918329	#cc3366	South Africa
+MF537542	#cc333f	Cameroon
+MF537543	#cc333f	Cameroon
+MF537530	#cc333f	Cameroon
+EU296445	#cc99a5	Tanzania
+EU296446	#cc99a5	Tanzania
+FJ947012	#99bfcc	Sudan
+FJ947005	#99bfcc	Sudan
+FJ947024	#99bfcc	Sudan
+FJ947014	#99bfcc	Sudan
+KJ133667	#66aacc	Uganda
+KJ133683	#66aacc	Uganda
+MN726830	#bfcc99	Kenya
+MW055050	#bfcc99	Kenya
+MZ418083	#c3cc66	Ethiopia
+GU798682	#66cc33	Tunisia
+EU853578	#66cc33	Tunisia
+GU798144	#ccbf33	Algeria
+GU798235	#6677cc	Morocco
+EU851122	#90cc66	Spain
+GU798253	#6677cc	Morocco
+EU851124	#90cc66	Spain
+GU798684	#6677cc	Morocco
+GU798133	#6677cc	Morocco
+GU798134	#6677cc	Morocco
+GU798408	#6677cc	Morocco
+GU798123	#6677cc	Morocco
+GU798124	#6677cc	Morocco
+GU798113	#6677cc	Morocco
+GU798584	#ccbf33	Algeria
+GU798585	#ccbf33	Algeria
+EU643572	#66cc33	Tunisia
+EU643581	#66cc33	Tunisia
+EU643582	#66cc33	Tunisia
+GU798316	#ccbf33	Algeria
+GU798326	#ccbf33	Algeria
+GU798321	#ccbf33	Algeria
+GU798327	#ccbf33	Algeria
+GU798328	#ccbf33	Algeria
+GU798362	#ccbf33	Algeria
+GU798286	#ccbf33	Algeria
+GU798287	#ccbf33	Algeria
+GU798288	#ccbf33	Algeria
+GU798274	#ccbf33	Algeria
+GU798285	#ccbf33	Algeria
+GU798280	#ccbf33	Algeria
+GU798277	#ccbf33	Algeria
+GU798279	#ccbf33	Algeria
+GU798371	#ccbf33	Algeria
+GU798382	#ccbf33	Algeria
+EU853586	#cccc99	Central African Republic
+KY563717	#cc6677	Zimbabwe
+HQ266629	#cc3366	South Africa
+MK467514	#cc3366	South Africa
+LC380207	#cc99cc	Zambia
+KY553279	#cc6677	Zimbabwe
+LC380186	#cc99cc	Zambia
+LC380189	#cc99cc	Zambia
+LC380196	#cc99cc	Zambia
+LC380231	#cc6677	Zimbabwe
+AB572996	#cc99cc	Zambia
+LC380119	#cc99cc	Zambia
+LC380135	#cc99cc	Zambia
+MN264691	#8766cc	Democratic Republic of the Congo
+MN264693	#8766cc	Democratic Republic of the Congo
+MN264692	#8766cc	Democratic Republic of the Congo
+MN264696	#8766cc	Democratic Republic of the Congo
+MN264697	#8766cc	Democratic Republic of the Congo
+MN264699	#8766cc	Democratic Republic of the Congo
+MN264701	#8766cc	Democratic Republic of the Congo
+MN264704	#8766cc	Democratic Republic of the Congo
+MN264705	#8766cc	Democratic Republic of the Congo
+MN264707	#8766cc	Democratic Republic of the Congo
+MN264708	#8766cc	Democratic Republic of the Congo
+MN264709	#8766cc	Democratic Republic of the Congo
+MN264710	#8766cc	Democratic Republic of the Congo
+DQ900564	#cc99a5	Tanzania
+KY210252	#cc99a5	Tanzania
+DQ900572	#cc99a5	Tanzania
+KY210311	#cc99a5	Tanzania
+DQ900577	#cc99a5	Tanzania
+DQ900576	#cc99a5	Tanzania
+DQ900558	#cc99a5	Tanzania
+DQ900575	#cc99a5	Tanzania
+DQ900571	#cc99a5	Tanzania
+KX148207	#bfcc99	Kenya
+KJ133663	#66aacc	Uganda
+DQ900552	#cc99a5	Tanzania
+DQ900548	#cc99a5	Tanzania
+DQ900560	#cc99a5	Tanzania
+EU478493	#a599cc	Burkina Faso
+EU827269	#a599cc	Burkina Faso
+EU478494	#a599cc	Burkina Faso
+EU478495	#a599cc	Burkina Faso
+EU478496	#a599cc	Burkina Faso
+EU478507	#a599cc	Burkina Faso
+EU478514	#a599cc	Burkina Faso
+EU827268	#a599cc	Burkina Faso
+EU478512	#a599cc	Burkina Faso
+EU478505	#a599cc	Burkina Faso
+EU853627	#b2cc99	Senegal
+MH514969	#b2cc99	Senegal
+MH514976	#b2cc99	Senegal
+KP976126	#ccb299	Mali
+EU853618	#99b2cc	Côte d'Ivoire
+FJ545676	#99b2cc	Côte d'Ivoire
+MH481709	#99a5cc	Liberia
+EU888797	#99cca5	Nigeria
+EU888740	#99cca5	Nigeria
+EU888741	#99cca5	Nigeria
+EU888763	#99cca5	Nigeria
+EU888764	#99cca5	Nigeria
+EU888775	#99cca5	Nigeria
+EU888792	#99cca5	Nigeria
+EU888744	#99cca5	Nigeria
+EU888733	#99cca5	Nigeria
+EU888734	#99cca5	Nigeria
+EU718763	#76cc66	Chad
+EU718770	#76cc66	Chad
+EU718766	#76cc66	Chad
+EU718768	#76cc66	Chad
+KT119766	#cccc99	Central African Republic
+KT119768	#cccc99	Central African Republic
+KT119770	#cccc99	Central African Republic
+KT119761	#cccc99	Central African Republic
+KT119658	#cccc99	Central African Republic
+KT119728	#cccc99	Central African Republic
+KT119756	#cccc99	Central African Republic
+KT119759	#cccc99	Central African Republic
+KT119762	#cccc99	Central African Republic
+KT119763	#cccc99	Central African Republic
+KT119764	#cccc99	Central African Republic
+KT119765	#cccc99	Central African Republic
+KF734713	#cccc99	Central African Republic
+KF734717	#cccc99	Central African Republic
+KF734719	#cccc99	Central African Republic
+KF734724	#cccc99	Central African Republic
+KF734726	#cccc99	Central African Republic
+KF734730	#cccc99	Central African Republic
+KF734731	#cccc99	Central African Republic
+KF734732	#cccc99	Central African Republic
+KF734733	#cccc99	Central African Republic
+KF734737	#cccc99	Central African Republic
+KF734677	#cccc99	Central African Republic
+KF734679	#cccc99	Central African Republic
+KF734683	#cccc99	Central African Republic
+KF734684	#cccc99	Central African Republic
+KF734685	#cccc99	Central African Republic
+KF734689	#cccc99	Central African Republic
+KF734691	#cccc99	Central African Republic
+KF734692	#cccc99	Central African Republic
+KF734695	#cccc99	Central African Republic
+KF734701	#cccc99	Central African Republic
+KF734702	#cccc99	Central African Republic
+KF734711	#cccc99	Central African Republic
+EU038096	#99cca5	Nigeria
+EU038097	#99cca5	Nigeria
+EU038099	#99cca5	Nigeria
+KF022183	#99cca5	Nigeria
+EU038082	#99cca5	Nigeria
+EU038083	#99cca5	Nigeria
+KU564995	#76cc66	Chad
+KU564982	#76cc66	Chad
+KU564985	#76cc66	Chad
+KU564992	#76cc66	Chad
+KY124535	#76cc66	Chad
+KY124532	#76cc66	Chad
+EU888649	#99cca5	Nigeria
+EU888682	#99cca5	Nigeria
+MF537557	#cc333f	Cameroon
+MF537555	#cc333f	Cameroon
+MF537556	#cc333f	Cameroon
+KT119791	#cc333f	Cameroon
+KT119787	#cc333f	Cameroon
+KT119790	#cc333f	Cameroon
+FJ947021	#99bfcc	Sudan
+FJ947013	#99bfcc	Sudan
+FJ947022	#99bfcc	Sudan
+FJ947026	#99bfcc	Sudan
+FJ947010	#99bfcc	Sudan
+FJ947011	#99bfcc	Sudan
+FJ947006	#99bfcc	Sudan
+MW055051	#bfcc99	Kenya
+MZ418084	#c3cc66	Ethiopia
+MZ418088	#c3cc66	Ethiopia
+MZ418089	#c3cc66	Ethiopia
+MZ418090	#c3cc66	Ethiopia
+MZ418079	#c3cc66	Ethiopia
+GU798676	#66cc33	Tunisia
+MK981888	#66cc33	Tunisia
+GU798145	#ccbf33	Algeria
+GU798236	#6677cc	Morocco
+KX148193	#6677cc	Morocco
+EU851120	#90cc66	Spain
+GU798708	#6677cc	Morocco
+GU798709	#6677cc	Morocco
+GU798829	#6677cc	Morocco
+GU798121	#6677cc	Morocco
+KF155001	#6677cc	Morocco
+GU798114	#6677cc	Morocco
+GU798115	#6677cc	Morocco
+GU798582	#ccbf33	Algeria
+GU798560	#ccbf33	Algeria
+GU798657	#ccbf33	Algeria
+GU798661	#ccbf33	Algeria
+EU643585	#66cc33	Tunisia
+EU643586	#66cc33	Tunisia
+EU643578	#66cc33	Tunisia
+EU643563	#66cc33	Tunisia
+EU643564	#66cc33	Tunisia
+EU643565	#66cc33	Tunisia
+EU643566	#66cc33	Tunisia
+EU643567	#66cc33	Tunisia
+EU643577	#66cc33	Tunisia
+GU798312	#ccbf33	Algeria
+GU798331	#ccbf33	Algeria
+GU798336	#ccbf33	Algeria
+GU798342	#ccbf33	Algeria
+GU798319	#ccbf33	Algeria
+GU798310	#ccbf33	Algeria
+GU798304	#ccbf33	Algeria
+GU798334	#ccbf33	Algeria
+GU798333	#ccbf33	Algeria
+GU798330	#ccbf33	Algeria
+GU798621	#ccbf33	Algeria
+KU055515	#6677cc	Morocco
+GU798600	#ccbf33	Algeria
+GU798636	#ccbf33	Algeria
+GU798361	#ccbf33	Algeria
+GU798602	#ccbf33	Algeria
+KX148197	#ccbf33	Algeria
+GU798354	#ccbf33	Algeria
+GU798278	#ccbf33	Algeria
+GU798275	#ccbf33	Algeria
+GU798276	#ccbf33	Algeria
+GU798387	#ccbf33	Algeria
+GU798388	#ccbf33	Algeria
+GU798374	#ccbf33	Algeria
+EU853590	#cccc99	Central African Republic
+KT119753	#cccc99	Central African Republic
+KT119710	#cccc99	Central African Republic
+KT119752	#cccc99	Central African Republic
+EU853584	#cccc99	Central African Republic
+EU853585	#cccc99	Central African Republic
+KT336434	#cc6677	Zimbabwe
+JF327498	#cc3366	South Africa
+HM179504	#cc3366	South Africa
+DQ194866	#cc99b2	Namibia
+DQ194867	#cc99b2	Namibia
+DQ489810	#cc3366	South Africa
+DQ489862	#cc3366	South Africa
+DQ489880	#cc3366	South Africa
+KY553259	#cc3366	South Africa
+LC380177	#cc99cc	Zambia
+HQ266621	#cc3366	South Africa
+LC380190	#cc99cc	Zambia
+LC380191	#cc99cc	Zambia
+LC380236	#cc6677	Zimbabwe
+AB572962	#cc99cc	Zambia
+AB572969	#cc99cc	Zambia
+AB572967	#cc99cc	Zambia
+AB572994	#cc99cc	Zambia
+AB572978	#cc99cc	Zambia
+AB572968	#cc99cc	Zambia
+AB572970	#cc99cc	Zambia
+AB572971	#cc99cc	Zambia
+AB572972	#cc99cc	Zambia
+AB572973	#cc99cc	Zambia
+AB572974	#cc99cc	Zambia
+AB572975	#cc99cc	Zambia
+AB572976	#cc99cc	Zambia
+AB572977	#cc99cc	Zambia
+AB572983	#cc99cc	Zambia
+AB572984	#cc99cc	Zambia
+AB572989	#cc99cc	Zambia
+AB572990	#cc99cc	Zambia
+AB572991	#cc99cc	Zambia
+AB572995	#cc99cc	Zambia
+LC380174	#cc99cc	Zambia
+AB572982	#cc99cc	Zambia
+LC380175	#cc99cc	Zambia
+AB284512	#cc99cc	Zambia
+AB284515	#cc99cc	Zambia
+AB284511	#cc99cc	Zambia
+DQ900562	#cc99a5	Tanzania
+KY210245	#cc99a5	Tanzania
+KR906790	#cc99a5	Tanzania
+MN726831	#bfcc99	Kenya
+MW055117	#bfcc99	Kenya
+MN726816	#bfcc99	Kenya
+MW055042	#bfcc99	Kenya
+EU853635	#b2cc99	Senegal
+EU853634	#b2cc99	Senegal
+MH514972	#b2cc99	Senegal
+MH514981	#b2cc99	Senegal
+KP976124	#ccb299	Mali
+KP976127	#ccb299	Mali
+MH481708	#99a5cc	Liberia
+MH481710	#99a5cc	Liberia
+EU514578	#aacc66	Mauritania
+EU514579	#aacc66	Mauritania
+EU514577	#aacc66	Mauritania
+EU853596	#ccb299	Mali
+EU853597	#ccb299	Mali
+EU853598	#ccb299	Mali
+EU853599	#ccb299	Mali
+EU853600	#ccb299	Mali
+KY124538	#76cc66	Chad
+KF022174	#99cca5	Nigeria
+KF022182	#99cca5	Nigeria
+EU888708	#99cca5	Nigeria
+EU038092	#99cca5	Nigeria
+EU888703	#99cca5	Nigeria
+KY124537	#76cc66	Chad
+KY124539	#76cc66	Chad
+KU564980	#76cc66	Chad
+KU564988	#76cc66	Chad
+KU564996	#76cc66	Chad
+MF537541	#cc333f	Cameroon
+MF537533	#cc333f	Cameroon
+MF537534	#cc333f	Cameroon
+MF537535	#cc333f	Cameroon
+MF537536	#cc333f	Cameroon
+MF537539	#cc333f	Cameroon
+MF537540	#cc333f	Cameroon
+MF537549	#cc333f	Cameroon
+KT119795	#cc333f	Cameroon
+KT119793	#cc333f	Cameroon
+MF537518	#cc333f	Cameroon
+MF537524	#cc333f	Cameroon
+FJ947023	#99bfcc	Sudan
+FJ947025	#99bfcc	Sudan
+FJ947020	#99bfcc	Sudan
+MW055056	#bfcc99	Kenya
+MW055053	#bfcc99	Kenya
+MW055052	#bfcc99	Kenya
+MW055049	#bfcc99	Kenya
+MZ418078	#c3cc66	Ethiopia
+GU798677	#66cc33	Tunisia
+KU739050	#66cc33	Tunisia
+GU798681	#66cc33	Tunisia
+GU798205	#6677cc	Morocco
+GU798199	#6677cc	Morocco
+GU798241	#6677cc	Morocco
+GU798242	#6677cc	Morocco
+GU798232	#6677cc	Morocco
+GU798522	#6677cc	Morocco
+KU739044	#90cc66	Spain
+GU798539	#6677cc	Morocco
+GU798252	#6677cc	Morocco
+EU851126	#90cc66	Spain
+GU798243	#6677cc	Morocco
+GU798244	#6677cc	Morocco
+GU798832	#6677cc	Morocco
+GU798830	#6677cc	Morocco
+GU798831	#6677cc	Morocco
+GU798833	#6677cc	Morocco
+GU798834	#6677cc	Morocco
+GU798129	#6677cc	Morocco
+GU798135	#6677cc	Morocco
+GU798130	#6677cc	Morocco
+GU798701	#6677cc	Morocco
+GU798707	#6677cc	Morocco
+GU798702	#6677cc	Morocco
+GU798703	#6677cc	Morocco
+GU798704	#6677cc	Morocco
+GU798705	#6677cc	Morocco
+GU798706	#6677cc	Morocco
+GU798409	#6677cc	Morocco
+GU798398	#6677cc	Morocco
+GU798401	#6677cc	Morocco
+GU798402	#6677cc	Morocco
+GU798400	#6677cc	Morocco
+GU798581	#ccbf33	Algeria
+GU798656	#ccbf33	Algeria
+GU798667	#ccbf33	Algeria
+GU798660	#ccbf33	Algeria
+EU643579	#66cc33	Tunisia
+EU643580	#66cc33	Tunisia
+EU643568	#66cc33	Tunisia
+GU798337	#ccbf33	Algeria
+GU798338	#ccbf33	Algeria
+GU798341	#ccbf33	Algeria
+GU798339	#ccbf33	Algeria
+GU798340	#ccbf33	Algeria
+GU798320	#ccbf33	Algeria
+GU798357	#ccbf33	Algeria
+GU798311	#ccbf33	Algeria
+GU798299	#ccbf33	Algeria
+GU798346	#ccbf33	Algeria
+GU798318	#ccbf33	Algeria
+GU798332	#ccbf33	Algeria
+GU798335	#ccbf33	Algeria
+GU798343	#ccbf33	Algeria
+GU798344	#ccbf33	Algeria
+GU798345	#ccbf33	Algeria
+GU798618	#ccbf33	Algeria
+GU798605	#ccbf33	Algeria
+GU798626	#ccbf33	Algeria
+GU798601	#ccbf33	Algeria
+GU798637	#ccbf33	Algeria
+GU798355	#ccbf33	Algeria
+GU798283	#ccbf33	Algeria
+GU798377	#ccbf33	Algeria
+EU853589	#cccc99	Central African Republic
+EU853587	#cccc99	Central African Republic
+EU853588	#cccc99	Central African Republic
+KT119660	#cccc99	Central African Republic
+KF734690	#cccc99	Central African Republic
+MF537575	#cc333f	Cameroon
+KY563715	#cc6677	Zimbabwe
+HQ266628	#cc3366	South Africa
+DQ489896	#cc3366	South Africa
+DQ489904	#cc3366	South Africa
+MT454642	#cc3366	South Africa
+DQ194900	#cc3366	South Africa
+DQ489798	#cc3366	South Africa
+KT892006	#cc3366	South Africa
+MK467463	#cc3366	South Africa
+MK467465	#cc3366	South Africa
+MK467467	#cc3366	South Africa
+MK467469	#cc3366	South Africa
+MK467470	#cc3366	South Africa
+MK467472	#cc3366	South Africa
+MK467475	#cc3366	South Africa
+MK467480	#cc3366	South Africa
+DQ786032	#cc3366	South Africa
+MK467461	#cc3366	South Africa
+MK467462	#cc3366	South Africa
+LC380165	#cc99cc	Zambia
+LC380193	#cc99cc	Zambia
+HQ266610	#cc3366	South Africa
+HQ266625	#cc3366	South Africa
+MF425799	#cc6677	Zimbabwe
+LC380213	#cc99cc	Zambia
+AB572981	#cc99cc	Zambia
+AB572979	#cc99cc	Zambia
+AB572980	#cc99cc	Zambia
+AB572985	#cc99cc	Zambia
+AB572992	#cc99cc	Zambia
+AB572993	#cc99cc	Zambia
+LC380166	#cc99cc	Zambia
+AB284514	#cc99cc	Zambia
+LC380096	#cc99cc	Zambia
+AB572958	#cc99cc	Zambia
+AB572945	#cc99cc	Zambia
+AB572957	#cc99cc	Zambia
+DQ900563	#cc99a5	Tanzania
+DQ900578	#cc99a5	Tanzania
+MW055113	#bfcc99	Kenya
+MW055114	#bfcc99	Kenya
+EU478500	#a599cc	Burkina Faso
+EU478520	#a599cc	Burkina Faso
+EU827272	#a599cc	Burkina Faso
+EU827274	#a599cc	Burkina Faso
+MH514970	#b2cc99	Senegal
+EU853636	#b2cc99	Senegal
+EU853633	#b2cc99	Senegal
+MH514977	#b2cc99	Senegal
+MH514980	#b2cc99	Senegal
+MH514978	#b2cc99	Senegal
+MH514984	#b2cc99	Senegal
+MH514975	#b2cc99	Senegal
+EU888795	#99cca5	Nigeria
+EU888796	#99cca5	Nigeria
+EU888799	#99cca5	Nigeria
+EU888800	#99cca5	Nigeria
+EU888801	#99cca5	Nigeria
+EU888802	#99cca5	Nigeria
+FJ435707	#99cca5	Nigeria
+FJ435708	#99cca5	Nigeria
+FJ435709	#99cca5	Nigeria
+FJ435710	#99cca5	Nigeria
+FJ435711	#99cca5	Nigeria
+FJ435712	#99cca5	Nigeria
+EU888731	#99cca5	Nigeria
+EU888732	#99cca5	Nigeria
+EU888736	#99cca5	Nigeria
+EU888737	#99cca5	Nigeria
+EU888738	#99cca5	Nigeria
+EU888739	#99cca5	Nigeria
+EU888742	#99cca5	Nigeria
+EU888749	#99cca5	Nigeria
+EU888750	#99cca5	Nigeria
+EU888751	#99cca5	Nigeria
+EU888752	#99cca5	Nigeria
+EU888753	#99cca5	Nigeria
+EU888755	#99cca5	Nigeria
+EU888756	#99cca5	Nigeria
+EU888757	#99cca5	Nigeria
+EU888758	#99cca5	Nigeria
+EU888759	#99cca5	Nigeria
+EU888761	#99cca5	Nigeria
+EU888762	#99cca5	Nigeria
+EU888765	#99cca5	Nigeria
+EU888766	#99cca5	Nigeria
+EU888767	#99cca5	Nigeria
+EU888769	#99cca5	Nigeria
+EU888771	#99cca5	Nigeria
+EU888772	#99cca5	Nigeria
+EU888774	#99cca5	Nigeria
+EU888776	#99cca5	Nigeria
+EU888777	#99cca5	Nigeria
+EU888778	#99cca5	Nigeria
+EU888779	#99cca5	Nigeria
+EU888781	#99cca5	Nigeria
+EU888782	#99cca5	Nigeria
+EU888783	#99cca5	Nigeria
+EU888784	#99cca5	Nigeria
+EU888785	#99cca5	Nigeria
+EU888786	#99cca5	Nigeria
+EU888787	#99cca5	Nigeria
+EU888789	#99cca5	Nigeria
+EU888791	#99cca5	Nigeria
+EU888794	#99cca5	Nigeria
+EU514576	#aacc66	Mauritania
+KP976114	#ccb299	Mali
+KP976115	#ccb299	Mali
+KU564989	#76cc66	Chad
+KY124536	#76cc66	Chad
+KU564981	#76cc66	Chad
+EU888681	#99cca5	Nigeria
+EU888712	#99cca5	Nigeria
+EU888713	#99cca5	Nigeria
+EU888722	#99cca5	Nigeria
+MK144830	#99cca5	Nigeria
+EU038091	#99cca5	Nigeria
+EU888702	#99cca5	Nigeria
+KU564997	#76cc66	Chad
+KU564998	#76cc66	Chad
+MF537554	#cc333f	Cameroon
+KT119789	#cc333f	Cameroon
+KT119792	#cc333f	Cameroon
+MF537537	#cc333f	Cameroon
+MF537538	#cc333f	Cameroon
+MF537529	#cc333f	Cameroon
+MF537547	#cc333f	Cameroon
+FJ947016	#99bfcc	Sudan
+FJ947004	#99bfcc	Sudan
+MN726812	#bfcc99	Kenya
+MN726805	#bfcc99	Kenya
+MZ418076	#c3cc66	Ethiopia
+MZ418077	#c3cc66	Ethiopia
+MZ417949	#c3cc66	Ethiopia
+MZ418082	#c3cc66	Ethiopia
+GU798680	#66cc33	Tunisia
+GU798678	#66cc33	Tunisia
+GU798679	#66cc33	Tunisia
+GU798156	#6677cc	Morocco
+GU798147	#6677cc	Morocco
+GU798206	#6677cc	Morocco
+GU798207	#6677cc	Morocco
+GU798208	#6677cc	Morocco
+GU798209	#6677cc	Morocco
+GU798200	#6677cc	Morocco
+GU798198	#6677cc	Morocco
+GU798196	#6677cc	Morocco
+GU798197	#6677cc	Morocco
+GU798177	#6677cc	Morocco
+GU798237	#6677cc	Morocco
+GU798238	#6677cc	Morocco
+GU798239	#6677cc	Morocco
+GU798240	#6677cc	Morocco
+GU798234	#6677cc	Morocco
+GU798233	#6677cc	Morocco
+GU798231	#6677cc	Morocco
+GU798138	#6677cc	Morocco
+GU798136	#6677cc	Morocco
+GU798137	#6677cc	Morocco
+GU798212	#6677cc	Morocco
+GU798211	#6677cc	Morocco
+GU798541	#6677cc	Morocco
+GU798520	#6677cc	Morocco
+GU798535	#6677cc	Morocco
+GU798537	#6677cc	Morocco
+GU798249	#6677cc	Morocco
+EU851121	#90cc66	Spain
+EU851125	#90cc66	Spain
+GU798683	#ccbf33	Algeria
+GU798131	#6677cc	Morocco
+GU798132	#6677cc	Morocco
+GU798700	#6677cc	Morocco
+GU798410	#6677cc	Morocco
+GU798411	#6677cc	Morocco
+GU798399	#6677cc	Morocco
+GU798403	#6677cc	Morocco
+GU798668	#ccbf33	Algeria
+GU798662	#ccbf33	Algeria
+EU643574	#66cc33	Tunisia
+GU798315	#ccbf33	Algeria
+GU798358	#ccbf33	Algeria
+GU798348	#ccbf33	Algeria
+GU798322	#ccbf33	Algeria
+GU798325	#ccbf33	Algeria
+GU798317	#ccbf33	Algeria
+GU798307	#ccbf33	Algeria
+GU798617	#ccbf33	Algeria
+GU798608	#ccbf33	Algeria
+GU798629	#ccbf33	Algeria
+GU798633	#ccbf33	Algeria
+GU798635	#ccbf33	Algeria
+GU798648	#ccbf33	Algeria
+GU798653	#ccbf33	Algeria
+GU798352	#ccbf33	Algeria
+GU798353	#ccbf33	Algeria
+GU798356	#ccbf33	Algeria
+GU798350	#ccbf33	Algeria
+GU798351	#ccbf33	Algeria
+GU798281	#ccbf33	Algeria
+GU798282	#ccbf33	Algeria
+GU798376	#ccbf33	Algeria
+KT119714	#cccc99	Central African Republic
+KT119670	#cccc99	Central African Republic
+KT119698	#cccc99	Central African Republic
+KF734696	#cccc99	Central African Republic
+KF734729	#cccc99	Central African Republic
+KF734734	#cccc99	Central African Republic
+KF734693	#cccc99	Central African Republic
+KF734694	#cccc99	Central African Republic
+KF734735	#cccc99	Central African Republic
+LC682841	#cc338c	Malawi
+MG458318	#cc3366	South Africa
+KM262045	#9933cc	Mozambique
+KM262038	#9933cc	Mozambique
+KM262042	#9933cc	Mozambique
+DQ489887	#cc3366	South Africa
+DQ489893	#cc3366	South Africa
+DQ489888	#cc3366	South Africa
+DQ489903	#cc3366	South Africa
+DQ194876	#cc99b2	Namibia
+DQ194879	#cc99b2	Namibia
+DQ194884	#cc99b2	Namibia
+DQ194863	#cc99b2	Namibia
+DQ194869	#cc99b2	Namibia
+DQ194872	#cc99b2	Namibia
+DQ194873	#cc99b2	Namibia
+DQ194874	#cc99b2	Namibia
+KX148204	#cc99b2	Namibia
+DQ489861	#cc3366	South Africa
+DQ489878	#cc3366	South Africa
+MK467519	#cc3366	South Africa
+MK467494	#cc3366	South Africa
+DQ489892	#cc3366	South Africa
+JQ691433	#cc99b2	Namibia
+DQ489859	#cc3366	South Africa
+DQ489884	#cc3366	South Africa
+DQ194893	#cc3366	South Africa
+DQ489802	#cc3366	South Africa
+DQ489858	#cc3366	South Africa
+DQ489901	#cc3366	South Africa
+KY553264	#cc3366	South Africa
+DQ489796	#cc3366	South Africa
+HM179507	#cc3366	South Africa
+KY553256	#cc3366	South Africa
+KY553280	#cc6677	Zimbabwe
+KY553272	#cc6677	Zimbabwe
+KT336433	#cc6677	Zimbabwe
+KY553282	#cc6677	Zimbabwe
+MN602878	#cc6677	Zimbabwe
+MN602879	#cc6677	Zimbabwe
+AB572964	#cc99cc	Zambia
+AB572965	#cc99cc	Zambia
+AB572966	#cc99cc	Zambia
+LC380205	#cc99cc	Zambia
+LC380208	#cc99cc	Zambia
+LC380209	#cc99cc	Zambia
+LC380210	#cc99cc	Zambia
+LC380168	#cc99cc	Zambia
+LC380176	#cc99cc	Zambia
+LC380167	#cc99cc	Zambia
+LC380114	#cc99cc	Zambia
+AB284508	#cc99cc	Zambia
+AB572951	#cc99cc	Zambia
+AB572961	#cc99cc	Zambia
+AB572940	#cc99cc	Zambia
+AB572941	#cc99cc	Zambia
+AB572943	#cc99cc	Zambia
+AB572950	#cc99cc	Zambia
+AB572936	#cc99cc	Zambia
+AB572929	#cc99cc	Zambia
+AB284507	#cc99cc	Zambia
+KY210223	#cc99a5	Tanzania
+KR906734	#cc99a5	Tanzania
+KR534219	#cc99a5	Tanzania
+EU853632	#b2cc99	Senegal
+FJ545665	#b2cc99	Senegal
+MH514979	#b2cc99	Senegal
+MH514974	#b2cc99	Senegal
+MH514973	#b2cc99	Senegal
+EU853629	#b2cc99	Senegal
+EU853628	#b2cc99	Senegal
+EU888746	#99cca5	Nigeria
+EU514575	#aacc66	Mauritania
+EU514580	#aacc66	Mauritania
+EU038086	#99cca5	Nigeria
+EU038084	#99cca5	Nigeria
+EU038085	#99cca5	Nigeria
+EU038088	#99cca5	Nigeria
+EU038089	#99cca5	Nigeria
+EU888665	#99cca5	Nigeria
+KX874609	#99cca5	Nigeria
+EU038094	#99cca5	Nigeria
+EU888700	#99cca5	Nigeria
+EU038095	#99cca5	Nigeria
+MF537550	#cc333f	Cameroon
+MF537551	#cc333f	Cameroon
+MF537521	#cc333f	Cameroon
+MF537523	#cc333f	Cameroon
+MF537546	#cc333f	Cameroon
+FJ947015	#99bfcc	Sudan
+FJ947018	#99bfcc	Sudan
+MW055054	#bfcc99	Kenya
+MZ418004	#c3cc66	Ethiopia
+MZ418080	#c3cc66	Ethiopia
+MZ418081	#c3cc66	Ethiopia
+GU798146	#6677cc	Morocco
+GU798148	#6677cc	Morocco
+GU798201	#6677cc	Morocco
+GU798202	#6677cc	Morocco
+GU798203	#6677cc	Morocco
+GU798204	#6677cc	Morocco
+GU798193	#6677cc	Morocco
+GU798174	#6677cc	Morocco
+GU798162	#6677cc	Morocco
+GU798139	#6677cc	Morocco
+GU798140	#6677cc	Morocco
+GU798213	#6677cc	Morocco
+GU798210	#6677cc	Morocco
+GU798222	#6677cc	Morocco
+GU798518	#6677cc	Morocco
+GU798423	#6677cc	Morocco
+GU798480	#6677cc	Morocco
+GU798487	#6677cc	Morocco
+GU798538	#6677cc	Morocco
+GU798540	#6677cc	Morocco
+GU798254	#6677cc	Morocco
+GU798251	#6677cc	Morocco
+GU798397	#6677cc	Morocco
+GU798404	#6677cc	Morocco
+GU798405	#6677cc	Morocco
+GU798567	#ccbf33	Algeria
+GU798568	#ccbf33	Algeria
+GU798565	#ccbf33	Algeria
+GU798566	#ccbf33	Algeria
+GU798669	#ccbf33	Algeria
+GU798347	#ccbf33	Algeria
+GU798314	#ccbf33	Algeria
+GU798324	#ccbf33	Algeria
+GU798323	#ccbf33	Algeria
+GU798306	#ccbf33	Algeria
+GU798300	#ccbf33	Algeria
+GU798301	#ccbf33	Algeria
+GU798302	#ccbf33	Algeria
+GU798303	#ccbf33	Algeria
+GU798640	#ccbf33	Algeria
+GU798638	#ccbf33	Algeria
+GU798639	#ccbf33	Algeria
+GU798641	#ccbf33	Algeria
+KT119716	#cccc99	Central African Republic
+KT119780	#cccc99	Central African Republic
+KT119781	#cccc99	Central African Republic
+LC380150	#cc6677	Zimbabwe
+KR906746	#cc99a5	Tanzania
+KR906747	#cc99a5	Tanzania
+KR906751	#cc99a5	Tanzania
+KR906757	#cc99a5	Tanzania
+LC682844	#cc338c	Malawi
+LC682847	#cc338c	Malawi
+LC682843	#cc338c	Malawi
+LC682845	#cc338c	Malawi
+LC682855	#cc338c	Malawi
+LC682829	#cc338c	Malawi
+KT336435	#cc6677	Zimbabwe
+KY553267	#cc6677	Zimbabwe
+GQ918318	#cc3366	South Africa
+KM262043	#9933cc	Mozambique
+KX148203	#9933cc	Mozambique
+LC380154	#cc6677	Zimbabwe
+KT892007	#cc3366	South Africa
+KT892010	#cc3366	South Africa
+KT892011	#cc3366	South Africa
+KT892012	#cc3366	South Africa
+KT892008	#cc3366	South Africa
+KT892009	#cc3366	South Africa
+KY553258	#cc3366	South Africa
+DQ489822	#cc3366	South Africa
+DQ489869	#cc3366	South Africa
+MT454638	#cc3366	South Africa
+DQ489850	#cc3366	South Africa
+DQ489900	#cc3366	South Africa
+MK467466	#cc3366	South Africa
+MK467481	#cc3366	South Africa
+KF831554	#cc6677	Zimbabwe
+LC380171	#cc99cc	Zambia
+LC380194	#cc99cc	Zambia
+LC380136	#cc99cc	Zambia
+AB572944	#cc99cc	Zambia
+AB572960	#cc99cc	Zambia
+LC380140	#cc99cc	Zambia
+LC380111	#cc99cc	Zambia
+AB572935	#cc99cc	Zambia
+AB572937	#cc99cc	Zambia
+AB572938	#cc99cc	Zambia
+AB572939	#cc99cc	Zambia
+AB572946	#cc99cc	Zambia
+AB572947	#cc99cc	Zambia
+AB572949	#cc99cc	Zambia
+AB572948	#cc99cc	Zambia
+AB572933	#cc99cc	Zambia
+MW055045	#bfcc99	Kenya
+MW055044	#bfcc99	Kenya
+MW055115	#bfcc99	Kenya
+MN726821	#bfcc99	Kenya
+MW055046	#bfcc99	Kenya
+KY210280	#cc99a5	Tanzania
+KY210264	#cc99a5	Tanzania
+MN726833	#cc99a5	Tanzania
+KY210242	#cc99a5	Tanzania
+EU853630	#b2cc99	Senegal
+EU853631	#b2cc99	Senegal
+EU888747	#99cca5	Nigeria
+EU888773	#99cca5	Nigeria
+EU888793	#99cca5	Nigeria
+EU888730	#99cca5	Nigeria
+EU888768	#99cca5	Nigeria
+EU888710	#99cca5	Nigeria
+FJ435696	#99cca5	Nigeria
+KX874611	#99cca5	Nigeria
+EU038106	#99cca5	Nigeria
+EU888727	#99cca5	Nigeria
+FJ435697	#99cca5	Nigeria
+EU888723	#99cca5	Nigeria
+EU038090	#99cca5	Nigeria
+EU888642	#99cca5	Nigeria
+EU888701	#99cca5	Nigeria
+MF537545	#cc333f	Cameroon
+FJ947008	#99bfcc	Sudan
+FJ947009	#99bfcc	Sudan
+MW055112	#bfcc99	Kenya
+MW074787	#bfcc99	Kenya
+MW074785	#bfcc99	Kenya
+MW055055	#bfcc99	Kenya
+MW055057	#bfcc99	Kenya
+MZ417963	#c3cc66	Ethiopia
+GU798153	#6677cc	Morocco
+GU798154	#6677cc	Morocco
+GU798155	#6677cc	Morocco
+GU798150	#6677cc	Morocco
+GU798151	#6677cc	Morocco
+GU798152	#6677cc	Morocco
+GU798184	#6677cc	Morocco
+GU798168	#6677cc	Morocco
+GU798170	#6677cc	Morocco
+GU798171	#6677cc	Morocco
+GU798172	#6677cc	Morocco
+GU798173	#6677cc	Morocco
+GU798163	#6677cc	Morocco
+GU798519	#6677cc	Morocco
+GU798434	#6677cc	Morocco
+GU798424	#6677cc	Morocco
+GU798477	#6677cc	Morocco
+GU798248	#6677cc	Morocco
+GU798250	#6677cc	Morocco
+GU798685	#6677cc	Morocco
+GU798686	#6677cc	Morocco
+GU798413	#6677cc	Morocco
+GU798573	#ccbf33	Algeria
+GU798561	#ccbf33	Algeria
+GU798572	#ccbf33	Algeria
+GU798562	#ccbf33	Algeria
+GU798563	#ccbf33	Algeria
+GU798569	#ccbf33	Algeria
+GU798570	#ccbf33	Algeria
+GU798659	#ccbf33	Algeria
+GU798666	#ccbf33	Algeria
+GU798577	#ccbf33	Algeria
+GU798664	#ccbf33	Algeria
+EU643576	#66cc33	Tunisia
+EU643573	#66cc33	Tunisia
+EU643569	#66cc33	Tunisia
+EU643575	#66cc33	Tunisia
+GU798305	#ccbf33	Algeria
+GU798642	#ccbf33	Algeria
+GU798643	#ccbf33	Algeria
+GU798647	#ccbf33	Algeria
+GU798644	#ccbf33	Algeria
+GU798888	#ccbf33	Algeria
+GU798369	#ccbf33	Algeria
+GU798378	#ccbf33	Algeria
+KT119725	#cccc99	Central African Republic
+KT119721	#cccc99	Central African Republic
+KT119722	#cccc99	Central African Republic
+KT119719	#cccc99	Central African Republic
+KT119667	#cccc99	Central African Republic
+KT119693	#cccc99	Central African Republic
+KT119696	#cccc99	Central African Republic
+KT119701	#cccc99	Central African Republic
+LC380147	#cc6677	Zimbabwe
+LC380230	#cc6677	Zimbabwe
+LC380227	#cc6677	Zimbabwe
+LC380225	#cc6677	Zimbabwe
+LC380221	#cc6677	Zimbabwe
+LC682849	#cc338c	Malawi
+LC682852	#cc338c	Malawi
+MW349550	#9933cc	Mozambique
+LC682823	#cc338c	Malawi
+LC380103	#cc99cc	Zambia
+LC380139	#cc99cc	Zambia
+KT336437	#cc3366	South Africa
+KY553269	#cc6677	Zimbabwe
+HQ266609	#cc3366	South Africa
+KC535505	#cc3366	South Africa
+LC682830	#cc338c	Malawi
+LC682828	#cc338c	Malawi
+DQ194889	#cc99b2	Namibia
+JQ691434	#cc99b2	Namibia
+JQ691435	#cc99b2	Namibia
+JQ691450	#cc99b2	Namibia
+JQ691451	#cc99b2	Namibia
+JQ691454	#cc99b2	Namibia
+JQ691455	#cc99b2	Namibia
+JQ691456	#cc99b2	Namibia
+JQ691452	#cc99b2	Namibia
+JX473838	#cc99b2	Namibia
+JX473839	#cc99b2	Namibia
+MT454646	#cc3366	South Africa
+JQ691445	#cc99b2	Namibia
+DQ194864	#cc99b2	Namibia
+DQ194865	#cc99b2	Namibia
+DQ194868	#cc99b2	Namibia
+DQ194870	#cc99b2	Namibia
+DQ194871	#cc99b2	Namibia
+JQ691425	#cc99b2	Namibia
+JQ691436	#cc99b2	Namibia
+JQ691458	#cc99b2	Namibia
+HQ266611	#cc3366	South Africa
+DQ194875	#cc99b2	Namibia
+KY553276	#cc3366	South Africa
+DQ194882	#cc99b2	Namibia
+KY553263	#cc3366	South Africa
+DQ489885	#cc3366	South Africa
+DQ489898	#cc3366	South Africa
+DQ489826	#cc3366	South Africa
+DQ489864	#cc3366	South Africa
+DQ489823	#cc3366	South Africa
+MT454633	#cc3366	South Africa
+MK467495	#cc3366	South Africa
+DQ489833	#cc3366	South Africa
+DQ489866	#cc3366	South Africa
+DQ489838	#cc3366	South Africa
+DQ194895	#cc3366	South Africa
+KF831529	#cc6677	Zimbabwe
+HM179506	#cc3366	South Africa
+KY553261	#cc3366	South Africa
+KF831555	#cc6677	Zimbabwe
+AB572987	#cc99cc	Zambia
+AB572963	#cc99cc	Zambia
+AB572986	#cc99cc	Zambia
+LC380113	#cc99cc	Zambia
+AB572955	#cc99cc	Zambia
+AB572956	#cc99cc	Zambia
+AB572959	#cc99cc	Zambia
+AB572930	#cc99cc	Zambia
+AB572954	#cc99cc	Zambia
+AB572953	#cc99cc	Zambia
+MN726814	#bfcc99	Kenya
+MW055116	#bfcc99	Kenya
+KY210266	#cc99a5	Tanzania
+MW055043	#bfcc99	Kenya
+MW055047	#bfcc99	Kenya
+KR906769	#cc99a5	Tanzania
+KY210275	#cc99a5	Tanzania
+EU888735	#99cca5	Nigeria
+EU888748	#99cca5	Nigeria
+EU888760	#99cca5	Nigeria
+EU888798	#99cca5	Nigeria
+FJ435704	#99cca5	Nigeria
+KC876040	#99cca5	Nigeria
+EU038087	#99cca5	Nigeria
+EU888678	#99cca5	Nigeria
+EU038103	#99cca5	Nigeria
+EU888645	#99cca5	Nigeria
+MF537526	#cc333f	Cameroon
+MF537527	#cc333f	Cameroon
+MF537528	#cc333f	Cameroon
+MF537522	#cc333f	Cameroon
+MF537525	#cc333f	Cameroon
+MW055123	#bfcc99	Kenya
+GU798149	#6677cc	Morocco
+GU798183	#6677cc	Morocco
+GU798185	#6677cc	Morocco
+GU798186	#6677cc	Morocco
+GU798179	#6677cc	Morocco
+GU798181	#6677cc	Morocco
+GU798182	#6677cc	Morocco
+GU798175	#6677cc	Morocco
+GU798176	#6677cc	Morocco
+GU798178	#6677cc	Morocco
+GU798180	#6677cc	Morocco
+GU798167	#6677cc	Morocco
+GU798169	#6677cc	Morocco
+GU798165	#6677cc	Morocco
+GU798214	#6677cc	Morocco
+GU798433	#6677cc	Morocco
+GU798435	#6677cc	Morocco
+GU798431	#ccbf33	Algeria
+GU798432	#ccbf33	Algeria
+GU798425	#6677cc	Morocco
+GU798478	#6677cc	Morocco
+GU798492	#6677cc	Morocco
+GU798822	#6677cc	Morocco
+GU798823	#6677cc	Morocco
+GU798824	#6677cc	Morocco
+GU798825	#6677cc	Morocco
+GU798826	#6677cc	Morocco
+GU798827	#6677cc	Morocco
+GU798828	#6677cc	Morocco
+GU798715	#6677cc	Morocco
+GU798718	#ccbf33	Algeria
+GU798719	#ccbf33	Algeria
+GU798720	#6677cc	Morocco
+GU798721	#6677cc	Morocco
+GU798722	#6677cc	Morocco
+GU798724	#6677cc	Morocco
+GU798726	#6677cc	Morocco
+GU798727	#6677cc	Morocco
+GU798730	#6677cc	Morocco
+GU798737	#6677cc	Morocco
+GU798738	#6677cc	Morocco
+GU798739	#6677cc	Morocco
+GU798741	#6677cc	Morocco
+GU798742	#6677cc	Morocco
+GU798743	#6677cc	Morocco
+GU798757	#6677cc	Morocco
+GU798759	#6677cc	Morocco
+GU798762	#6677cc	Morocco
+GU798767	#6677cc	Morocco
+GU798768	#6677cc	Morocco
+GU798784	#6677cc	Morocco
+GU798786	#6677cc	Morocco
+GU798788	#6677cc	Morocco
+GU798793	#6677cc	Morocco
+GU798794	#6677cc	Morocco
+GU798795	#6677cc	Morocco
+GU798796	#6677cc	Morocco
+GU798797	#6677cc	Morocco
+GU798798	#6677cc	Morocco
+GU798799	#6677cc	Morocco
+GU798800	#6677cc	Morocco
+GU798801	#6677cc	Morocco
+GU798802	#6677cc	Morocco
+GU798803	#6677cc	Morocco
+GU798804	#6677cc	Morocco
+GU798809	#6677cc	Morocco
+GU798811	#6677cc	Morocco
+GU798813	#6677cc	Morocco
+GU798814	#6677cc	Morocco
+GU798815	#6677cc	Morocco
+GU798816	#6677cc	Morocco
+GU798817	#6677cc	Morocco
+GU798818	#6677cc	Morocco
+GU798711	#6677cc	Morocco
+GU798841	#ccbf33	Algeria
+GU798693	#6677cc	Morocco
+GU798695	#6677cc	Morocco
+GU798574	#ccbf33	Algeria
+GU798575	#ccbf33	Algeria
+GU798564	#ccbf33	Algeria
+GU798571	#ccbf33	Algeria
+GU798670	#ccbf33	Algeria
+GU798658	#ccbf33	Algeria
+GU798663	#ccbf33	Algeria
+GU798665	#ccbf33	Algeria
+GU798308	#ccbf33	Algeria
+GU798309	#ccbf33	Algeria
+GU798606	#ccbf33	Algeria
+GU798599	#ccbf33	Algeria
+GU798609	#ccbf33	Algeria
+GU798610	#ccbf33	Algeria
+GU798654	#ccbf33	Algeria
+GU798655	#ccbf33	Algeria
+GU798649	#ccbf33	Algeria
+GU798650	#ccbf33	Algeria
+GU798651	#ccbf33	Algeria
+GU798652	#ccbf33	Algeria
+GU798645	#ccbf33	Algeria
+GU798646	#ccbf33	Algeria
+GU798931	#ccbf33	Algeria
+GU798909	#ccbf33	Algeria
+GU798901	#ccbf33	Algeria
+GU798372	#ccbf33	Algeria
+GU798373	#ccbf33	Algeria
+GU798375	#ccbf33	Algeria
+GU798379	#ccbf33	Algeria
+KT119751	#cccc99	Central African Republic
+KT119682	#cccc99	Central African Republic
+KT119741	#cccc99	Central African Republic
+KT119659	#cccc99	Central African Republic
+KT119661	#cccc99	Central African Republic
+KT119662	#cccc99	Central African Republic
+KT119666	#cccc99	Central African Republic
+KT119668	#cccc99	Central African Republic
+KT119669	#cccc99	Central African Republic
+KT119671	#cccc99	Central African Republic
+KT119672	#cccc99	Central African Republic
+KT119674	#cccc99	Central African Republic
+KT119675	#cccc99	Central African Republic
+KT119676	#cccc99	Central African Republic
+KT119677	#cccc99	Central African Republic
+KT119678	#cccc99	Central African Republic
+KT119679	#cccc99	Central African Republic
+KT119680	#cccc99	Central African Republic
+KT119681	#cccc99	Central African Republic
+KT119683	#cccc99	Central African Republic
+KT119684	#cccc99	Central African Republic
+KT119685	#cccc99	Central African Republic
+KT119686	#cccc99	Central African Republic
+KT119687	#cccc99	Central African Republic
+KT119689	#cccc99	Central African Republic
+KT119690	#cccc99	Central African Republic
+KT119691	#cccc99	Central African Republic
+KT119692	#cccc99	Central African Republic
+KT119694	#cccc99	Central African Republic
+KT119695	#cccc99	Central African Republic
+KT119697	#cccc99	Central African Republic
+KT119699	#cccc99	Central African Republic
+KT119700	#cccc99	Central African Republic
+KT119702	#cccc99	Central African Republic
+KT119703	#cccc99	Central African Republic
+KT119704	#cccc99	Central African Republic
+KT119705	#cccc99	Central African Republic
+KT119706	#cccc99	Central African Republic
+KT119707	#cccc99	Central African Republic
+KT119708	#cccc99	Central African Republic
+KT119709	#cccc99	Central African Republic
+KT119711	#cccc99	Central African Republic
+KT119713	#cccc99	Central African Republic
+KT119717	#cccc99	Central African Republic
+KT119718	#cccc99	Central African Republic
+KT119726	#cccc99	Central African Republic
+KT119727	#cccc99	Central African Republic
+KT119729	#cccc99	Central African Republic
+KT119734	#cccc99	Central African Republic
+KT119735	#cccc99	Central African Republic
+KT119737	#cccc99	Central African Republic
+KT119738	#cccc99	Central African Republic
+KT119739	#cccc99	Central African Republic
+KT119740	#cccc99	Central African Republic
+KT119742	#cccc99	Central African Republic
+KT119743	#cccc99	Central African Republic
+KT119744	#cccc99	Central African Republic
+KT119745	#cccc99	Central African Republic
+KT119746	#cccc99	Central African Republic
+KT119748	#cccc99	Central African Republic
+KT119749	#cccc99	Central African Republic
+KT119750	#cccc99	Central African Republic
+KT119673	#cccc99	Central African Republic
+KT119747	#cccc99	Central African Republic
+KT119688	#cccc99	Central African Republic
+KT119720	#cccc99	Central African Republic
+KT119715	#cccc99	Central African Republic
+LC380151	#cc6677	Zimbabwe
+MT454644	#cc3366	South Africa
+MW248384	#9933cc	Mozambique
+LC682827	#cc338c	Malawi
+KY563716	#cc6677	Zimbabwe
+AY605006	#cc6677	Zimbabwe
+AY605014	#cc6677	Zimbabwe
+KU739040	#66cca1	Botswana
+LC380229	#cc6677	Zimbabwe
+FJ842754	#cc3366	South Africa
+FJ842737	#cc3366	South Africa
+FJ842738	#cc3366	South Africa
+FJ842739	#cc3366	South Africa
+FJ842744	#cc3366	South Africa
+FJ842745	#cc3366	South Africa
+FJ842752	#cc3366	South Africa
+FJ842755	#cc3366	South Africa
+KM262049	#9933cc	Mozambique
+KM262048	#9933cc	Mozambique
+KM262047	#9933cc	Mozambique
+MW349549	#9933cc	Mozambique
+KT336436	#cc3366	South Africa
+JF747614	#cc3366	South Africa
+JN016749	#cc3366	South Africa
+KP994618	#cc3366	South Africa
+JX473841	#cc99b2	Namibia
+DQ194881	#cc99b2	Namibia
+DQ194890	#cc99b2	Namibia
+KY553275	#cc3366	South Africa
+KY553260	#cc3366	South Africa
+KY553262	#cc3366	South Africa
+DQ489808	#cc3366	South Africa
+DQ194892	#cc3366	South Africa
+DQ489799	#cc3366	South Africa
+DQ489853	#cc3366	South Africa
+DQ489856	#cc3366	South Africa
+DQ489841	#cc3366	South Africa
+DQ489851	#cc3366	South Africa
+DQ489852	#cc3366	South Africa
+KY553265	#cc6677	Zimbabwe
+KY563718	#cc6677	Zimbabwe
+KY553268	#cc6677	Zimbabwe
+KY553270	#cc6677	Zimbabwe
+MK467487	#cc3366	South Africa
+MK467479	#cc3366	South Africa
+MK467483	#cc3366	South Africa
+LC380090	#cc99cc	Zambia
+AB572942	#cc99cc	Zambia
+AB572952	#cc99cc	Zambia
+AY502138	#bfcc99	Kenya
+KY210306	#cc99a5	Tanzania
+KR906743	#cc99a5	Tanzania
+KY210253	#cc99a5	Tanzania
+KY210254	#cc99a5	Tanzania
+KY210255	#cc99a5	Tanzania
+KY210256	#cc99a5	Tanzania
+FJ435698	#99cca5	Nigeria
+EU888652	#99cca5	Nigeria
+EU888690	#99cca5	Nigeria
+EU888654	#99cca5	Nigeria
+EU888657	#99cca5	Nigeria
+EU888667	#99cca5	Nigeria
+EU888672	#99cca5	Nigeria
+EU888673	#99cca5	Nigeria
+EU888674	#99cca5	Nigeria
+EU888676	#99cca5	Nigeria
+EU888677	#99cca5	Nigeria
+EU888684	#99cca5	Nigeria
+EU888686	#99cca5	Nigeria
+EU888687	#99cca5	Nigeria
+EU888691	#99cca5	Nigeria
+EU888694	#99cca5	Nigeria
+EU888698	#99cca5	Nigeria
+EU888704	#99cca5	Nigeria
+EU888705	#99cca5	Nigeria
+EU888707	#99cca5	Nigeria
+EU888709	#99cca5	Nigeria
+EU888711	#99cca5	Nigeria
+EU888715	#99cca5	Nigeria
+EU888716	#99cca5	Nigeria
+EU888718	#99cca5	Nigeria
+EU888719	#99cca5	Nigeria
+EU888725	#99cca5	Nigeria
+EU888726	#99cca5	Nigeria
+EU888728	#99cca5	Nigeria
+FJ435695	#99cca5	Nigeria
+FJ435699	#99cca5	Nigeria
+FJ435702	#99cca5	Nigeria
+FJ435706	#99cca5	Nigeria
+EU888644	#99cca5	Nigeria
+EU888646	#99cca5	Nigeria
+EU888650	#99cca5	Nigeria
+EU888651	#99cca5	Nigeria
+MF773571	#99cca5	Nigeria
+EU038104	#99cca5	Nigeria
+EU038100	#99cca5	Nigeria
+EU038101	#99cca5	Nigeria
+MW055119	#bfcc99	Kenya
+MW055121	#bfcc99	Kenya
+MW055122	#bfcc99	Kenya
+MW055120	#bfcc99	Kenya
+MW055118	#bfcc99	Kenya
+MZ417945	#c3cc66	Ethiopia
+MZ417946	#c3cc66	Ethiopia
+GU798157	#6677cc	Morocco
+GU798158	#6677cc	Morocco
+GU798159	#6677cc	Morocco
+GU798160	#6677cc	Morocco
+GU798187	#6677cc	Morocco
+GU798188	#6677cc	Morocco
+GU798194	#6677cc	Morocco
+GU798195	#6677cc	Morocco
+GU798191	#6677cc	Morocco
+GU798166	#6677cc	Morocco
+GU798164	#6677cc	Morocco
+GU798215	#6677cc	Morocco
+GU798221	#6677cc	Morocco
+GU798227	#6677cc	Morocco
+GU798228	#6677cc	Morocco
+GU798216	#6677cc	Morocco
+GU798219	#6677cc	Morocco
+GU798442	#6677cc	Morocco
+GU798443	#6677cc	Morocco
+GU798446	#6677cc	Morocco
+GU798447	#6677cc	Morocco
+GU798426	#6677cc	Morocco
+GU798427	#6677cc	Morocco
+GU798494	#6677cc	Morocco
+GU798488	#6677cc	Morocco
+GU798810	#6677cc	Morocco
+GU798772	#6677cc	Morocco
+GU798770	#6677cc	Morocco
+GU798771	#6677cc	Morocco
+GU798806	#6677cc	Morocco
+GU798865	#ccbf33	Algeria
+GU798866	#ccbf33	Algeria
+GU798844	#ccbf33	Algeria
+GU798845	#6677cc	Morocco
+GU798846	#6677cc	Morocco
+GU798842	#6677cc	Morocco
+GU798843	#6677cc	Morocco
+GU798692	#6677cc	Morocco
+GU798694	#6677cc	Morocco
+GU798414	#6677cc	Morocco
+GU798415	#6677cc	Morocco
+GU798671	#ccbf33	Algeria
+GU798675	#ccbf33	Algeria
+GU798674	#ccbf33	Algeria
+GU798627	#ccbf33	Algeria
+GU798619	#ccbf33	Algeria
+GU798622	#ccbf33	Algeria
+GU798928	#ccbf33	Algeria
+GU798930	#ccbf33	Algeria
+GU798932	#ccbf33	Algeria
+GU798933	#ccbf33	Algeria
+GU798934	#ccbf33	Algeria
+GU798935	#ccbf33	Algeria
+GU798936	#ccbf33	Algeria
+GU798937	#ccbf33	Algeria
+GU798938	#ccbf33	Algeria
+GU798939	#ccbf33	Algeria
+GU798940	#ccbf33	Algeria
+GU798941	#ccbf33	Algeria
+GU798942	#ccbf33	Algeria
+GU798945	#ccbf33	Algeria
+GU798848	#ccbf33	Algeria
+GU798886	#ccbf33	Algeria
+GU798887	#ccbf33	Algeria
+GU798889	#ccbf33	Algeria
+GU798890	#ccbf33	Algeria
+GU798891	#ccbf33	Algeria
+GU798892	#ccbf33	Algeria
+GU798893	#ccbf33	Algeria
+GU798894	#ccbf33	Algeria
+GU798895	#ccbf33	Algeria
+GU798896	#ccbf33	Algeria
+GU798897	#ccbf33	Algeria
+GU798899	#ccbf33	Algeria
+GU798900	#ccbf33	Algeria
+GU798902	#ccbf33	Algeria
+GU798903	#ccbf33	Algeria
+GU798904	#ccbf33	Algeria
+GU798905	#ccbf33	Algeria
+GU798906	#ccbf33	Algeria
+GU798907	#ccbf33	Algeria
+GU798908	#ccbf33	Algeria
+GU798910	#ccbf33	Algeria
+GU798911	#ccbf33	Algeria
+GU798912	#ccbf33	Algeria
+GU798913	#ccbf33	Algeria
+GU798914	#ccbf33	Algeria
+GU798915	#ccbf33	Algeria
+GU798916	#ccbf33	Algeria
+GU798917	#ccbf33	Algeria
+GU798918	#ccbf33	Algeria
+GU798919	#ccbf33	Algeria
+GU798920	#ccbf33	Algeria
+GU798921	#ccbf33	Algeria
+GU798922	#ccbf33	Algeria
+GU798923	#ccbf33	Algeria
+GU798924	#ccbf33	Algeria
+GU798925	#ccbf33	Algeria
+GU798926	#ccbf33	Algeria
+GU798927	#ccbf33	Algeria
+GU798929	#ccbf33	Algeria
+GU798898	#ccbf33	Algeria
+KT119733	#cccc99	Central African Republic
+KT119736	#cccc99	Central African Republic
+KT119723	#cccc99	Central African Republic
+KT119724	#cccc99	Central African Republic
+KT119731	#cccc99	Central African Republic
+KT119732	#cccc99	Central African Republic
+KT119712	#cccc99	Central African Republic
+KT119730	#cccc99	Central African Republic
+LC380092	#cc99cc	Zambia
+LC683185	#cc338c	Malawi
+LC683181	#cc338c	Malawi
+KM262041	#9933cc	Mozambique
+MZ418103	#c3cc66	Ethiopia
+LC380222	#cc6677	Zimbabwe
+LC380228	#cc6677	Zimbabwe
+LC380220	#cc99cc	Zambia
+AY605041	#cc6677	Zimbabwe
+KY553271	#cc6677	Zimbabwe
+LC380153	#cc6677	Zimbabwe
+LC380120	#cc99cc	Zambia
+LC380133	#cc99cc	Zambia
+HQ266620	#cc3366	South Africa
+GU808512	#cc3366	South Africa
+GU808513	#cc3366	South Africa
+GU808514	#cc3366	South Africa
+GU808515	#cc3366	South Africa
+GU808516	#cc3366	South Africa
+GU808517	#cc3366	South Africa
+GU808518	#cc3366	South Africa
+GU808519	#cc3366	South Africa
+GU808520	#cc3366	South Africa
+GU808521	#cc3366	South Africa
+GU808522	#cc3366	South Africa
+GU808523	#cc3366	South Africa
+GU808524	#cc3366	South Africa
+HM060254	#cc3366	South Africa
+HM060255	#cc3366	South Africa
+HM060257	#cc3366	South Africa
+HM060258	#cc3366	South Africa
+FJ842741	#cc3366	South Africa
+GQ918301	#cc3366	South Africa
+HM179508	#cc3366	South Africa
+HQ266607	#cc3366	South Africa
+HQ266626	#cc3366	South Africa
+HQ266608	#cc3366	South Africa
+HQ266627	#cc3366	South Africa
+MW248386	#9933cc	Mozambique
+JX473840	#cc99b2	Namibia
+JQ691438	#cc99b2	Namibia
+KR534227	#cc99a5	Tanzania
+MT454651	#cc3366	South Africa
+MT454650	#cc3366	South Africa
+MK467517	#cc3366	South Africa
+MK467518	#cc3366	South Africa
+MK467521	#cc3366	South Africa
+DQ489834	#cc3366	South Africa
+MK467504	#cc3366	South Africa
+MK467505	#cc3366	South Africa
+MK467508	#cc3366	South Africa
+MK467497	#cc3366	South Africa
+MK467501	#cc3366	South Africa
+MT454632	#cc3366	South Africa
+MT454640	#cc3366	South Africa
+DQ489847	#cc3366	South Africa
+DQ489848	#cc3366	South Africa
+MK467464	#cc3366	South Africa
+MK467499	#cc3366	South Africa
+LC380131	#cc99cc	Zambia
+LC380089	#cc99cc	Zambia
+AY502136	#bfcc99	Kenya
+AY502139	#bfcc99	Kenya
+KY210281	#cc99a5	Tanzania
+KY210282	#cc99a5	Tanzania
+KR906774	#cc99a5	Tanzania
+KR534251	#cc99a5	Tanzania
+KY210294	#cc99a5	Tanzania
+KR906784	#cc99a5	Tanzania
+KY210279	#cc99a5	Tanzania
+KR534230	#cc99a5	Tanzania
+KY210304	#cc99a5	Tanzania
+KY210240	#cc99a5	Tanzania
+EU888671	#99cca5	Nigeria
+EU888680	#99cca5	Nigeria
+EU888706	#99cca5	Nigeria
+EU888653	#99cca5	Nigeria
+EU888658	#99cca5	Nigeria
+MF773577	#99cca5	Nigeria
+MF773576	#99cca5	Nigeria
+MZ417962	#c3cc66	Ethiopia
+MZ417879	#c3cc66	Ethiopia
+MZ417880	#c3cc66	Ethiopia
+MZ417881	#c3cc66	Ethiopia
+MZ417882	#c3cc66	Ethiopia
+MZ417883	#c3cc66	Ethiopia
+MZ417884	#c3cc66	Ethiopia
+MZ417885	#c3cc66	Ethiopia
+MZ417886	#c3cc66	Ethiopia
+MZ417887	#c3cc66	Ethiopia
+MZ417888	#c3cc66	Ethiopia
+MZ417889	#c3cc66	Ethiopia
+MZ417891	#c3cc66	Ethiopia
+MZ417892	#c3cc66	Ethiopia
+MZ417893	#c3cc66	Ethiopia
+MZ417894	#c3cc66	Ethiopia
+MZ417895	#c3cc66	Ethiopia
+MZ417896	#c3cc66	Ethiopia
+MZ417897	#c3cc66	Ethiopia
+MZ417898	#c3cc66	Ethiopia
+MZ417899	#c3cc66	Ethiopia
+MZ417900	#c3cc66	Ethiopia
+MZ417901	#c3cc66	Ethiopia
+MZ417904	#c3cc66	Ethiopia
+MZ417907	#c3cc66	Ethiopia
+MZ417910	#c3cc66	Ethiopia
+MZ417911	#c3cc66	Ethiopia
+MZ417912	#c3cc66	Ethiopia
+MZ417913	#c3cc66	Ethiopia
+MZ417914	#c3cc66	Ethiopia
+MZ417915	#c3cc66	Ethiopia
+MZ417917	#c3cc66	Ethiopia
+MZ417918	#c3cc66	Ethiopia
+MZ417919	#c3cc66	Ethiopia
+MZ417920	#c3cc66	Ethiopia
+MZ417921	#c3cc66	Ethiopia
+MZ417922	#c3cc66	Ethiopia
+MZ417923	#c3cc66	Ethiopia
+MZ417925	#c3cc66	Ethiopia
+MZ417926	#c3cc66	Ethiopia
+MZ417928	#c3cc66	Ethiopia
+MZ417929	#c3cc66	Ethiopia
+MZ417930	#c3cc66	Ethiopia
+MZ417931	#c3cc66	Ethiopia
+MZ417932	#c3cc66	Ethiopia
+MZ417933	#c3cc66	Ethiopia
+MZ417935	#c3cc66	Ethiopia
+MZ417936	#c3cc66	Ethiopia
+MZ417938	#c3cc66	Ethiopia
+MZ417939	#c3cc66	Ethiopia
+MZ417940	#c3cc66	Ethiopia
+MZ417941	#c3cc66	Ethiopia
+MZ417942	#c3cc66	Ethiopia
+MZ417943	#c3cc66	Ethiopia
+MZ417916	#c3cc66	Ethiopia
+MZ417890	#c3cc66	Ethiopia
+MZ417902	#c3cc66	Ethiopia
+MZ417905	#c3cc66	Ethiopia
+MZ417906	#c3cc66	Ethiopia
+MZ417908	#c3cc66	Ethiopia
+MZ417927	#c3cc66	Ethiopia
+MZ417934	#c3cc66	Ethiopia
+MZ417937	#c3cc66	Ethiopia
+MZ417909	#c3cc66	Ethiopia
+MZ417876	#c3cc66	Ethiopia
+MZ417877	#c3cc66	Ethiopia
+MZ417878	#c3cc66	Ethiopia
+GU798189	#6677cc	Morocco
+GU798190	#6677cc	Morocco
+GU798220	#6677cc	Morocco
+GU798217	#6677cc	Morocco
+GU798218	#6677cc	Morocco
+GU798223	#6677cc	Morocco
+GU798224	#6677cc	Morocco
+GU798225	#6677cc	Morocco
+GU798226	#6677cc	Morocco
+GU798528	#6677cc	Morocco
+GU798529	#6677cc	Morocco
+GU798536	#6677cc	Morocco
+GU798521	#6677cc	Morocco
+GU798524	#6677cc	Morocco
+GU798437	#6677cc	Morocco
+GU798436	#6677cc	Morocco
+GU798476	#6677cc	Morocco
+GU798472	#6677cc	Morocco
+GU798496	#6677cc	Morocco
+GU798493	#6677cc	Morocco
+GU798495	#6677cc	Morocco
+GU798489	#6677cc	Morocco
+GU798490	#6677cc	Morocco
+GU798491	#6677cc	Morocco
+GU798486	#6677cc	Morocco
+GU798761	#6677cc	Morocco
+GU798710	#6677cc	Morocco
+GU798808	#6677cc	Morocco
+GU798764	#6677cc	Morocco
+GU798840	#ccbf33	Algeria
+GU798863	#ccbf33	Algeria
+GU798690	#6677cc	Morocco
+GU798691	#6677cc	Morocco
+GU798697	#6677cc	Morocco
+GU798698	#6677cc	Morocco
+GU798687	#6677cc	Morocco
+GU798688	#6677cc	Morocco
+GU798689	#6677cc	Morocco
+GU798696	#6677cc	Morocco
+GU798416	#6677cc	Morocco
+GU798419	#6677cc	Morocco
+GU798672	#ccbf33	Algeria
+GU798673	#ccbf33	Algeria
+GU798592	#ccbf33	Algeria
+GU798593	#ccbf33	Algeria
+GU798612	#ccbf33	Algeria
+GU798613	#ccbf33	Algeria
+GU798611	#ccbf33	Algeria
+GU798604	#ccbf33	Algeria
+GU798885	#ccbf33	Algeria
+LC380117	#cc99cc	Zambia
+LC380126	#cc99cc	Zambia
+KM262040	#9933cc	Mozambique
+LC683176	#cc338c	Malawi
+LC683179	#cc338c	Malawi
+LC683183	#cc338c	Malawi
+LC683184	#cc338c	Malawi
+MZ418100	#c3cc66	Ethiopia
+MZ418101	#c3cc66	Ethiopia
+MF425811	#cc6677	Zimbabwe
+MF425791	#cc6677	Zimbabwe
+MF425792	#cc6677	Zimbabwe
+MF425794	#cc6677	Zimbabwe
+MF425795	#cc6677	Zimbabwe
+MF425796	#cc6677	Zimbabwe
+MF425798	#cc6677	Zimbabwe
+MF425800	#cc6677	Zimbabwe
+MF425801	#cc6677	Zimbabwe
+MF425802	#cc6677	Zimbabwe
+MF425804	#cc6677	Zimbabwe
+MF425805	#cc6677	Zimbabwe
+MF425808	#cc6677	Zimbabwe
+MF425809	#cc6677	Zimbabwe
+MF425810	#cc6677	Zimbabwe
+AY605005	#cc6677	Zimbabwe
+LC380101	#cc99cc	Zambia
+LC380152	#cc6677	Zimbabwe
+LC380235	#cc6677	Zimbabwe
+LC380232	#cc6677	Zimbabwe
+LC380233	#cc6677	Zimbabwe
+LC380226	#cc6677	Zimbabwe
+JF747616	#cc3366	South Africa
+MK858225	#cc3366	South Africa
+MK858226	#cc3366	South Africa
+MF197280	#cc3366	South Africa
+MF197285	#cc3366	South Africa
+GQ918293	#cc3366	South Africa
+GQ918295	#cc3366	South Africa
+MF197283	#cc3366	South Africa
+MF197284	#cc3366	South Africa
+HQ266618	#cc3366	South Africa
+MW248383	#9933cc	Mozambique
+MW248387	#9933cc	Mozambique
+DQ194855	#cc99b2	Namibia
+DQ194860	#cc99b2	Namibia
+JQ691420	#cc99b2	Namibia
+JQ691421	#cc99b2	Namibia
+JQ691422	#cc99b2	Namibia
+JQ691423	#cc99b2	Namibia
+JQ691424	#cc99b2	Namibia
+JQ691432	#cc99b2	Namibia
+JQ691440	#cc99b2	Namibia
+JQ691444	#cc99b2	Namibia
+JQ691447	#cc99b2	Namibia
+JQ691448	#cc99b2	Namibia
+JQ691449	#cc99b2	Namibia
+JQ691460	#cc99b2	Namibia
+JQ691462	#cc99b2	Namibia
+JQ691463	#cc99b2	Namibia
+JQ691415	#cc99b2	Namibia
+MT454649	#cc3366	South Africa
+MT454647	#cc3366	South Africa
+MT454643	#cc3366	South Africa
+MT454645	#cc3366	South Africa
+MK467513	#cc3366	South Africa
+DQ489899	#cc3366	South Africa
+DQ489827	#cc3366	South Africa
+DQ489835	#cc3366	South Africa
+DQ489837	#cc3366	South Africa
+DQ489886	#cc3366	South Africa
+DQ489855	#cc3366	South Africa
+DQ489854	#cc3366	South Africa
+MK467512	#cc3366	South Africa
+MK467476	#cc3366	South Africa
+MK467503	#cc3366	South Africa
+KR534234	#cc99a5	Tanzania
+KY210227	#cc99a5	Tanzania
+KY210237	#cc99a5	Tanzania
+AB572932	#cc99cc	Zambia
+LC380112	#cc99cc	Zambia
+AB572927	#cc99cc	Zambia
+LC380141	#cc99cc	Zambia
+LC380110	#cc99cc	Zambia
+EU853583	#cc66c3	Burundi
+EU296442	#cc99a5	Tanzania
+EU038102	#99cca5	Nigeria
+KX874612	#99cca5	Nigeria
+MF773573	#99cca5	Nigeria
+EU038105	#99cca5	Nigeria
+EU888668	#99cca5	Nigeria
+MZ417950	#c3cc66	Ethiopia
+GU798229	#6677cc	Morocco
+GU798230	#6677cc	Morocco
+GU798500	#6677cc	Morocco
+GU798530	#6677cc	Morocco
+GU798531	#6677cc	Morocco
+GU798440	#6677cc	Morocco
+GU798444	#6677cc	Morocco
+GU798445	#6677cc	Morocco
+GU798470	#6677cc	Morocco
+GU798473	#6677cc	Morocco
+GU798475	#6677cc	Morocco
+GU798485	#6677cc	Morocco
+GU798717	#6677cc	Morocco
+GU798807	#6677cc	Morocco
+GU798773	#6677cc	Morocco
+GU798760	#6677cc	Morocco
+GU798792	#6677cc	Morocco
+GU798728	#6677cc	Morocco
+GU798791	#6677cc	Morocco
+GU798745	#6677cc	Morocco
+GU798746	#6677cc	Morocco
+GU798747	#6677cc	Morocco
+GU798725	#6677cc	Morocco
+GU798744	#6677cc	Morocco
+GU798787	#6677cc	Morocco
+GU798763	#6677cc	Morocco
+GU798765	#6677cc	Morocco
+GU798849	#ccbf33	Algeria
+GU798850	#ccbf33	Algeria
+GU798851	#ccbf33	Algeria
+GU798872	#ccbf33	Algeria
+GU798847	#ccbf33	Algeria
+GU798870	#ccbf33	Algeria
+GU798835	#ccbf33	Algeria
+GU798836	#ccbf33	Algeria
+GU798421	#6677cc	Morocco
+GU798422	#6677cc	Morocco
+GU798418	#6677cc	Morocco
+GU798881	#ccbf33	Algeria
+GU798882	#ccbf33	Algeria
+GU798883	#ccbf33	Algeria
+GU798884	#ccbf33	Algeria
+GU798873	#ccbf33	Algeria
+GU798874	#ccbf33	Algeria
+GU798875	#ccbf33	Algeria
+GU798876	#ccbf33	Algeria
+GU798877	#ccbf33	Algeria
+GU798878	#ccbf33	Algeria
+GU798879	#ccbf33	Algeria
+GU798880	#ccbf33	Algeria
+LC683170	#cc338c	Malawi
+LC683174	#cc338c	Malawi
+MF425807	#cc6677	Zimbabwe
+MN602880	#cc6677	Zimbabwe
+MF425793	#cc6677	Zimbabwe
+MF425806	#cc6677	Zimbabwe
+LC380223	#cc6677	Zimbabwe
+LC380224	#cc6677	Zimbabwe
+LC380144	#cc99cc	Zambia
+LC380156	#cc6677	Zimbabwe
+LC380146	#cc6677	Zimbabwe
+MW248385	#9933cc	Mozambique
+LC380234	#cc6677	Zimbabwe
+LC380159	#cc6677	Zimbabwe
+LC380148	#cc6677	Zimbabwe
+LC380118	#cc99cc	Zambia
+LC380091	#cc99cc	Zambia
+LC380093	#cc99cc	Zambia
+LC380158	#cc6677	Zimbabwe
+LC380130	#cc99cc	Zambia
+LC380142	#cc99cc	Zambia
+LC380145	#cc99cc	Zambia
+LC380149	#cc6677	Zimbabwe
+LC380157	#cc6677	Zimbabwe
+LC380094	#cc99cc	Zambia
+LC380095	#cc99cc	Zambia
+LC380125	#cc99cc	Zambia
+HM060256	#cc3366	South Africa
+HM060259	#cc3366	South Africa
+EU099926	#cc3366	South Africa
+EU099924	#cc3366	South Africa
+EU099925	#cc3366	South Africa
+GQ918302	#cc3366	South Africa
+GQ983436	#cc3366	South Africa
+GQ983437	#cc3366	South Africa
+GQ983438	#cc3366	South Africa
+GQ983454	#cc3366	South Africa
+KM262037	#9933cc	Mozambique
+MK858231	#cc3366	South Africa
+HM179505	#cc3366	South Africa
+HQ266619	#cc3366	South Africa
+KC660339	#cc3366	South Africa
+GQ983401	#cc3366	South Africa
+GQ983461	#cc3366	South Africa
+GQ983527	#cc3366	South Africa
+JQ691453	#cc99b2	Namibia
+JQ691426	#cc99b2	Namibia
+JQ691431	#cc99b2	Namibia
+JQ691428	#cc99b2	Namibia
+JQ691418	#cc99b2	Namibia
+MK467473	#cc3366	South Africa
+MK467500	#cc3366	South Africa
+DQ489845	#cc3366	South Africa
+DQ489825	#cc3366	South Africa
+DQ489818	#cc3366	South Africa
+DQ489820	#cc3366	South Africa
+DQ489831	#cc3366	South Africa
+DQ489817	#cc3366	South Africa
+MK467490	#cc3366	South Africa
+MK467496	#cc3366	South Africa
+KY210285	#cc99a5	Tanzania
+KR906785	#cc99a5	Tanzania
+KR534238	#cc99a5	Tanzania
+KR906759	#cc99a5	Tanzania
+KR906776	#cc99a5	Tanzania
+LC380098	#cc99cc	Zambia
+LC380097	#cc99cc	Zambia
+LC380124	#cc99cc	Zambia
+LC380123	#cc99cc	Zambia
+LC380105	#cc99cc	Zambia
+KX148205	#cc6690	Rwanda
+EU853582	#cc6690	Rwanda
+LC380212	#cc99cc	Zambia
+GQ918313	#cc3366	South Africa
+EU888664	#99cca5	Nigeria
+EU888683	#99cca5	Nigeria
+KX874610	#99cca5	Nigeria
+MZ417944	#c3cc66	Ethiopia
+GU798526	#6677cc	Morocco
+GU798527	#6677cc	Morocco
+GU798523	#6677cc	Morocco
+GU798525	#6677cc	Morocco
+GU798441	#6677cc	Morocco
+GU798438	#6677cc	Morocco
+GU798439	#6677cc	Morocco
+GU798474	#6677cc	Morocco
+GU798483	#6677cc	Morocco
+GU798484	#6677cc	Morocco
+GU798449	#6677cc	Morocco
+GU798454	#6677cc	Morocco
+GU798790	#6677cc	Morocco
+GU798789	#6677cc	Morocco
+GU798736	#6677cc	Morocco
+GU798812	#6677cc	Morocco
+GU798733	#6677cc	Morocco
+GU798734	#6677cc	Morocco
+GU798723	#6677cc	Morocco
+GU798729	#6677cc	Morocco
+GU798731	#6677cc	Morocco
+GU798732	#6677cc	Morocco
+GU798858	#ccbf33	Algeria
+GU798859	#ccbf33	Algeria
+GU798860	#ccbf33	Algeria
+GU798861	#ccbf33	Algeria
+GU798862	#ccbf33	Algeria
+GU798852	#ccbf33	Algeria
+GU798853	#ccbf33	Algeria
+GU798854	#ccbf33	Algeria
+GU798855	#ccbf33	Algeria
+GU798856	#ccbf33	Algeria
+GU798857	#ccbf33	Algeria
+GU798867	#ccbf33	Algeria
+GU798417	#6677cc	Morocco
+GU798420	#6677cc	Morocco
+GU798632	#ccbf33	Algeria
+GU798630	#ccbf33	Algeria
+GU798631	#ccbf33	Algeria
+GU798616	#ccbf33	Algeria
+GU798603	#ccbf33	Algeria
+GU798634	#ccbf33	Algeria
+GU798607	#ccbf33	Algeria
+GU798620	#ccbf33	Algeria
+GU798623	#ccbf33	Algeria
+GU798624	#ccbf33	Algeria
+GU798625	#ccbf33	Algeria
+GU798628	#ccbf33	Algeria
+GU798614	#ccbf33	Algeria
+GU798615	#ccbf33	Algeria
+GU798586	#ccbf33	Algeria
+GU798595	#ccbf33	Algeria
+GU798596	#ccbf33	Algeria
+GU798588	#ccbf33	Algeria
+GU798591	#ccbf33	Algeria
+GU798594	#ccbf33	Algeria
+LC683161	#cc338c	Malawi
+LC683177	#cc338c	Malawi
+LC683167	#cc338c	Malawi
+LC682825	#cc338c	Malawi
+LC683166	#cc338c	Malawi
+LC683169	#cc338c	Malawi
+FJ842726	#cc3366	South Africa
+KJ744309	#cc3366	South Africa
+JF747615	#cc3366	South Africa
+KP994619	#cc3366	South Africa
+MK858232	#cc3366	South Africa
+KC660159	#cc3366	South Africa
+DQ194862	#cc99b2	Namibia
+AY605038	#cc6677	Zimbabwe
+KY553277	#cc3366	South Africa
+KY553281	#cc3366	South Africa
+MK467520	#cc3366	South Africa
+MK467482	#cc3366	South Africa
+MK467511	#cc3366	South Africa
+MK467515	#cc3366	South Africa
+MK467491	#cc3366	South Africa
+DQ489844	#cc3366	South Africa
+DQ194894	#cc3366	South Africa
+DQ489792	#cc3366	South Africa
+DQ489902	#cc3366	South Africa
+DQ489857	#cc3366	South Africa
+DQ489842	#cc3366	South Africa
+DQ489804	#cc3366	South Africa
+DQ489814	#cc3366	South Africa
+DQ489867	#cc3366	South Africa
+DQ489891	#cc3366	South Africa
+DQ489875	#cc3366	South Africa
+KR534228	#cc99a5	Tanzania
+KR534231	#cc99a5	Tanzania
+AY502137	#bfcc99	Kenya
+KR906770	#cc99a5	Tanzania
+KY210233	#cc99a5	Tanzania
+KR906789	#cc99a5	Tanzania
+LC380099	#cc99cc	Zambia
+LC380204	#cc99cc	Zambia
+KR906766	#cc99a5	Tanzania
+LC380188	#cc99cc	Zambia
+KJ133680	#66aacc	Uganda
+KJ133675	#66aacc	Uganda
+KJ133666	#66aacc	Uganda
+LC029892	#66aacc	Uganda
+EU888661	#99cca5	Nigeria
+EU888669	#99cca5	Nigeria
+FJ435701	#99cca5	Nigeria
+EU888655	#99cca5	Nigeria
+GU798497	#6677cc	Morocco
+GU798499	#6677cc	Morocco
+GU798498	#6677cc	Morocco
+GU798471	#6677cc	Morocco
+GU798455	#6677cc	Morocco
+GU798456	#6677cc	Morocco
+GU798712	#6677cc	Morocco
+GU798774	#6677cc	Morocco
+GU798775	#6677cc	Morocco
+GU798769	#6677cc	Morocco
+GU798785	#6677cc	Morocco
+GU798953	#ccbf33	Algeria
+GU798943	#ccbf33	Algeria
+GU798946	#ccbf33	Algeria
+GU798947	#ccbf33	Algeria
+GU798950	#ccbf33	Algeria
+GU798951	#ccbf33	Algeria
+GU798952	#ccbf33	Algeria
+GU798948	#ccbf33	Algeria
+GU798949	#ccbf33	Algeria
+GU798955	#ccbf33	Algeria
+GU798956	#ccbf33	Algeria
+GU798871	#ccbf33	Algeria
+GU798598	#ccbf33	Algeria
+GU798597	#ccbf33	Algeria
+GU798587	#ccbf33	Algeria
+LC683172	#cc338c	Malawi
+LC682826	#cc338c	Malawi
+KC660343	#cc3366	South Africa
+KC660342	#cc3366	South Africa
+FJ842724	#cc3366	South Africa
+FJ842725	#cc3366	South Africa
+FJ842727	#cc3366	South Africa
+FJ842728	#cc3366	South Africa
+FJ842729	#cc3366	South Africa
+FJ842730	#cc3366	South Africa
+FJ842731	#cc3366	South Africa
+FJ842732	#cc3366	South Africa
+FJ842733	#cc3366	South Africa
+FJ842734	#cc3366	South Africa
+FJ842735	#cc3366	South Africa
+FJ842736	#cc3366	South Africa
+FJ842740	#cc3366	South Africa
+FJ842742	#cc3366	South Africa
+FJ842743	#cc3366	South Africa
+FJ842746	#cc3366	South Africa
+FJ842747	#cc3366	South Africa
+FJ842748	#cc3366	South Africa
+FJ842749	#cc3366	South Africa
+FJ842750	#cc3366	South Africa
+FJ842751	#cc3366	South Africa
+FJ842753	#cc3366	South Africa
+FJ842756	#cc3366	South Africa
+FJ842757	#cc3366	South Africa
+FJ842758	#cc3366	South Africa
+FJ842759	#cc3366	South Africa
+FJ842760	#cc3366	South Africa
+FJ842761	#cc3366	South Africa
+FJ842762	#cc3366	South Africa
+FJ842763	#6e66cc	Swaziland
+JX411741	#cc3366	South Africa
+FJ842721	#cc3366	South Africa
+FJ842722	#cc3366	South Africa
+FJ842723	#cc3366	South Africa
+JF747617	#cc3366	South Africa
+KP994606	#cc3366	South Africa
+KT892002	#cc3366	South Africa
+JQ691441	#cc99b2	Namibia
+JQ691446	#cc99b2	Namibia
+JQ691459	#cc99b2	Namibia
+JQ691429	#cc99b2	Namibia
+JQ691430	#cc99b2	Namibia
+DQ194856	#cc99b2	Namibia
+DQ194857	#cc99b2	Namibia
+DQ194858	#cc99b2	Namibia
+DQ194859	#cc99b2	Namibia
+DQ194861	#cc99b2	Namibia
+DQ194883	#cc99b2	Namibia
+JQ691416	#cc99b2	Namibia
+JQ691442	#cc99b2	Namibia
+KY553274	#cc3366	South Africa
+KY553283	#cc3366	South Africa
+DQ489860	#cc3366	South Africa
+DQ489809	#cc3366	South Africa
+DQ489824	#cc3366	South Africa
+DQ489839	#cc3366	South Africa
+DQ489840	#cc3366	South Africa
+DQ489843	#cc3366	South Africa
+DQ489849	#cc3366	South Africa
+DQ489881	#cc3366	South Africa
+DQ489889	#cc3366	South Africa
+DQ489795	#cc3366	South Africa
+DQ489801	#cc3366	South Africa
+DQ489816	#cc3366	South Africa
+DQ489830	#cc3366	South Africa
+DQ489846	#cc3366	South Africa
+DQ194902	#cc3366	South Africa
+DQ489863	#cc3366	South Africa
+DQ489789	#cc3366	South Africa
+DQ489870	#cc3366	South Africa
+DQ489871	#cc3366	South Africa
+LC380187	#cc99cc	Zambia
+KR534266	#cc99a5	Tanzania
+KR534223	#cc99a5	Tanzania
+KR534255	#cc99a5	Tanzania
+KY210261	#cc99a5	Tanzania
+KR906777	#cc99a5	Tanzania
+KY210257	#cc99a5	Tanzania
+LC380100	#cc99cc	Zambia
+LC380116	#cc99cc	Zambia
+LC380202	#cc99cc	Zambia
+LC380200	#cc99cc	Zambia
+LC380201	#cc99cc	Zambia
+KJ133678	#66aacc	Uganda
+KR906775	#cc99a5	Tanzania
+MF773578	#99cca5	Nigeria
+EU888699	#99cca5	Nigeria
+MZ417947	#c3cc66	Ethiopia
+MZ417948	#c3cc66	Ethiopia
+GU798450	#6677cc	Morocco
+GU798713	#6677cc	Morocco
+GU798714	#6677cc	Morocco
+GU798781	#6677cc	Morocco
+GU798782	#6677cc	Morocco
+GU798783	#6677cc	Morocco
+GU798779	#6677cc	Morocco
+GU798780	#6677cc	Morocco
+GU798778	#6677cc	Morocco
+GU798776	#6677cc	Morocco
+GU798777	#6677cc	Morocco
+GU798750	#6677cc	Morocco
+GU798740	#6677cc	Morocco
+GU798758	#6677cc	Morocco
+GU798944	#ccbf33	Algeria
+GU798954	#ccbf33	Algeria
+GU798962	#ccbf33	Algeria
+GU798864	#ccbf33	Algeria
+GU798589	#ccbf33	Algeria
+GU798590	#ccbf33	Algeria
+LC683171	#cc338c	Malawi
+KC660348	#cc3366	South Africa
+KP994597	#cc3366	South Africa
+KP994598	#cc3366	South Africa
+KJ744307	#cc3366	South Africa
+KT336432	#cc3366	South Africa
+MF197288	#33ccbf	Lesotho
+JQ691427	#cc99b2	Namibia
+JQ691439	#cc99b2	Namibia
+HQ266622	#cc3366	South Africa
+DQ489865	#cc3366	South Africa
+DQ194901	#cc3366	South Africa
+DQ489793	#cc3366	South Africa
+DQ489890	#cc3366	South Africa
+DQ489876	#cc3366	South Africa
+DQ489872	#cc3366	South Africa
+DQ489811	#cc3366	South Africa
+DQ489812	#cc3366	South Africa
+DQ489813	#cc3366	South Africa
+DQ489874	#cc3366	South Africa
+DQ489829	#cc3366	South Africa
+DQ489832	#cc3366	South Africa
+DQ489877	#cc3366	South Africa
+DQ489807	#cc3366	South Africa
+DQ489873	#cc3366	South Africa
+LC380192	#cc99cc	Zambia
+LC380203	#cc99cc	Zambia
+KY210277	#cc99a5	Tanzania
+KY210310	#cc99a5	Tanzania
+KY210283	#cc99a5	Tanzania
+KY210284	#cc99a5	Tanzania
+KY210274	#cc99a5	Tanzania
+LC380109	#cc99cc	Zambia
+KJ133687	#66aacc	Uganda
+KR906736	#cc99a5	Tanzania
+LC029896	#66aacc	Uganda
+KR906749	#cc99a5	Tanzania
+MK144831	#99cca5	Nigeria
+MK144832	#99cca5	Nigeria
+EU888692	#99cca5	Nigeria
+EU888693	#99cca5	Nigeria
+EU888695	#99cca5	Nigeria
+EU888697	#99cca5	Nigeria
+EU888721	#99cca5	Nigeria
+EU888689	#99cca5	Nigeria
+EU888643	#99cca5	Nigeria
+EU888670	#99cca5	Nigeria
+EU888685	#99cca5	Nigeria
+EU888688	#99cca5	Nigeria
+MZ417954	#c3cc66	Ethiopia
+MZ417960	#c3cc66	Ethiopia
+MZ417961	#c3cc66	Ethiopia
+MZ417956	#c3cc66	Ethiopia
+MZ417957	#c3cc66	Ethiopia
+MZ417958	#c3cc66	Ethiopia
+MZ417959	#c3cc66	Ethiopia
+GU798510	#6677cc	Morocco
+GU798504	#6677cc	Morocco
+GU798428	#6677cc	Morocco
+GU798481	#6677cc	Morocco
+GU798482	#6677cc	Morocco
+GU798457	#6677cc	Morocco
+GU798458	#6677cc	Morocco
+GU798459	#6677cc	Morocco
+GU798460	#6677cc	Morocco
+GU798451	#6677cc	Morocco
+GU798748	#6677cc	Morocco
+GU798749	#6677cc	Morocco
+GU798751	#6677cc	Morocco
+GU798752	#6677cc	Morocco
+GU798753	#6677cc	Morocco
+GU798754	#6677cc	Morocco
+GU798755	#6677cc	Morocco
+GU798756	#6677cc	Morocco
+GU798959	#ccbf33	Algeria
+GU798960	#ccbf33	Algeria
+GU798961	#ccbf33	Algeria
+GU798957	#ccbf33	Algeria
+GU798958	#ccbf33	Algeria
+GU798868	#ccbf33	Algeria
+GU798869	#ccbf33	Algeria
+LC683164	#cc338c	Malawi
+KC660345	#cc3366	South Africa
+KC660346	#cc3366	South Africa
+KC660347	#cc3366	South Africa
+KT892003	#cc3366	South Africa
+MT454631	#cc3366	South Africa
+MT454637	#cc3366	South Africa
+MT454635	#cc3366	South Africa
+MF197307	#33ccbf	Lesotho
+MF197294	#33ccbf	Lesotho
+MF197302	#33ccbf	Lesotho
+MF197303	#33ccbf	Lesotho
+KY681360	#cc3366	South Africa
+KY681410	#cc3366	South Africa
+MF197289	#33ccbf	Lesotho
+MF197293	#33ccbf	Lesotho
+MF197296	#33ccbf	Lesotho
+MF197304	#33ccbf	Lesotho
+MF197305	#33ccbf	Lesotho
+MF197306	#33ccbf	Lesotho
+MF197287	#33ccbf	Lesotho
+MF197297	#33ccbf	Lesotho
+MF197298	#33ccbf	Lesotho
+MF197299	#33ccbf	Lesotho
+MF197300	#33ccbf	Lesotho
+MF197301	#33ccbf	Lesotho
+JQ691417	#cc99b2	Namibia
+JQ691457	#cc99b2	Namibia
+JQ691437	#cc99b2	Namibia
+JQ691443	#cc99b2	Namibia
+DQ489868	#cc3366	South Africa
+DQ489805	#cc3366	South Africa
+DQ489815	#cc3366	South Africa
+DQ489882	#cc3366	South Africa
+DQ489790	#cc3366	South Africa
+DQ489879	#cc3366	South Africa
+DQ489791	#cc3366	South Africa
+DQ489794	#cc3366	South Africa
+DQ489803	#cc3366	South Africa
+DQ489819	#cc3366	South Africa
+DQ489828	#cc3366	South Africa
+DQ489821	#cc3366	South Africa
+DQ489883	#cc3366	South Africa
+MK467468	#cc3366	South Africa
+MK467474	#cc3366	South Africa
+KY210269	#cc99a5	Tanzania
+KY210270	#cc99a5	Tanzania
+KJ133685	#66aacc	Uganda
+KJ133677	#66aacc	Uganda
+LC029895	#66aacc	Uganda
+LC029891	#66aacc	Uganda
+LC029889	#66aacc	Uganda
+AB505880	#66aacc	Uganda
+KR534239	#cc99a5	Tanzania
+KU055522	#cccc99	Central African Republic
+KU055523	#cccc99	Central African Republic
+DQ900554	#cc99a5	Tanzania
+GU798515	#6677cc	Morocco
+GU798516	#6677cc	Morocco
+GU798517	#6677cc	Morocco
+GU798501	#6677cc	Morocco
+GU798505	#6677cc	Morocco
+GU798506	#6677cc	Morocco
+GU798507	#6677cc	Morocco
+GU798508	#6677cc	Morocco
+GU798509	#6677cc	Morocco
+GU798511	#6677cc	Morocco
+GU798512	#6677cc	Morocco
+GU798513	#6677cc	Morocco
+GU798514	#6677cc	Morocco
+GU798502	#6677cc	Morocco
+GU798503	#6677cc	Morocco
+GU798462	#6677cc	Morocco
+GU798463	#6677cc	Morocco
+GU798461	#6677cc	Morocco
+GU798452	#6677cc	Morocco
+GU798453	#6677cc	Morocco
+LC683165	#cc338c	Malawi
+KC660340	#cc3366	South Africa
+KC660341	#cc3366	South Africa
+KC660349	#cc3366	South Africa
+KC660344	#cc3366	South Africa
+KJ744304	#cc3366	South Africa
+KJ744306	#cc3366	South Africa
+KJ744308	#cc3366	South Africa
+KT891999	#cc3366	South Africa
+KT892000	#cc3366	South Africa
+KT891998	#cc3366	South Africa
+KP994609	#cc3366	South Africa
+MF197290	#33ccbf	Lesotho
+MF197291	#33ccbf	Lesotho
+MF197292	#33ccbf	Lesotho
+MF197295	#33ccbf	Lesotho
+DQ489806	#cc3366	South Africa
+KR906763	#cc99a5	Tanzania
+KR906735	#cc99a5	Tanzania
+MW074784	#bfcc99	Kenya
+KJ133671	#66aacc	Uganda
+KJ133681	#66aacc	Uganda
+LC029894	#66aacc	Uganda
+AB505877	#66aacc	Uganda
+AB505878	#66aacc	Uganda
+AB505875	#66aacc	Uganda
+AB505876	#66aacc	Uganda
+DQ900566	#cc99a5	Tanzania
+MZ417952	#c3cc66	Ethiopia
+MZ417953	#c3cc66	Ethiopia
+MZ417951	#c3cc66	Ethiopia
+LC683160	#cc338c	Malawi
+GQ983434	#cc3366	South Africa
+KJ744302	#cc3366	South Africa
+KP994607	#cc3366	South Africa
+KP994617	#cc3366	South Africa
+KP994620	#cc3366	South Africa
+MT454634	#cc3366	South Africa
+KC660210	#cc3366	South Africa
+KP994615	#cc3366	South Africa
+KP994601	#cc3366	South Africa
+KP994603	#cc3366	South Africa
+KP994604	#cc3366	South Africa
+KP994605	#cc3366	South Africa
+KP994612	#cc3366	South Africa
+KP994614	#cc3366	South Africa
+KP994613	#cc3366	South Africa
+KP994599	#cc3366	South Africa
+KP994602	#cc3366	South Africa
+DQ489897	#cc3366	South Africa
+DQ489905	#cc3366	South Africa
+DQ489894	#cc3366	South Africa
+DQ489797	#cc3366	South Africa
+DQ489800	#cc3366	South Africa
+DQ489895	#cc3366	South Africa
+KR906765	#cc99a5	Tanzania
+KR906764	#cc99a5	Tanzania
+KJ133670	#66aacc	Uganda
+KJ133662	#66aacc	Uganda
+LC029893	#66aacc	Uganda
+KJ133682	#66aacc	Uganda
+KR906762	#cc99a5	Tanzania
+KR534262	#cc99a5	Tanzania
+KR906753	#cc99a5	Tanzania
+KR906741	#cc99a5	Tanzania
+KR534225	#cc99a5	Tanzania
+KR906745	#cc99a5	Tanzania
+MW055048	#bfcc99	Kenya
+GU798464	#6677cc	Morocco
+GU798465	#6677cc	Morocco
+GU798468	#6677cc	Morocco
+LC683159	#cc338c	Malawi
+LC683162	#cc338c	Malawi
+KJ744303	#cc3366	South Africa
+KJ744310	#cc3366	South Africa
+KP994600	#cc3366	South Africa
+KP994610	#cc3366	South Africa
+KP994611	#cc3366	South Africa
+KP994616	#cc3366	South Africa
+KP994621	#cc3366	South Africa
+MK858228	#cc3366	South Africa
+KC660188	#cc3366	South Africa
+KC660180	#cc3366	South Africa
+KC660206	#cc3366	South Africa
+KJ133673	#66aacc	Uganda
+KJ133679	#66aacc	Uganda
+LC029897	#66aacc	Uganda
+DQ900568	#cc99a5	Tanzania
+KR906767	#cc99a5	Tanzania
+KR906761	#cc99a5	Tanzania
+MW074786	#bfcc99	Kenya
+KR906783	#cc99a5	Tanzania
+KR906738	#cc99a5	Tanzania
+GU798469	#6677cc	Morocco
+GU798466	#6677cc	Morocco
+GU798467	#6677cc	Morocco
+KT892004	#cc3366	South Africa
+KT892001	#cc3366	South Africa
+KT892005	#cc3366	South Africa
+JF747613	#cc3366	South Africa
+KJ744305	#cc3366	South Africa
+MT454641	#cc3366	South Africa
+KC660230	#cc3366	South Africa
+MT454636	#cc3366	South Africa
+KC660207	#cc3366	South Africa
+KC660277	#cc3366	South Africa
+KC660276	#cc3366	South Africa
+KJ133684	#66aacc	Uganda
+DQ900555	#cc99a5	Tanzania
+EU296443	#cc99a5	Tanzania
+KR906786	#cc99a5	Tanzania
+MZ417994	#c3cc66	Ethiopia
+MZ417969	#c3cc66	Ethiopia
+MZ417993	#c3cc66	Ethiopia
+MT454639	#cc3366	South Africa
+KC660161	#cc3366	South Africa
+KJ133665	#66aacc	Uganda
+KR906740	#cc99a5	Tanzania
+MG407544	#cc99a5	Tanzania
+MG407547	#cc99a5	Tanzania
+MG407539	#cc99a5	Tanzania
+MG407550	#cc99a5	Tanzania
+MG407552	#cc99a5	Tanzania
+MG407538	#cc99a5	Tanzania
+MG407533	#cc99a5	Tanzania
+EU296438	#cc99a5	Tanzania
+KY210221	#cc99a5	Tanzania
+KR906737	#cc99a5	Tanzania
+MZ417997	#c3cc66	Ethiopia
+MT454648	#cc3366	South Africa
+KC660275	#cc3366	South Africa
+KC660258	#cc3366	South Africa
+KY681377	#cc3366	South Africa
+GQ918326	#cc3366	South Africa
+KJ133661	#66aacc	Uganda
+KJ133664	#66aacc	Uganda
+KR906768	#cc99a5	Tanzania
+KR906742	#cc99a5	Tanzania
+MG407529	#cc99a5	Tanzania
+MG407535	#cc99a5	Tanzania
+MG407536	#cc99a5	Tanzania
+MG407549	#cc99a5	Tanzania
+KR534259	#cc99a5	Tanzania
+MG407541	#cc99a5	Tanzania
+MG407545	#cc99a5	Tanzania
+MG407546	#cc99a5	Tanzania
+MG407537	#cc99a5	Tanzania
+MG407540	#cc99a5	Tanzania
+MG407531	#cc99a5	Tanzania
+MG407542	#cc99a5	Tanzania
+MG407543	#cc99a5	Tanzania
+MG407548	#cc99a5	Tanzania
+MG407530	#cc99a5	Tanzania
+MG407532	#cc99a5	Tanzania
+EU296440	#cc99a5	Tanzania
+KR534221	#cc99a5	Tanzania
+MZ418006	#c3cc66	Ethiopia
+MZ417998	#c3cc66	Ethiopia
+MZ418000	#c3cc66	Ethiopia
+MZ418001	#c3cc66	Ethiopia
+MZ417999	#c3cc66	Ethiopia
+MZ418002	#c3cc66	Ethiopia
+MZ418003	#c3cc66	Ethiopia
+MZ417995	#c3cc66	Ethiopia
+MZ417996	#c3cc66	Ethiopia
+MZ417966	#c3cc66	Ethiopia
+MZ417967	#c3cc66	Ethiopia
+MZ417968	#c3cc66	Ethiopia
+MZ417983	#c3cc66	Ethiopia
+MZ417973	#c3cc66	Ethiopia
+MZ417970	#c3cc66	Ethiopia
+MZ417971	#c3cc66	Ethiopia
+MZ417972	#c3cc66	Ethiopia
+MZ417974	#c3cc66	Ethiopia
+MZ417975	#c3cc66	Ethiopia
+MZ417976	#c3cc66	Ethiopia
+MZ417977	#c3cc66	Ethiopia
+MZ417978	#c3cc66	Ethiopia
+MZ417979	#c3cc66	Ethiopia
+MZ417980	#c3cc66	Ethiopia
+MZ417981	#c3cc66	Ethiopia
+MZ417982	#c3cc66	Ethiopia
+MZ417985	#c3cc66	Ethiopia
+MZ417986	#c3cc66	Ethiopia
+MZ417987	#c3cc66	Ethiopia
+MZ417988	#c3cc66	Ethiopia
+MZ417989	#c3cc66	Ethiopia
+MZ417990	#c3cc66	Ethiopia
+MZ417991	#c3cc66	Ethiopia
+MZ417992	#c3cc66	Ethiopia
+MT454652	#cc3366	South Africa
+GQ983474	#cc3366	South Africa
+KM262044	#9933cc	Mozambique
+GQ983402	#cc3366	South Africa
+MN726804	#cc99a5	Tanzania
+KF155002	#cc99a5	Tanzania
+KR906754	#cc99a5	Tanzania
+MN726826	#cc99a5	Tanzania
+KR534260	#cc99a5	Tanzania
+KR534263	#cc99a5	Tanzania
+KR534226	#cc99a5	Tanzania
+KR534261	#cc99a5	Tanzania
+EU296437	#cc99a5	Tanzania
+KY210220	#cc99a5	Tanzania
+DQ900567	#cc99a5	Tanzania
+MZ418008	#c3cc66	Ethiopia
+MZ418007	#c3cc66	Ethiopia
+MZ418036	#c3cc66	Ethiopia
+MZ418035	#c3cc66	Ethiopia
+MZ417964	#c3cc66	Ethiopia
+MZ417965	#c3cc66	Ethiopia
+MT454654	#cc3366	South Africa
+KC660236	#cc3366	South Africa
+KY681386	#cc3366	South Africa
+KC660226	#cc3366	South Africa
+KC660228	#cc3366	South Africa
+KC660231	#cc3366	South Africa
+KC660232	#cc3366	South Africa
+KC660252	#cc3366	South Africa
+KC660253	#cc3366	South Africa
+KC660227	#cc3366	South Africa
+KC660254	#cc3366	South Africa
+KC660255	#cc3366	South Africa
+KC660225	#cc3366	South Africa
+KC660297	#cc3366	South Africa
+KC660298	#cc3366	South Africa
+KC660299	#cc3366	South Africa
+KC660304	#cc3366	South Africa
+KC660218	#cc3366	South Africa
+GQ983503	#cc3366	South Africa
+KR906750	#cc99a5	Tanzania
+MN726824	#cc99a5	Tanzania
+MN726827	#cc99a5	Tanzania
+KR534264	#cc99a5	Tanzania
+KR534265	#cc99a5	Tanzania
+EU296436	#cc99a5	Tanzania
+KR534218	#cc99a5	Tanzania
+KR534220	#cc99a5	Tanzania
+KY210222	#cc99a5	Tanzania
+KR534217	#cc99a5	Tanzania
+MN726835	#cc99a5	Tanzania
+KR906782	#cc99a5	Tanzania
+KY210259	#cc99a5	Tanzania
+MZ418075	#c3cc66	Ethiopia
+MT454653	#cc3366	South Africa
+KP994608	#cc3366	South Africa
+KC660229	#cc3366	South Africa
+KC660199	#cc3366	South Africa
+KC660336	#cc3366	South Africa
+GQ918310	#cc3366	South Africa
+MG407534	#cc99a5	Tanzania
+MG407551	#cc99a5	Tanzania
+DQ900553	#cc99a5	Tanzania
+EU296439	#cc99a5	Tanzania
+MN726818	#cc99a5	Tanzania
+KY210228	#cc99a5	Tanzania
+MK467471	#cc3366	South Africa
+KR534229	#cc99a5	Tanzania
+KR534232	#cc99a5	Tanzania
+MZ418027	#c3cc66	Ethiopia
+MZ418034	#c3cc66	Ethiopia
+MZ418028	#c3cc66	Ethiopia
+MZ418029	#c3cc66	Ethiopia
+MZ418030	#c3cc66	Ethiopia
+MZ418031	#c3cc66	Ethiopia
+MZ418032	#c3cc66	Ethiopia
+MZ418033	#c3cc66	Ethiopia
+KC660213	#cc3366	South Africa
+KC660214	#cc3366	South Africa
+KC660216	#cc3366	South Africa
+KC660211	#cc3366	South Africa
+KC660212	#cc3366	South Africa
+KC660171	#cc3366	South Africa
+KC660195	#cc3366	South Africa
+KC660249	#cc3366	South Africa
+KC660338	#cc3366	South Africa
+KC660176	#cc3366	South Africa
+KC660182	#cc3366	South Africa
+KC660184	#cc3366	South Africa
+KC660185	#cc3366	South Africa
+KC660186	#cc3366	South Africa
+KC660204	#cc3366	South Africa
+KC660175	#cc3366	South Africa
+KC660183	#cc3366	South Africa
+KC660173	#cc3366	South Africa
+KC660174	#cc3366	South Africa
+KC660177	#cc3366	South Africa
+KC660172	#cc3366	South Africa
+KC660302	#cc3366	South Africa
+KC660307	#cc3366	South Africa
+KC660308	#cc3366	South Africa
+KC660300	#cc3366	South Africa
+KC660301	#cc3366	South Africa
+KC660306	#cc3366	South Africa
+KC660293	#cc3366	South Africa
+KC660283	#cc3366	South Africa
+KC660284	#cc3366	South Africa
+KC660285	#cc3366	South Africa
+KC660286	#cc3366	South Africa
+KC660287	#cc3366	South Africa
+KC660288	#cc3366	South Africa
+KC660289	#cc3366	South Africa
+KC660290	#cc3366	South Africa
+KC660291	#cc3366	South Africa
+KC660292	#cc3366	South Africa
+KC660294	#cc3366	South Africa
+KC660295	#cc3366	South Africa
+KC660296	#cc3366	South Africa
+KC660305	#cc3366	South Africa
+KC660310	#cc3366	South Africa
+KC660261	#cc3366	South Africa
+KC660219	#cc3366	South Africa
+KC660350	#cc3366	South Africa
+KC660240	#cc3366	South Africa
+KC660237	#cc3366	South Africa
+KC660239	#cc3366	South Africa
+KY210287	#cc99a5	Tanzania
+KR906780	#cc99a5	Tanzania
+EU296435	#cc99a5	Tanzania
+MN726820	#cc99a5	Tanzania
+KY210236	#cc99a5	Tanzania
+KR534250	#cc99a5	Tanzania
+KY210230	#cc99a5	Tanzania
+KY210226	#cc99a5	Tanzania
+KY210305	#cc99a5	Tanzania
+KR534233	#cc99a5	Tanzania
+KY210267	#cc99a5	Tanzania
+KR906756	#cc99a5	Tanzania
+KY210238	#cc99a5	Tanzania
+KR534247	#cc99a5	Tanzania
+KR534254	#cc99a5	Tanzania
+KY210291	#cc99a5	Tanzania
+KY210229	#cc99a5	Tanzania
+KR906755	#cc99a5	Tanzania
+MZ418051	#c3cc66	Ethiopia
+MZ418056	#c3cc66	Ethiopia
+MZ418026	#c3cc66	Ethiopia
+KC660351	#cc3366	South Africa
+KC660309	#cc3366	South Africa
+KC660312	#cc3366	South Africa
+KC660315	#cc3366	South Africa
+KC660267	#cc3366	South Africa
+KC660268	#cc3366	South Africa
+KC660217	#cc3366	South Africa
+KC660241	#cc3366	South Africa
+KC660260	#cc3366	South Africa
+KC660259	#cc3366	South Africa
+KC660191	#cc3366	South Africa
+KR534257	#cc99a5	Tanzania
+KR534258	#cc99a5	Tanzania
+KY210308	#cc99a5	Tanzania
+KY210286	#cc99a5	Tanzania
+KR906773	#cc99a5	Tanzania
+KR534253	#cc99a5	Tanzania
+MN726817	#cc99a5	Tanzania
+MN726808	#cc99a5	Tanzania
+KJ133674	#66aacc	Uganda
+KJ133686	#66aacc	Uganda
+JF327500	#cc3366	South Africa
+JF327501	#cc3366	South Africa
+JF327502	#cc3366	South Africa
+JF327503	#cc3366	South Africa
+MW413399	#cc3366	South Africa
+KY210224	#cc99a5	Tanzania
+KR906760	#cc99a5	Tanzania
+KR906772	#cc99a5	Tanzania
+KY210250	#cc99a5	Tanzania
+KY210251	#cc99a5	Tanzania
+MZ418052	#c3cc66	Ethiopia
+MZ418053	#c3cc66	Ethiopia
+MZ418054	#c3cc66	Ethiopia
+MZ418055	#c3cc66	Ethiopia
+KC660245	#cc3366	South Africa
+MF197282	#cc3366	South Africa
+KC660278	#cc3366	South Africa
+KY681362	#cc3366	South Africa
+JQ756155	#cc3366	South Africa
+HQ734810	#cc3366	South Africa
+KY681363	#cc3366	South Africa
+JQ756158	#cc3366	South Africa
+GQ918306	#cc3366	South Africa
+GQ918307	#cc3366	South Africa
+GQ918316	#cc3366	South Africa
+GQ983410	#cc3366	South Africa
+GQ983414	#cc3366	South Africa
+GQ983441	#cc3366	South Africa
+GQ983469	#cc3366	South Africa
+GQ983525	#cc3366	South Africa
+KY681364	#cc3366	South Africa
+KY681369	#cc3366	South Africa
+JQ756140	#cc3366	South Africa
+JQ756152	#cc3366	South Africa
+KY681361	#cc3366	South Africa
+KY681367	#cc3366	South Africa
+KY681368	#cc3366	South Africa
+KY681370	#cc3366	South Africa
+JQ756127	#cc3366	South Africa
+JQ756128	#cc3366	South Africa
+JQ756129	#cc3366	South Africa
+JQ756130	#cc3366	South Africa
+JQ756131	#cc3366	South Africa
+JQ756132	#cc3366	South Africa
+JQ756133	#cc3366	South Africa
+JQ756134	#cc3366	South Africa
+JQ756135	#cc3366	South Africa
+JQ756136	#cc3366	South Africa
+JQ756138	#cc3366	South Africa
+JQ756139	#cc3366	South Africa
+JQ756141	#cc3366	South Africa
+JQ756142	#cc3366	South Africa
+JQ756146	#cc3366	South Africa
+JQ756147	#cc3366	South Africa
+JQ756148	#cc3366	South Africa
+JQ756149	#cc3366	South Africa
+JQ756150	#cc3366	South Africa
+JQ756151	#cc3366	South Africa
+JQ756153	#cc3366	South Africa
+JQ756154	#cc3366	South Africa
+JQ756156	#cc3366	South Africa
+JQ756157	#cc3366	South Africa
+JQ756159	#cc3366	South Africa
+JF327492	#cc3366	South Africa
+JF327493	#cc3366	South Africa
+JF327494	#cc3366	South Africa
+JF327495	#cc3366	South Africa
+JF327496	#cc3366	South Africa
+JF327497	#cc3366	South Africa
+JN227482	#cc3366	South Africa
+JN227483	#cc3366	South Africa
+JN227484	#cc3366	South Africa
+JN227485	#cc3366	South Africa
+JN227486	#cc3366	South Africa
+JN227487	#cc3366	South Africa
+KY681365	#cc3366	South Africa
+KY681371	#cc3366	South Africa
+KY681373	#cc3366	South Africa
+KY681374	#cc3366	South Africa
+KC660303	#cc3366	South Africa
+GQ918320	#cc3366	South Africa
+KC660250	#cc3366	South Africa
+KC660251	#cc3366	South Africa
+KY210295	#cc99a5	Tanzania
+KY210296	#cc99a5	Tanzania
+KY210288	#cc99a5	Tanzania
+KR906781	#cc99a5	Tanzania
+KY210268	#cc99a5	Tanzania
+KY210278	#cc99a5	Tanzania
+KR906778	#cc99a5	Tanzania
+KR906792	#cc99a5	Tanzania
+KR906788	#cc99a5	Tanzania
+KY210244	#cc99a5	Tanzania
+KY210276	#cc99a5	Tanzania
+KR534235	#cc99a5	Tanzania
+KY210239	#cc99a5	Tanzania
+KY210247	#cc99a5	Tanzania
+KY210246	#cc99a5	Tanzania
+KR906758	#cc99a5	Tanzania
+MZ418046	#c3cc66	Ethiopia
+MZ418047	#c3cc66	Ethiopia
+MZ418050	#c3cc66	Ethiopia
+MZ418049	#c3cc66	Ethiopia
+MZ418037	#c3cc66	Ethiopia
+MZ418038	#c3cc66	Ethiopia
+MZ418040	#c3cc66	Ethiopia
+MZ418041	#c3cc66	Ethiopia
+MZ418042	#c3cc66	Ethiopia
+MZ418043	#c3cc66	Ethiopia
+MZ418044	#c3cc66	Ethiopia
+MZ418045	#c3cc66	Ethiopia
+MZ418022	#c3cc66	Ethiopia
+KC660167	#cc3366	South Africa
+GQ983427	#cc3366	South Africa
+GQ983532	#cc3366	South Africa
+GQ983531	#cc3366	South Africa
+GQ983526	#cc3366	South Africa
+KC660313	#cc3366	South Africa
+KC660209	#cc3366	South Africa
+KC660266	#cc3366	South Africa
+KC660189	#cc3366	South Africa
+KC660263	#cc3366	South Africa
+KC660264	#cc3366	South Africa
+KC660265	#cc3366	South Africa
+KC660194	#cc3366	South Africa
+KC660273	#cc3366	South Africa
+KC660197	#cc3366	South Africa
+KC660198	#cc3366	South Africa
+MN726825	#cc99a5	Tanzania
+MN726815	#cc99a5	Tanzania
+KY210298	#cc99a5	Tanzania
+KY210297	#cc99a5	Tanzania
+KR534243	#cc99a5	Tanzania
+HQ660808	#cc99a5	Tanzania
+HQ660809	#cc99a5	Tanzania
+KR534222	#cc99a5	Tanzania
+KY210265	#cc99a5	Tanzania
+KY210273	#cc99a5	Tanzania
+KY210248	#cc99a5	Tanzania
+KR534236	#cc99a5	Tanzania
+KR534237	#cc99a5	Tanzania
+KY210272	#cc99a5	Tanzania
+KY210290	#cc99a5	Tanzania
+KR906771	#cc99a5	Tanzania
+MZ418060	#c3cc66	Ethiopia
+MZ418061	#c3cc66	Ethiopia
+MZ418020	#c3cc66	Ethiopia
+MZ418021	#c3cc66	Ethiopia
+MZ418019	#c3cc66	Ethiopia
+MZ418017	#c3cc66	Ethiopia
+MZ418018	#c3cc66	Ethiopia
+MZ418025	#c3cc66	Ethiopia
+MZ418023	#c3cc66	Ethiopia
+MZ418024	#c3cc66	Ethiopia
+MZ418015	#c3cc66	Ethiopia
+MZ418009	#c3cc66	Ethiopia
+MZ418010	#c3cc66	Ethiopia
+MZ418011	#c3cc66	Ethiopia
+MZ418012	#c3cc66	Ethiopia
+MZ418013	#c3cc66	Ethiopia
+MZ418014	#c3cc66	Ethiopia
+KC660279	#cc3366	South Africa
+GQ918286	#cc3366	South Africa
+GQ918325	#cc3366	South Africa
+KC660215	#cc3366	South Africa
+GQ983501	#cc3366	South Africa
+KC660170	#cc3366	South Africa
+KC660168	#cc3366	South Africa
+KC660169	#cc3366	South Africa
+GQ983385	#cc3366	South Africa
+GQ983478	#cc3366	South Africa
+MF197286	#cc3366	South Africa
+KC660311	#cc3366	South Africa
+KC660164	#cc3366	South Africa
+KC660166	#cc3366	South Africa
+KC660222	#cc3366	South Africa
+KC660256	#cc3366	South Africa
+KC660337	#cc3366	South Africa
+KC660257	#cc3366	South Africa
+KC660224	#cc3366	South Africa
+KC660242	#cc3366	South Africa
+KC660223	#cc3366	South Africa
+KC660270	#cc3366	South Africa
+KC660274	#cc3366	South Africa
+KY210262	#cc99a5	Tanzania
+KY210258	#cc99a5	Tanzania
+KY210243	#cc99a5	Tanzania
+KY210225	#cc99a5	Tanzania
+KY210271	#cc99a5	Tanzania
+KR534249	#cc99a5	Tanzania
+MZ418073	#c3cc66	Ethiopia
+MZ418059	#c3cc66	Ethiopia
+MZ418057	#c3cc66	Ethiopia
+MZ418058	#c3cc66	Ethiopia
+KC660160	#cc3366	South Africa
+KC660179	#cc3366	South Africa
+KC660248	#cc3366	South Africa
+KC660201	#cc3366	South Africa
+KC660220	#cc3366	South Africa
+KC660221	#cc3366	South Africa
+GQ983447	#cc3366	South Africa
+KC660233	#cc3366	South Africa
+GQ918296	#cc3366	South Africa
+KY681398	#cc3366	South Africa
+MF197281	#cc3366	South Africa
+KC660314	#cc3366	South Africa
+GQ983394	#cc3366	South Africa
+GQ983444	#cc3366	South Africa
+GQ983502	#cc3366	South Africa
+KC660190	#cc3366	South Africa
+KC660196	#cc3366	South Africa
+KC660193	#cc3366	South Africa
+KC660271	#cc3366	South Africa
+KR534256	#cc99a5	Tanzania
+KY210303	#cc99a5	Tanzania
+KR906787	#cc99a5	Tanzania
+KY210300	#cc99a5	Tanzania
+KY210234	#cc99a5	Tanzania
+KY210241	#cc99a5	Tanzania
+KY210232	#cc99a5	Tanzania
+KY210235	#cc99a5	Tanzania
+KR534244	#cc99a5	Tanzania
+KR534248	#cc99a5	Tanzania
+KY210231	#cc99a5	Tanzania
+KR534245	#cc99a5	Tanzania
+KR534246	#cc99a5	Tanzania
+KC660262	#cc3366	South Africa
+MW413404	#cc3366	South Africa
+KC660234	#cc3366	South Africa
+KC660235	#cc3366	South Africa
+KC660187	#cc3366	South Africa
+KC660243	#cc3366	South Africa
+KC660244	#cc3366	South Africa
+GQ983413	#cc3366	South Africa
+GQ983442	#cc3366	South Africa
+KC660269	#cc3366	South Africa
+KC660181	#cc3366	South Africa
+KC660165	#cc3366	South Africa
+KC660246	#cc3366	South Africa
+KY681366	#cc3366	South Africa
+MF197279	#cc3366	South Africa
+MF197278	#cc3366	South Africa
+MF197277	#cc3366	South Africa
+KC660192	#cc3366	South Africa
+KC660247	#cc3366	South Africa
+KC660272	#cc3366	South Africa
+KY210302	#cc99a5	Tanzania
+KY210299	#cc99a5	Tanzania
+MZ418064	#c3cc66	Ethiopia
+MZ418062	#c3cc66	Ethiopia
+MZ418063	#c3cc66	Ethiopia
+MZ418065	#c3cc66	Ethiopia
+MZ418074	#c3cc66	Ethiopia
+KC660203	#cc3366	South Africa
+KC660162	#cc3366	South Africa
+KC660163	#cc3366	South Africa
+KC660202	#cc3366	South Africa
+KC660205	#cc3366	South Africa
+KC660178	#cc3366	South Africa
+KC660200	#cc3366	South Africa
+KC660208	#cc3366	South Africa
+KC660238	#cc3366	South Africa
+GQ918323	#cc3366	South Africa
+GQ983520	#cc3366	South Africa
+KY210301	#cc99a5	Tanzania
+KY210289	#cc99a5	Tanzania
+KY210307	#cc99a5	Tanzania
+MZ418072	#c3cc66	Ethiopia
+GQ983450	#cc3366	South Africa
+KY210249	#cc99a5	Tanzania
+MZ418067	#c3cc66	Ethiopia
+MZ418068	#c3cc66	Ethiopia
+MZ418066	#c3cc66	Ethiopia
+MZ418069	#c3cc66	Ethiopia
+MZ418070	#c3cc66	Ethiopia
+MZ418071	#c3cc66	Ethiopia
+KC660280	#cc3366	South Africa
+KC660281	#cc3366	South Africa
+KC660319	#cc3366	South Africa
+KC660324	#cc3366	South Africa
+KC660320	#cc3366	South Africa
+KC660321	#cc3366	South Africa
+KC660317	#cc3366	South Africa
+KC660318	#cc3366	South Africa
+KC660332	#cc3366	South Africa
+KY210260	#cc99a5	Tanzania
+GQ983452	#cc3366	South Africa
+KC660282	#cc3366	South Africa
+KC660333	#cc3366	South Africa
+KC660322	#cc3366	South Africa
+KC660323	#cc3366	South Africa
+KY210292	#cc99a5	Tanzania
+KY210293	#cc99a5	Tanzania
+GQ918290	#cc3366	South Africa
+GQ983425	#cc3366	South Africa
+KC660330	#cc3366	South Africa
+KC660331	#cc3366	South Africa
+KC660326	#cc3366	South Africa
+KC660327	#cc3366	South Africa
+KC660328	#cc3366	South Africa
+KC660329	#cc3366	South Africa
+GQ983492	#cc3366	South Africa
+GQ983422	#cc3366	South Africa
+KY681359	#cc3366	South Africa
+DQ786033	#cc3366	South Africa
+KC660335	#cc3366	South Africa
+KC660334	#cc3366	South Africa
+KC660325	#cc3366	South Africa
+KC660316	#cc3366	South Africa

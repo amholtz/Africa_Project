@@ -1,0 +1,1552 @@
+DATASET_COLORSTRIP
+
+SEPARATOR TAB
+BORDER_WIDTH	0.5
+MARGIN	5
+STRIP_WIDTH	25
+COLOR	#ffffff
+DATASET_LABEL	Country
+
+LEGEND_COLORS	#cc6a66	#cc7e33	#ccc899	#a4cc66	#4ccc33	#99cca7	#66ccb0	#33b0cc	#99accc	#6d66cc	#8233cc	#ca99cc	#cc66a1	#cc3347	#cc4033	#ccb499	#ccca66	#89cc33	#9fcc99	#66cc87	#33cca9	#99c0cc	#6687cc	#4533cc	#b599cc	#cc66ca	#cc3385	#cc999d	#cc9f99	#cca166	#c7cc33	#b3cc99	#6dcc66	#33cc6c	#99ccc2	#66b0cc	#335ecc	#a199cc	#a466cc	#cc33c2	#cc99b2	#cc666a	#cc7866	#cc9233	#c8cc99	#96cc66	#37cc33	#99ccae	#66ccbe	#339ccc	#99a5cc	#7b66cc	#9733cc	#cc99c6	#cc6693	#cc3333	#cc5533	#ccbb99	#bfcc66	#75cc33	#99cc99	#66cc95	#33ccbe	#99b9cc	#6679cc	#5933cc	#bc99cc	#cc66bc	#cc3370	#cca699	#ccaf66	#b2cc33	#accc99	#66cc6c	#33cc80	#99ccc9	#66a2cc	#3349cc	#a899cc	#b266cc	#cc33ae	#cc99ab	#cc8566	#cca733	#c1cc99	#89cc66	#33cc42	#99ccb5	#66cccc	#3387cc	#999ecc	#8966cc	#ac33cc	#cc99bf	#cc6685	#cc6933	#ccc299	#b2cc66	#60cc33	#99cca0	#66cca2	#33c5cc	#99b2cc	#666ccc	#6e33cc	#c399cc	#cc66af	#cc335c	#ccad99	#ccbc66	#9ecc33	#a5cc99	#66cc79	#33cc95	#99c7cc	#6695cc	#3335cc	#af99cc	#bf66cc	#cc3399	#cc99a4	#cc9366	#ccbc33	#bacc99	#7bcc66	#33cc57	#99ccbc	#66becc	#3372cc	#9a99cc	#9666cc	#c033cc	#cc99b8	#cc6678
+LEGEND_LABELS	-	Afghanistan	Algeria	Argentina	Australia	Austria	Azerbaijan	Bangladesh	Belarus	Belgium	Benin	Bhutan	Bosnia and Herzegovina	Botswana	Brazil	Bulgaria	Burkina Faso	Burundi	Cambodia	Cameroon	Canada	Central African Republic	Chad	Chile	China	Colombia	Costa Rica	Croatia	Cuba	Czechia	Côte d'Ivoire	Democratic Republic of the Congo	Dominican Republic	Ecuador	Egypt	El Salvador	Equatorial Guinea	Estonia	Ethiopia	Finland	France	French Guiana	Gabon	Gambia	Georgia	Germany	Ghana	Greece	Greenland	Grenada	Guatemala	Guinea	Guyana	Haiti	Honduras	Hungary	India	Indonesia	Iran	Iraq	Israel	Italy	Japan	Jersey	Jordan	Kazakhstan	Kenya	Lao	Latvia	Lebanon	Lesotho	Liberia	Lithuania	Madagascar	Malawi	Malaysia	Mali	Mauritania	Mexico	Moldova	Mongolia	Montenegro	Morocco	Mozambique	Myanmar	Namibia	Nepal	Netherlands	Niger	Nigeria	Norway	Oman	Pakistan	Paraguay	Peru	Philippines	Poland	Puerto Rico	Qatar	Republic of Macedonia	Romania	Russia	Rwanda	Saudi Arabia	Senegal	Serbia	Sierra Leone	Slovakia	Slovenia	Somalia	South Africa	South Korea	Spain	Sri Lanka	Sudan	Swaziland	Switzerland	Syria	Taiwan	Tajikistan	Tanzania	Thailand	Trinidad and Tobago	Tunisia	Turkey	Uganda	Ukraine	United Arab Emirates	United Kingdom	United States	Uruguay	Vietnam	Zambia	Zimbabwe
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_TITLE	Country
+
+DATA
+#NODE_ID COLOR LABEL_OR_STYLE
+n387387	#9a99cc	United States
+n401401	#33cca9	Canada
+n375375	#b599cc	China
+n386	#33cc42	Nepal
+AB635373	#33cc95	Sri Lanka
+n388	#9a99cc	United States
+n401	#cc4033	Brazil
+MF143247	#33cca9	Canada
+MK540805	#33cca9	Canada
+n261261	#6e33cc	Senegal
+n376	#b599cc	China
+n383	#b599cc	China
+n386386	#33cc42	Nepal
+KX148245	#33cc42	Nepal
+n388388	#9a99cc	United States
+n398	#9a99cc	United States
+KM594026	#cc4033	Brazil
+KM594028	#cc4033	Brazil
+n262	#6e33cc	Senegal
+n375	#6e33cc	Senegal
+n376376	#b599cc	China
+n383383	#b599cc	China
+n385	#b599cc	China
+KX148108	#33cc42	Nepal
+MN534894	#33cc42	Nepal
+n389	#9a99cc	United States
+n397	#cc4033	Brazil
+n398398	#9a99cc	United States
+n400400	#9a99cc	United States
+n238238	#9ecc33	South Africa
+n260260	#b599cc	China
+n262262	#3387cc	Nigeria
+n368	#6e33cc	Senegal
+KU055531	#6e33cc	Senegal
+KU055527	#6e33cc	Senegal
+n377	#b599cc	China
+n380	#cc6933	Philippines
+n382	#cc66bc	Lao
+n382382	#cc9366	Thailand
+n384	#b599cc	China
+KX148265	#b599cc	China
+GU345746	#b599cc	China
+GU345747	#b599cc	China
+n389389	#9a99cc	United States
+n396	#9a99cc	United States
+n397397	#cc4033	Brazil
+KM594029	#cc4033	Brazil
+n399	#9a99cc	United States
+JQ685971	#9a99cc	United States
+JQ685920	#9a99cc	United States
+JQ685925	#9a99cc	United States
+n237237	#99ccc2	Egypt
+n239	#9ecc33	South Africa
+n252252	#9ecc33	South Africa
+n259	#33cca9	Canada
+n261	#b599cc	China
+KY952220	#b599cc	China
+n263	#3387cc	Nigeria
+KU055556	#3349cc	Mauritania
+n368368	#7b66cc	Guinea
+KU055529	#6e33cc	Senegal
+n377377	#b599cc	China
+n379379	#bf66cc	Taiwan
+n380380	#cc6933	Philippines
+MN726871	#cc6933	Philippines
+KX148255	#cc66bc	Lao
+KX148257	#cc66bc	Lao
+LC717423	#cc9366	Thailand
+EU293111	#cc9366	Thailand
+n384384	#b599cc	China
+FJ712193	#b599cc	China
+n390	#9a99cc	United States
+n396396	#9a99cc	United States
+JQ685955	#9a99cc	United States
+AB618032	#cc4033	Brazil
+KM594034	#cc4033	Brazil
+n399399	#9a99cc	United States
+n400	#9a99cc	United States
+n238	#99ccc2	Egypt
+KX148101	#99ccc2	Egypt
+n239239	#9ecc33	South Africa
+n252	#9ecc33	South Africa
+JQ692989	#9ecc33	South Africa
+JN899142	#9ecc33	South Africa
+n259259	#33cca9	Canada
+n260	#33cca9	Canada
+KY982922	#b599cc	China
+KC171644	#a5cc99	South Korea
+n263263	#3387cc	Nigeria
+KU055542	#66cccc	Niger
+n369	#7b66cc	Guinea
+KU055539	#7b66cc	Guinea
+n378	#b599cc	China
+KU946961	#b599cc	China
+KF620487	#bf66cc	Taiwan
+KF620488	#bf66cc	Taiwan
+n381	#cc6933	Philippines
+MN726880	#cc6933	Philippines
+KJ564280	#b599cc	China
+MK577649	#b599cc	China
+n390390	#9a99cc	United States
+n393	#9a99cc	United States
+n395395	#cc4033	Brazil
+JQ685948	#9a99cc	United States
+JQ685958	#9a99cc	United States
+JQ685952	#9a99cc	United States
+JQ685921	#9a99cc	United States
+JQ685918	#9a99cc	United States
+JQ685957	#9a99cc	United States
+n232	#cc4033	Brazil
+n234234	#a899cc	Mexico
+MK760770	#99ccc2	Egypt
+MG458317	#99ccc2	Egypt
+n240	#9ecc33	South Africa
+n246246	#9ecc33	South Africa
+JQ692981	#9ecc33	South Africa
+JQ692993	#9ecc33	South Africa
+n255	#cc7e33	Afghanistan
+n256256	#cc5533	India
+n257257	#bfcc66	Iran
+n258258	#33cc42	Nepal
+MK540994	#33cca9	Canada
+MK540961	#33cca9	Canada
+MN233968	#33cca9	Canada
+MN233987	#33cca9	Canada
+n264	#3387cc	Nigeria
+KU055521	#99c0cc	Central African Republic
+n369369	#7b66cc	Guinea
+KU055552	#7b66cc	Guinea
+n378378	#b599cc	China
+n379	#b599cc	China
+MN857170	#cc6933	Philippines
+MN857171	#cc6933	Philippines
+n391	#9a99cc	United States
+JQ685922	#9a99cc	United States
+JQ685915	#9a99cc	United States
+JQ685916	#9a99cc	United States
+n395	#a899cc	Mexico
+KM594037	#cc4033	Brazil
+KM594038	#cc4033	Brazil
+JQ685944	#9a99cc	United States
+n232232	#cc4033	Brazil
+n233233	#cc4033	Brazil
+n235	#a899cc	Mexico
+n236	#a899cc	Mexico
+n237	#9a99cc	United States
+OM971005	#a899cc	Mexico
+n240240	#cc6678	Zimbabwe
+n244	#9ecc33	South Africa
+n247	#9ecc33	South Africa
+MK858230	#9ecc33	South Africa
+n255255	#cc7e33	Afghanistan
+n256	#cc7e33	Afghanistan
+KY775603	#cc5533	India
+OM863569	#cc5533	India
+n258	#bfcc66	Iran
+MK760702	#bfcc66	Iran
+KX148228	#33cc42	Nepal
+MN534895	#33cc42	Nepal
+n264264	#3387cc	Nigeria
+n370	#7b66cc	Guinea
+n372372	#7b66cc	Guinea
+MG201921	#b599cc	China
+KX148264	#b599cc	China
+GU647092	#b599cc	China
+FJ712196	#b599cc	China
+n391391	#9a99cc	United States
+JQ685902	#9a99cc	United States
+KX148109	#cc4033	Brazil
+KX148100	#cc666a	French Guiana
+OM971001	#a899cc	Mexico
+OM971002	#a899cc	Mexico
+n233	#cc4033	Brazil
+KC737850	#9a99cc	United States
+KX148217	#cc4033	Brazil
+KM594039	#cc4033	Brazil
+n235235	#a899cc	Mexico
+JQ685899	#9a99cc	United States
+KX708503	#a899cc	Mexico
+KX148111	#a899cc	Mexico
+JQ685894	#9a99cc	United States
+JQ685970	#9a99cc	United States
+n241	#cc6678	Zimbabwe
+KY553273	#cc6678	Zimbabwe
+n244244	#9ecc33	South Africa
+HQ266614	#9ecc33	South Africa
+n247247	#9ecc33	South Africa
+n251	#9ecc33	South Africa
+KX148225	#cc7e33	Afghanistan
+KX148226	#cc7e33	Afghanistan
+MK760761	#bfcc66	Iran
+KX148227	#cc7e33	Afghanistan
+MK760729	#bfcc66	Iran
+MK760735	#bfcc66	Iran
+n265	#3387cc	Nigeria
+n367	#6687cc	Chad
+KU055526	#66a2cc	Mali
+KU055562	#c7cc33	Côte d'Ivoire
+n370370	#7b66cc	Guinea
+FJ545660	#cc66af	Sierra Leone
+n373	#7b66cc	Guinea
+EU853594	#7b66cc	Guinea
+n392	#9a99cc	United States
+JQ685910	#9a99cc	United States
+KX148214	#cc4033	Brazil
+KX148215	#cc4033	Brazil
+OK564514	#a899cc	Mexico
+JQ685975	#a899cc	Mexico
+n241241	#cc6678	Zimbabwe
+HQ266633	#cc6678	Zimbabwe
+n246	#9ecc33	South Africa
+n248	#9ecc33	South Africa
+AF079932	#cc6a66	-
+n251251	#9ecc33	South Africa
+AF467950	#9ecc33	South Africa
+n265265	#3387cc	Nigeria
+n344344	#3387cc	Nigeria
+FJ545662	#99c0cc	Central African Republic
+FJ545683	#6687cc	Chad
+n371	#7b66cc	Guinea
+MK471250	#7b66cc	Guinea
+n373373	#7b66cc	Guinea
+EU853593	#7b66cc	Guinea
+n392392	#9a99cc	United States
+JQ685900	#9a99cc	United States
+n120	#66cc6c	Madagascar
+n230230	#bfcc66	Iran
+MG458319	#339ccc	Grenada
+n242	#cc3347	Botswana
+KY553255	#cc6678	Zimbabwe
+n245245	#cc6a66	-
+AF079918	#cc6a66	-
+AF079920	#cc6a66	-
+JN162087	#9ecc33	South Africa
+n248248	#9ecc33	South Africa
+JQ692999	#9ecc33	South Africa
+JQ692992	#9ecc33	South Africa
+AF079916	#cc6a66	-
+n266	#3387cc	Nigeria
+n339339	#3387cc	Nigeria
+n345	#3387cc	Nigeria
+n366366	#3387cc	Nigeria
+n371371	#7b66cc	Guinea
+FJ545663	#7b66cc	Guinea
+n374	#7b66cc	Guinea
+JQ685947	#9a99cc	United States
+JQ685919	#9a99cc	United States
+n66	#cc99b8	Zambia
+n117	#33cc80	Malawi
+n120120	#66cc6c	Madagascar
+n129	#66cc6c	Madagascar
+n167	#cc8566	Morocco
+n189	#cc7866	Gabon
+KX148201	#3387cc	Nigeria
+n228	#7bcc66	Turkey
+KX148104	#cc99ab	Montenegro
+MG458309	#c399cc	Serbia
+n231	#bfcc66	Iran
+MK760676	#bfcc66	Iran
+n242242	#cc3347	Botswana
+KX148218	#cc3347	Botswana
+AF079919	#cc6a66	-
+AY354006	#cc6a66	-
+n249	#9ecc33	South Africa
+AF079928	#cc6a66	-
+n266266	#3387cc	Nigeria
+n319	#ccca66	Burkina Faso
+n340	#3387cc	Nigeria
+n342342	#99c0cc	Central African Republic
+n345345	#3387cc	Nigeria
+n366	#3387cc	Nigeria
+MN196559	#3387cc	Nigeria
+MN196560	#3387cc	Nigeria
+n372	#7b66cc	Guinea
+FJ545685	#7b66cc	Guinea
+MK471247	#7b66cc	Guinea
+EU853595	#cc66af	Sierra Leone
+EU853591	#cc9233	Gambia
+EU853592	#6e33cc	Senegal
+n7	#cc99b8	Zambia
+n117117	#33cc80	Malawi
+n119	#33cc80	Malawi
+n121	#66cc6c	Madagascar
+n127	#66cc6c	Madagascar
+n129129	#66cc6c	Madagascar
+n130130	#66cc6c	Madagascar
+n167167	#cc8566	Morocco
+EU853572	#cc8566	Morocco
+n189189	#cc7866	Gabon
+n206206	#cc7866	Gabon
+n214214	#cc3333	Hungary
+n228228	#7bcc66	Turkey
+KY860591	#7bcc66	Turkey
+n231231	#bfcc66	Iran
+MK760690	#bfcc66	Iran
+n243	#cc3347	Botswana
+n243243	#cc3347	Botswana
+n249249	#9ecc33	South Africa
+n250250	#9ecc33	South Africa
+n319319	#ccca66	Burkina Faso
+EU827276	#ccca66	Burkina Faso
+AY854600	#3387cc	Nigeria
+n343	#99c0cc	Central African Republic
+n344	#99c0cc	Central African Republic
+n346	#3387cc	Nigeria
+EU888717	#3387cc	Nigeria
+KJ921997	#3387cc	Nigeria
+EU038109	#3387cc	Nigeria
+KX148244	#7b66cc	Guinea
+FJ545680	#7b66cc	Guinea
+n77	#cc99b8	Zambia
+LC380134	#cc99b8	Zambia
+KJ133668	#33cc57	Uganda
+KX148208	#99c0cc	Central African Republic
+n118	#33cc80	Malawi
+n118118	#33cc80	Malawi
+n119119	#33cc80	Malawi
+KR906752	#cc99a4	Tanzania
+n121121	#66cc6c	Madagascar
+n125	#66cc6c	Madagascar
+n127127	#66cc6c	Madagascar
+n128128	#66cc6c	Madagascar
+n130	#66cc6c	Madagascar
+KC787063	#66cc6c	Madagascar
+KC787051	#66cc6c	Madagascar
+KC787055	#66cc6c	Madagascar
+n133	#a466cc	Ethiopia
+n162	#bacc99	Tunisia
+MF781074	#33c5cc	Russia
+n168	#cc8566	Morocco
+n190	#cc7866	Gabon
+KT119772	#cc7866	Gabon
+n207	#cc7866	Gabon
+n211211	#cc7866	Gabon
+n215	#cc3333	Hungary
+KX148161	#c399cc	Serbia
+n227227	#99cc99	Israel
+n229	#7bcc66	Turkey
+KY860597	#7bcc66	Turkey
+MK760747	#bfcc66	Iran
+MK760684	#bfcc66	Iran
+KX148219	#cc3347	Botswana
+KU739041	#cc3347	Botswana
+KU055532	#cc3347	Botswana
+KU055533	#cc3347	Botswana
+n250	#9ecc33	South Africa
+JN162084	#9ecc33	South Africa
+AF079926	#cc6a66	-
+GQ918329	#9ecc33	South Africa
+n299299	#c7cc33	Côte d'Ivoire
+n301301	#6e33cc	Senegal
+n320	#66cccc	Niger
+n330330	#ccca66	Burkina Faso
+n341	#37cc33	Ghana
+n342	#8233cc	Benin
+n343343	#99c0cc	Central African Republic
+KF734703	#99c0cc	Central African Republic
+U22644	#cc6a66	-
+KT119767	#99c0cc	Central African Republic
+n346346	#3387cc	Nigeria
+n357	#6687cc	Chad
+n8	#cc99b8	Zambia
+n78	#cc99b8	Zambia
+LC682836	#33cc80	Malawi
+LC682833	#33cc80	Malawi
+LC682848	#33cc80	Malawi
+LC682838	#33cc80	Malawi
+LC683180	#33cc80	Malawi
+LC380216	#cc99b8	Zambia
+n122	#66cc6c	Madagascar
+n123123	#66cc6c	Madagascar
+n125125	#66cc6c	Madagascar
+KX148211	#66cc6c	Madagascar
+n128	#66cc6c	Madagascar
+KC787072	#66cc6c	Madagascar
+KC787058	#66cc6c	Madagascar
+KC787052	#66cc6c	Madagascar
+KC787057	#66cc6c	Madagascar
+KC787060	#66cc6c	Madagascar
+n133133	#a466cc	Ethiopia
+MZ418095	#a466cc	Ethiopia
+n162162	#bacc99	Tunisia
+n165165	#bacc99	Tunisia
+AY605032	#cc6678	Zimbabwe
+AF177058	#cc6a66	-
+n168168	#cc8566	Morocco
+n174174	#cc8566	Morocco
+n180	#bacc99	Tunisia
+n190190	#66cc87	Cameroon
+n199199	#37cc33	Ghana
+n207207	#cc7866	Gabon
+n210210	#cc7866	Gabon
+n212	#cc7866	Gabon
+KT119775	#cc7866	Gabon
+n215215	#cc3333	Hungary
+n222222	#cc3333	Hungary
+KY860611	#7bcc66	Turkey
+KX148191	#99cc99	Israel
+KX148192	#99cc99	Israel
+KY860598	#7bcc66	Turkey
+KY860599	#7bcc66	Turkey
+AF079927	#cc6a66	-
+JX088736	#9ecc33	South Africa
+n300	#c7cc33	Côte d'Ivoire
+FJ545677	#c7cc33	Côte d'Ivoire
+n302	#6e33cc	Senegal
+n311	#6e33cc	Senegal
+EU853624	#3349cc	Mauritania
+n320320	#66cccc	Niger
+n326326	#66cccc	Niger
+n331	#ccca66	Burkina Faso
+n338338	#ccca66	Burkina Faso
+n341341	#37cc33	Ghana
+HM368100	#37cc33	Ghana
+KX148107	#8233cc	Benin
+FJ545673	#8233cc	Benin
+KT119755	#99c0cc	Central African Republic
+KF734710	#99c0cc	Central African Republic
+n347	#3387cc	Nigeria
+n356356	#66cc87	Cameroon
+n357357	#6687cc	Chad
+n365365	#6687cc	Chad
+n88	#cc99b8	Zambia
+n74	#cc99b8	Zambia
+n7878	#cc99a4	Tanzania
+n110110	#89cc66	Namibia
+n122122	#66cc6c	Madagascar
+KC787059	#66cc6c	Madagascar
+n124	#66cc6c	Madagascar
+n124124	#66cc6c	Madagascar
+n126	#66cc6c	Madagascar
+AY138571	#66cc6c	Madagascar
+KC787069	#66cc6c	Madagascar
+KC787070	#66cc6c	Madagascar
+n134	#a466cc	Ethiopia
+n151	#a466cc	Ethiopia
+n163	#bacc99	Tunisia
+EU643561	#bacc99	Tunisia
+EU853573	#bacc99	Tunisia
+EU853576	#bacc99	Tunisia
+n169	#cc8566	Morocco
+n174	#66cc79	Spain
+n175	#cc8566	Morocco
+AY854666	#cc8566	Morocco
+n180180	#bacc99	Tunisia
+EU643583	#bacc99	Tunisia
+EU851123	#66cc79	Spain
+n191	#66cc87	Cameroon
+n198	#66cc87	Cameroon
+n200	#37cc33	Ghana
+n204	#37cc33	Ghana
+n208	#cc7866	Gabon
+n209209	#cc7866	Gabon
+n211	#cc7866	Gabon
+KT119783	#cc7866	Gabon
+KT119771	#cc7866	Gabon
+KT119777	#cc7866	Gabon
+n216	#cc3333	Hungary
+n221	#cc3333	Hungary
+n223	#33c5cc	Russia
+n224224	#cc3333	Hungary
+n227	#bfcc66	Iran
+KX148173	#666ccc	Saudi Arabia
+n299	#66a2cc	Mali
+n300300	#c7cc33	Côte d'Ivoire
+EU853621	#c7cc33	Côte d'Ivoire
+n302302	#6e33cc	Senegal
+FJ545664	#3349cc	Mauritania
+n321	#66cccc	Niger
+n325325	#66cccc	Niger
+n327	#66cccc	Niger
+KX148231	#66cccc	Niger
+n331331	#ccca66	Burkina Faso
+EU478508	#ccca66	Burkina Faso
+n339	#ccca66	Burkina Faso
+KX148230	#ccca66	Burkina Faso
+HM368095	#37cc33	Ghana
+HM368111	#37cc33	Ghana
+n347347	#3387cc	Nigeria
+n353353	#3387cc	Nigeria
+KX148243	#66cc87	Cameroon
+KU055546	#66cc87	Cameroon
+n358	#6687cc	Chad
+n364364	#66cccc	Niger
+EU853655	#6687cc	Chad
+EU853656	#6687cc	Chad
+n9	#cc99b8	Zambia
+n6868	#cc99b8	Zambia
+n7474	#cc99b8	Zambia
+LC380107	#cc99b8	Zambia
+n79	#cc99a4	Tanzania
+n108108	#cc99a4	Tanzania
+n111	#89cc66	Namibia
+DQ194880	#89cc66	Namibia
+n123	#66cc6c	Madagascar
+KC787061	#66cc6c	Madagascar
+KX148210	#66cc6c	Madagascar
+KC787065	#66cc6c	Madagascar
+KX148209	#66cc6c	Madagascar
+KU055519	#66cc6c	Madagascar
+n126126	#66cc6c	Madagascar
+MN991293	#66cc6c	Madagascar
+n134134	#99c7cc	Sudan
+MZ418094	#a466cc	Ethiopia
+n151151	#a466cc	Ethiopia
+n161161	#ccbc66	Somalia
+n163163	#bacc99	Tunisia
+n165	#bacc99	Tunisia
+n169169	#cc8566	Morocco
+EU853571	#cc8566	Morocco
+EU851127	#66cc79	Spain
+EU851129	#66cc79	Spain
+n175175	#66cc79	Spain
+KX148194	#cc8566	Morocco
+n181	#bacc99	Tunisia
+EU643572	#bacc99	Tunisia
+n191191	#66cc87	Cameroon
+n195	#66cc87	Cameroon
+n198198	#66cc87	Cameroon
+MF537573	#66cc87	Cameroon
+n200200	#37cc33	Ghana
+HM368143	#37cc33	Ghana
+n204204	#37cc33	Ghana
+n205205	#37cc33	Ghana
+n208208	#cc7866	Gabon
+n209	#cc7866	Gabon
+n210	#cc7866	Gabon
+GU815999	#cc7866	Gabon
+MW553269	#cc7866	Gabon
+MW553270	#cc7866	Gabon
+n216216	#96cc66	Germany
+n220	#cc3333	Hungary
+n221221	#cc3333	Hungary
+KX148155	#a199cc	Estonia
+n223223	#33c5cc	Russia
+n224	#33c5cc	Russia
+n225	#cc3333	Hungary
+JQ944708	#33c5cc	Russia
+MK760726	#bfcc66	Iran
+MK760742	#bfcc66	Iran
+n284	#ccca66	Burkina Faso
+GU815997	#c7cc33	Côte d'Ivoire
+n285285	#3349cc	Mauritania
+n298298	#3387cc	Nigeria
+FJ545669	#66a2cc	Mali
+FJ545670	#66a2cc	Mali
+KX148235	#c7cc33	Côte d'Ivoire
+MN049984	#b2cc33	Liberia
+n303	#6e33cc	Senegal
+n310310	#6e33cc	Senegal
+n312	#3349cc	Mauritania
+EU853625	#6e33cc	Senegal
+KU739038	#ccca66	Burkina Faso
+FJ545668	#66a2cc	Mali
+n314314	#66a2cc	Mali
+EU478515	#ccca66	Burkina Faso
+n318318	#ccca66	Burkina Faso
+KP976113	#66a2cc	Mali
+n321321	#66cccc	Niger
+EU827275	#ccca66	Burkina Faso
+n326	#66cccc	Niger
+KX148229	#66cccc	Niger
+n327327	#66cccc	Niger
+n330	#66cccc	Niger
+n332	#ccca66	Burkina Faso
+FJ545674	#66cccc	Niger
+KU739043	#66cccc	Niger
+EU478510	#ccca66	Burkina Faso
+n348	#3387cc	Nigeria
+n351351	#6687cc	Chad
+n354	#3387cc	Nigeria
+n355355	#6687cc	Chad
+n358358	#6687cc	Chad
+KT119778	#6687cc	Chad
+n365	#66cccc	Niger
+FJ545679	#66cccc	Niger
+n99	#cc99b8	Zambia
+n6464	#cc99b8	Zambia
+n69	#99c0cc	Central African Republic
+KT119776	#b3cc99	Democratic Republic of the Congo
+n75	#cc99b8	Zambia
+n7676	#cc99b8	Zambia
+n7979	#cc99a4	Tanzania
+DQ900577	#cc99a4	Tanzania
+n109	#cc99a4	Tanzania
+n110	#cc99a4	Tanzania
+n111111	#b3cc99	Democratic Republic of the Congo
+JQ691419	#89cc66	Namibia
+MN991297	#66cc6c	Madagascar
+MN991296	#66cc6c	Madagascar
+KC787068	#66cc6c	Madagascar
+MN991295	#66cc6c	Madagascar
+n135	#99c7cc	Sudan
+FJ947007	#99c7cc	Sudan
+n152	#a466cc	Ethiopia
+n161	#a466cc	Ethiopia
+KX148199	#ccbc66	Somalia
+KX148198	#ccbc66	Somalia
+n164	#bacc99	Tunisia
+EU643558	#bacc99	Tunisia
+EU853579	#bacc99	Tunisia
+KF831545	#bacc99	Tunisia
+n170	#cc8566	Morocco
+n172172	#cc8566	Morocco
+n176	#66cc79	Spain
+EU851128	#66cc79	Spain
+n181181	#bacc99	Tunisia
+n185	#bacc99	Tunisia
+n187	#bacc99	Tunisia
+n187187	#ccc899	Algeria
+KU055515	#cc8566	Morocco
+KX148197	#ccc899	Algeria
+n192	#66cc87	Cameroon
+n194	#66cc87	Cameroon
+n195195	#66cc87	Cameroon
+MF537532	#66cc87	Cameroon
+n199	#66cc87	Cameroon
+MF537566	#66cc87	Cameroon
+n201	#37cc33	Ghana
+HM368133	#37cc33	Ghana
+n205	#37cc33	Ghana
+HM368157	#37cc33	Ghana
+n206	#37cc33	Ghana
+HM368107	#37cc33	Ghana
+KU055517	#cc7866	Gabon
+FJ440104	#335ecc	Equatorial Guinea
+MW553267	#cc7866	Gabon
+MW553268	#cc7866	Gabon
+KX148202	#cc7866	Gabon
+KT119785	#cc7866	Gabon
+n217	#96cc66	Germany
+n218218	#96cc66	Germany
+n220220	#cc3333	Hungary
+MK598343	#cc3333	Hungary
+n222	#cc3333	Hungary
+MK598393	#cc3333	Hungary
+ON366710	#5933cc	Kazakhstan
+KC595280	#33c5cc	Russia
+MK760712	#bfcc66	Iran
+KT728348	#33c5cc	Russia
+KX148160	#cc3333	Hungary
+MK598342	#cc3333	Hungary
+n280	#b2cc33	Liberia
+EU853620	#66a2cc	Mali
+KX148234	#ccca66	Burkina Faso
+KU055538	#ccca66	Burkina Faso
+n286	#3349cc	Mauritania
+n293	#3349cc	Mauritania
+MK471251	#7b66cc	Guinea
+EU888770	#3387cc	Nigeria
+n303303	#6e33cc	Senegal
+n309309	#6e33cc	Senegal
+EU853643	#6e33cc	Senegal
+FJ545661	#6e33cc	Senegal
+FJ545682	#3349cc	Mauritania
+EU853642	#3349cc	Mauritania
+n315	#66a2cc	Mali
+EU853622	#66a2cc	Mali
+EU478492	#ccca66	Burkina Faso
+EU478518	#ccca66	Burkina Faso
+n322	#66cccc	Niger
+EU827273	#ccca66	Burkina Faso
+FJ545678	#66cccc	Niger
+EU827277	#66cccc	Niger
+n328	#66cccc	Niger
+EU853649	#66cccc	Niger
+EU853647	#66cccc	Niger
+EU853648	#66cccc	Niger
+EU853646	#66cccc	Niger
+n332332	#ccca66	Burkina Faso
+EU478519	#ccca66	Burkina Faso
+n348348	#3387cc	Nigeria
+MN166229	#3387cc	Nigeria
+n352	#6687cc	Chad
+n353	#6687cc	Chad
+n354354	#3387cc	Nigeria
+EU718771	#6687cc	Chad
+n356	#6687cc	Chad
+MF538630	#6687cc	Chad
+n359	#6687cc	Chad
+n362	#6687cc	Chad
+EU853654	#66cccc	Niger
+EU888729	#3387cc	Nigeria
+n10	#cc99b8	Zambia
+n59	#cc99b8	Zambia
+n65	#cc99b8	Zambia
+n67	#cc99b8	Zambia
+n6969	#99c0cc	Central African Republic
+KT119640	#99c0cc	Central African Republic
+n7575	#cc99b8	Zambia
+n76	#cc99b8	Zambia
+n7777	#cc99b8	Zambia
+LC380114	#cc99b8	Zambia
+n80	#cc99a4	Tanzania
+DQ900569	#cc99a4	Tanzania
+n109109	#cc99a4	Tanzania
+HM368094	#37cc33	Ghana
+DQ900564	#cc99a4	Tanzania
+DQ900578	#cc99a4	Tanzania
+n112	#b3cc99	Democratic Republic of the Congo
+KP257624	#b3cc99	Democratic Republic of the Congo
+n135135	#99c7cc	Sudan
+n145145	#33cc57	Uganda
+n152152	#a466cc	Ethiopia
+MZ418097	#a466cc	Ethiopia
+MZ418086	#a466cc	Ethiopia
+FJ947027	#99c7cc	Sudan
+n164164	#bacc99	Tunisia
+EU643588	#bacc99	Tunisia
+n170170	#cc8566	Morocco
+n172	#cc8566	Morocco
+n173	#cc8566	Morocco
+EU853570	#cc8566	Morocco
+n176176	#66cc79	Spain
+n178178	#66cc79	Spain
+n182	#bacc99	Tunisia
+EU643564	#bacc99	Tunisia
+EU643581	#bacc99	Tunisia
+EU643582	#bacc99	Tunisia
+EU853566	#bacc99	Tunisia
+EU643587	#bacc99	Tunisia
+EU853567	#ccc899	Algeria
+EU853568	#ccc899	Algeria
+n192192	#66cc87	Cameroon
+MF537530	#66cc87	Cameroon
+n194194	#66cc87	Cameroon
+MF537519	#66cc87	Cameroon
+n196	#66cc87	Cameroon
+MF537553	#66cc87	Cameroon
+MF537568	#66cc87	Cameroon
+MF537567	#66cc87	Cameroon
+n201201	#37cc33	Ghana
+n203	#37cc33	Ghana
+HM368109	#37cc33	Ghana
+HQ256771	#37cc33	Ghana
+HM368155	#37cc33	Ghana
+HM368162	#37cc33	Ghana
+n217217	#ccc299	Poland
+KX148123	#96cc66	Germany
+n219	#96cc66	Germany
+KX148135	#96cc66	Germany
+KX148136	#cc3333	Hungary
+KX148139	#cc3333	Hungary
+MK598355	#cc3333	Hungary
+MK598356	#cc3333	Hungary
+KP345881	#cc99b2	France
+KP976118	#66a2cc	Mali
+n280280	#b2cc33	Liberia
+MN049980	#b2cc33	Liberia
+n286286	#3349cc	Mauritania
+n290	#3349cc	Mauritania
+n293293	#3349cc	Mauritania
+KU055555	#3349cc	Mauritania
+n304	#6e33cc	Senegal
+n308	#6e33cc	Senegal
+n310	#6e33cc	Senegal
+KX148238	#6e33cc	Senegal
+n315315	#66a2cc	Mali
+KP976123	#66a2cc	Mali
+n322322	#66cccc	Niger
+EU514571	#66cccc	Niger
+n328328	#66cccc	Niger
+EU478524	#ccca66	Burkina Faso
+n333	#ccca66	Burkina Faso
+n338	#ccca66	Burkina Faso
+n349	#3387cc	Nigeria
+DQ275560	#6687cc	Chad
+n352352	#6687cc	Chad
+KU564987	#6687cc	Chad
+KY124534	#6687cc	Chad
+KU564996	#6687cc	Chad
+n355	#66cc87	Cameroon
+EU888724	#3387cc	Nigeria
+MF577065	#6687cc	Chad
+MF538631	#6687cc	Chad
+n359359	#6687cc	Chad
+n361361	#6687cc	Chad
+n362362	#6687cc	Chad
+KU564993	#6687cc	Chad
+n1010	#cc6678	Zimbabwe
+n45	#cc99b8	Zambia
+n5959	#cc99b8	Zambia
+n6363	#cc99b8	Zambia
+n6565	#cc99b8	Zambia
+LC380190	#cc99b8	Zambia
+n6767	#cc99b8	Zambia
+n68	#cc99b8	Zambia
+n70	#99c0cc	Central African Republic
+EU853586	#99c0cc	Central African Republic
+LC380127	#cc99b8	Zambia
+LC380122	#cc99b8	Zambia
+LC380102	#cc99b8	Zambia
+LC380155	#cc6678	Zimbabwe
+LC380113	#cc99b8	Zambia
+LC380089	#cc99b8	Zambia
+n8080	#cc99a4	Tanzania
+n107	#cc99a4	Tanzania
+DQ900565	#cc99a4	Tanzania
+DQ900561	#cc99a4	Tanzania
+n112112	#b3cc99	Democratic Republic of the Congo
+n115115	#b3cc99	Democratic Republic of the Congo
+n136	#99c7cc	Sudan
+FJ947028	#99c7cc	Sudan
+n146	#33cc57	Uganda
+KJ133672	#33cc57	Uganda
+n153	#a466cc	Ethiopia
+n160160	#a466cc	Ethiopia
+EU643557	#bacc99	Tunisia
+EU643556	#bacc99	Tunisia
+n171	#cc8566	Morocco
+KX148196	#cc8566	Morocco
+KX148195	#cc8566	Morocco
+GU798694	#cc6a66	-
+n173173	#cc8566	Morocco
+AF401287	#cc8566	Morocco
+n177	#66cc79	Spain
+n178	#66cc79	Spain
+n179	#66cc79	Spain
+EU851122	#66cc79	Spain
+n182182	#bacc99	Tunisia
+EU643580	#bacc99	Tunisia
+n193	#66cc87	Cameroon
+MF537555	#66cc87	Cameroon
+MF537559	#66cc87	Cameroon
+MF537558	#66cc87	Cameroon
+n196196	#66cc87	Cameroon
+MF537552	#66cc87	Cameroon
+n202	#37cc33	Ghana
+n202202	#37cc33	Ghana
+n203203	#37cc33	Ghana
+HM368096	#37cc33	Ghana
+n218	#ccc299	Poland
+KX148116	#ccc299	Poland
+n219219	#ccad99	Slovenia
+LN879481	#96cc66	Germany
+n270270	#c7cc33	Côte d'Ivoire
+EU853615	#c7cc33	Côte d'Ivoire
+HM368142	#37cc33	Ghana
+n281	#b2cc33	Liberia
+n283	#b2cc33	Liberia
+n287	#66a2cc	Mali
+n289289	#3349cc	Mauritania
+n290290	#3349cc	Mauritania
+MK471248	#7b66cc	Guinea
+n294	#3349cc	Mauritania
+EU514581	#3349cc	Mauritania
+n304304	#6e33cc	Senegal
+n307307	#6e33cc	Senegal
+n308308	#6e33cc	Senegal
+n309	#6e33cc	Senegal
+EU853641	#6e33cc	Senegal
+EU853640	#6e33cc	Senegal
+n316	#66a2cc	Mali
+n317317	#66a2cc	Mali
+n323	#8233cc	Benin
+EU514572	#66cccc	Niger
+n329	#37cc33	Ghana
+EU853650	#66cccc	Niger
+n333333	#ccca66	Burkina Faso
+n336	#ccca66	Burkina Faso
+EU478497	#ccca66	Burkina Faso
+KP976121	#66a2cc	Mali
+n349349	#3387cc	Nigeria
+n351	#3387cc	Nigeria
+KU564995	#6687cc	Chad
+KU564988	#6687cc	Chad
+MF537578	#66cc87	Cameroon
+MF537580	#66cc87	Cameroon
+n360	#6687cc	Chad
+n361	#6687cc	Chad
+EU718767	#6687cc	Chad
+KT119786	#6687cc	Chad
+n363	#99c0cc	Central African Republic
+MF538629	#6687cc	Chad
+n1111	#cc6678	Zimbabwe
+n3131	#cc6678	Zimbabwe
+LC380128	#cc99b8	Zambia
+n60	#cc6678	Zimbabwe
+LC380165	#cc99b8	Zambia
+n64	#cc99b8	Zambia
+AF177107	#cc6a66	-
+n6666	#cc6678	Zimbabwe
+LC380217	#cc99b8	Zambia
+LC380198	#cc99b8	Zambia
+LC683173	#33cc80	Malawi
+AB572995	#cc99b8	Zambia
+LC380168	#cc99b8	Zambia
+n7070	#99c0cc	Central African Republic
+KT119650	#99c0cc	Central African Republic
+n81	#cc99a4	Tanzania
+DQ900560	#cc99a4	Tanzania
+n107107	#cc99a4	Tanzania
+KJ133663	#33cc57	Uganda
+n113	#b3cc99	Democratic Republic of the Congo
+n115	#b3cc99	Democratic Republic of the Congo
+n116	#b3cc99	Democratic Republic of the Congo
+MN264706	#b3cc99	Democratic Republic of the Congo
+n136136	#99c7cc	Sudan
+n142142	#99c7cc	Sudan
+n146146	#bc99cc	Kenya
+n150	#33cc57	Uganda
+n153153	#a466cc	Ethiopia
+KX148200	#a466cc	Ethiopia
+EU853580	#a466cc	Ethiopia
+KP723638	#a466cc	Ethiopia
+n171171	#cc8566	Morocco
+EU853569	#cc8566	Morocco
+KU055541	#cc8566	Morocco
+KF155001	#cc8566	Morocco
+n177177	#66cc79	Spain
+EU851124	#66cc79	Spain
+EU851120	#66cc79	Spain
+EU851121	#66cc79	Spain
+KX148193	#cc8566	Morocco
+KU739044	#66cc79	Spain
+n183	#bacc99	Tunisia
+EU643568	#bacc99	Tunisia
+n193193	#66cc87	Cameroon
+MF537547	#66cc87	Cameroon
+n197	#66cc87	Cameroon
+MF537542	#66cc87	Cameroon
+HM368149	#37cc33	Ghana
+HM368158	#37cc33	Ghana
+HM368145	#37cc33	Ghana
+HM368110	#37cc33	Ghana
+HM368128	#37cc33	Ghana
+HM368134	#37cc33	Ghana
+MF197742	#ccc299	Poland
+OM542193	#ccc299	Poland
+KX148131	#ccad99	Slovenia
+KX148132	#ccad99	Slovenia
+n271	#c7cc33	Côte d'Ivoire
+n274	#c7cc33	Côte d'Ivoire
+FJ545681	#c7cc33	Côte d'Ivoire
+n281281	#b2cc33	Liberia
+n282	#b2cc33	Liberia
+MN049979	#b2cc33	Liberia
+MK471246	#7b66cc	Guinea
+n287287	#66a2cc	Mali
+KP976117	#66a2cc	Mali
+EU853612	#66a2cc	Mali
+EU853613	#3349cc	Mauritania
+n291	#3349cc	Mauritania
+n292292	#3349cc	Mauritania
+n294294	#3349cc	Mauritania
+KX148236	#3349cc	Mauritania
+n305	#6e33cc	Senegal
+n307	#6e33cc	Senegal
+MH514982	#6e33cc	Senegal
+MH514985	#6e33cc	Senegal
+EU853639	#6e33cc	Senegal
+EU853631	#6e33cc	Senegal
+EU853627	#6e33cc	Senegal
+MH514970	#6e33cc	Senegal
+n316316	#66a2cc	Mali
+KP976128	#66a2cc	Mali
+KP976130	#66a2cc	Mali
+KP976129	#66a2cc	Mali
+n323323	#8233cc	Benin
+n325	#8233cc	Benin
+n329329	#37cc33	Ghana
+HM368102	#37cc33	Ghana
+n334	#ccca66	Burkina Faso
+n335335	#66cccc	Niger
+n336336	#ccca66	Burkina Faso
+EU478511	#ccca66	Burkina Faso
+n350	#3387cc	Nigeria
+EU038095	#3387cc	Nigeria
+EU888710	#3387cc	Nigeria
+EU038106	#3387cc	Nigeria
+n360360	#6687cc	Chad
+KU564999	#6687cc	Chad
+EU718785	#6687cc	Chad
+EU718766	#6687cc	Chad
+n363363	#99c0cc	Central African Republic
+n364	#99c0cc	Central African Republic
+n12	#cc6678	Zimbabwe
+n2727	#cc6678	Zimbabwe
+n32	#33cc80	Malawi
+n4242	#cc6678	Zimbabwe
+n46	#89cc66	Namibia
+n57	#9ecc33	South Africa
+n6060	#cc6678	Zimbabwe
+KY553279	#cc6678	Zimbabwe
+MK467499	#9ecc33	South Africa
+AF177116	#cc6a66	-
+MF425813	#cc6678	Zimbabwe
+MN602878	#cc6678	Zimbabwe
+n71	#99c0cc	Central African Republic
+n73	#99c0cc	Central African Republic
+n8181	#cc99a4	Tanzania
+n108	#cc99a4	Tanzania
+DQ900573	#cc99a4	Tanzania
+n113113	#b3cc99	Democratic Republic of the Congo
+n114114	#b3cc99	Democratic Republic of the Congo
+MN264711	#b3cc99	Democratic Republic of the Congo
+MN264695	#b3cc99	Democratic Republic of the Congo
+MN264703	#b3cc99	Democratic Republic of the Congo
+MN264694	#b3cc99	Democratic Republic of the Congo
+n137	#99c7cc	Sudan
+n141	#99c7cc	Sudan
+n143	#99c7cc	Sudan
+n145	#99c7cc	Sudan
+n147	#bc99cc	Kenya
+MN726819	#bc99cc	Kenya
+n150150	#33cc57	Uganda
+KJ133676	#33cc57	Uganda
+n154	#a466cc	Ethiopia
+n160	#a466cc	Ethiopia
+GU798954	#cc6a66	-
+GU798864	#cc6a66	-
+EU851126	#66cc79	Spain
+EU851125	#66cc79	Spain
+n183183	#bacc99	Tunisia
+EU643574	#bacc99	Tunisia
+MF537546	#66cc87	Cameroon
+MF537545	#66cc87	Cameroon
+n197197	#66cc87	Cameroon
+MF537554	#66cc87	Cameroon
+n271271	#c7cc33	Côte d'Ivoire
+n273273	#c7cc33	Côte d'Ivoire
+FJ545659	#c7cc33	Côte d'Ivoire
+FJ545684	#c7cc33	Côte d'Ivoire
+MH481711	#b2cc33	Liberia
+MH481713	#b2cc33	Liberia
+MN049981	#b2cc33	Liberia
+n282282	#b2cc33	Liberia
+MN049983	#b2cc33	Liberia
+n288	#66a2cc	Mali
+EU853605	#66a2cc	Mali
+n291291	#3349cc	Mauritania
+KX148237	#3349cc	Mauritania
+EU853607	#3349cc	Mauritania
+EU853608	#3349cc	Mauritania
+n295	#3349cc	Mauritania
+EU853606	#3349cc	Mauritania
+n305305	#6e33cc	Senegal
+n306306	#6e33cc	Senegal
+MH514980	#6e33cc	Senegal
+MH514978	#6e33cc	Senegal
+n317	#66a2cc	Mali
+KP976126	#66a2cc	Mali
+n324	#8233cc	Benin
+n324324	#8233cc	Benin
+MT370504	#8233cc	Benin
+MT370505	#8233cc	Benin
+HM368151	#37cc33	Ghana
+HM368153	#37cc33	Ghana
+n334334	#ccca66	Burkina Faso
+EU478501	#ccca66	Burkina Faso
+EU514573	#66cccc	Niger
+EU514574	#66cccc	Niger
+n337	#ccca66	Burkina Faso
+EU478513	#ccca66	Burkina Faso
+n350350	#3387cc	Nigeria
+EU888645	#3387cc	Nigeria
+KY124533	#6687cc	Chad
+KU564989	#6687cc	Chad
+KF734680	#99c0cc	Central African Republic
+KT119768	#99c0cc	Central African Republic
+KT119758	#99c0cc	Central African Republic
+KT119760	#99c0cc	Central African Republic
+n1212	#cca733	Mozambique
+n2626	#cc6678	Zimbabwe
+n28	#cc6678	Zimbabwe
+KU739040	#cc3347	Botswana
+n3232	#33cc80	Malawi
+n43	#cc6678	Zimbabwe
+KY563715	#cc6678	Zimbabwe
+n4646	#89cc66	Namibia
+n54	#89cc66	Namibia
+n5757	#9ecc33	South Africa
+DQ489829	#9ecc33	South Africa
+n61	#cc6678	Zimbabwe
+AF177077	#cc6a66	-
+n7171	#99c0cc	Central African Republic
+EU853590	#99c0cc	Central African Republic
+n7373	#99c0cc	Central African Republic
+KF734690	#99c0cc	Central African Republic
+n82	#cc99a4	Tanzania
+n103	#bc99cc	Kenya
+AB505874	#33cc57	Uganda
+KC792032	#bc99cc	Kenya
+DQ900574	#cc99a4	Tanzania
+KX148207	#bc99cc	Kenya
+n114	#b3cc99	Democratic Republic of the Congo
+MN264700	#b3cc99	Democratic Republic of the Congo
+MN264698	#b3cc99	Democratic Republic of the Congo
+MN264702	#b3cc99	Democratic Republic of the Congo
+n137137	#99c7cc	Sudan
+n140140	#99c7cc	Sudan
+n141141	#99c7cc	Sudan
+FJ947019	#99c7cc	Sudan
+n143143	#99c7cc	Sudan
+FJ947014	#99c7cc	Sudan
+FJ947029	#99c7cc	Sudan
+FJ947017	#99c7cc	Sudan
+n147147	#bc99cc	Kenya
+MN726830	#bc99cc	Kenya
+KJ133660	#33cc57	Uganda
+KJ133683	#33cc57	Uganda
+n154154	#a466cc	Ethiopia
+MZ418078	#a466cc	Ethiopia
+MZ418083	#a466cc	Ethiopia
+MZ418090	#a466cc	Ethiopia
+n184	#bacc99	Tunisia
+n184184	#bacc99	Tunisia
+MF537537	#66cc87	Cameroon
+KT119792	#66cc87	Cameroon
+n272	#c7cc33	Côte d'Ivoire
+n273	#c7cc33	Côte d'Ivoire
+EU853619	#c7cc33	Côte d'Ivoire
+KX148233	#c7cc33	Côte d'Ivoire
+n276	#b2cc33	Liberia
+MK471249	#7b66cc	Guinea
+EU888744	#3387cc	Nigeria
+MN049982	#b2cc33	Liberia
+MH481712	#b2cc33	Liberia
+n288288	#66a2cc	Mali
+EU853601	#66a2cc	Mali
+n292	#3349cc	Mauritania
+FJ545667	#3349cc	Mauritania
+n295295	#3349cc	Mauritania
+KU739042	#3349cc	Mauritania
+n306	#6e33cc	Senegal
+MH514984	#6e33cc	Senegal
+MH514972	#6e33cc	Senegal
+MH514981	#6e33cc	Senegal
+KP976124	#66a2cc	Mali
+KP976127	#66a2cc	Mali
+MT370503	#8233cc	Benin
+MT370506	#8233cc	Benin
+MT370501	#8233cc	Benin
+MT370502	#8233cc	Benin
+MT370507	#8233cc	Benin
+n335	#ccca66	Burkina Faso
+EU478505	#ccca66	Burkina Faso
+n337337	#ccca66	Burkina Faso
+EU478509	#ccca66	Burkina Faso
+EU038104	#3387cc	Nigeria
+EU038105	#3387cc	Nigeria
+n13	#cca733	Mozambique
+n26	#cca733	Mozambique
+n27	#cc6678	Zimbabwe
+LC380154	#cc6678	Zimbabwe
+n2828	#cc6678	Zimbabwe
+U22856	#cc6a66	-
+n3333	#33cc80	Malawi
+n40	#33cc80	Malawi
+n42	#cca733	Mozambique
+KR906757	#cc99a4	Tanzania
+n4343	#cc6678	Zimbabwe
+n4444	#cc6678	Zimbabwe
+n47	#89cc66	Namibia
+n5353	#89cc66	Namibia
+n5454	#89cc66	Namibia
+n56	#89cc66	Namibia
+n58	#9ecc33	South Africa
+MK467491	#9ecc33	South Africa
+n6161	#cc6678	Zimbabwe
+AF177104	#cc6a66	-
+n72	#99c0cc	Central African Republic
+n7272	#99c0cc	Central African Republic
+KF734735	#99c0cc	Central African Republic
+KT119780	#99c0cc	Central African Republic
+n8282	#cc99a4	Tanzania
+MN726816	#bc99cc	Kenya
+n103103	#bc99cc	Kenya
+n106	#bc99cc	Kenya
+MN264701	#b3cc99	Democratic Republic of the Congo
+MN264704	#b3cc99	Democratic Republic of the Congo
+MN264705	#b3cc99	Democratic Republic of the Congo
+MN264707	#b3cc99	Democratic Republic of the Congo
+MN264708	#b3cc99	Democratic Republic of the Congo
+MN264709	#b3cc99	Democratic Republic of the Congo
+MN264710	#b3cc99	Democratic Republic of the Congo
+MN264691	#b3cc99	Democratic Republic of the Congo
+MN264693	#b3cc99	Democratic Republic of the Congo
+MN264692	#b3cc99	Democratic Republic of the Congo
+MN264696	#b3cc99	Democratic Republic of the Congo
+MN264697	#b3cc99	Democratic Republic of the Congo
+MN264699	#b3cc99	Democratic Republic of the Congo
+n138	#99c7cc	Sudan
+n139139	#99c7cc	Sudan
+FJ947022	#99c7cc	Sudan
+FJ947026	#99c7cc	Sudan
+n142	#99c7cc	Sudan
+FJ947012	#99c7cc	Sudan
+n144	#99c7cc	Sudan
+FJ947024	#99c7cc	Sudan
+n148	#bc99cc	Kenya
+n149149	#bc99cc	Kenya
+n155	#a466cc	Ethiopia
+MZ418082	#a466cc	Ethiopia
+EU643576	#bacc99	Tunisia
+EU643573	#bacc99	Tunisia
+EU643569	#bacc99	Tunisia
+EU643575	#bacc99	Tunisia
+n272272	#c7cc33	Côte d'Ivoire
+KX148232	#c7cc33	Côte d'Ivoire
+EU853616	#c7cc33	Côte d'Ivoire
+EU853617	#c7cc33	Côte d'Ivoire
+n276276	#b2cc33	Liberia
+MH481709	#b2cc33	Liberia
+EU888793	#3387cc	Nigeria
+n289	#66a2cc	Mali
+EU853598	#66a2cc	Mali
+EU853609	#3349cc	Mauritania
+EU853610	#3349cc	Mauritania
+n296	#3349cc	Mauritania
+EU888733	#3387cc	Nigeria
+MH514973	#6e33cc	Senegal
+EU853628	#6e33cc	Senegal
+EU478493	#ccca66	Burkina Faso
+EU478520	#ccca66	Burkina Faso
+EU478498	#ccca66	Burkina Faso
+MN196576	#3387cc	Nigeria
+n1313	#cca733	Mozambique
+n23	#cca733	Mozambique
+KM262042	#cca733	Mozambique
+KM262045	#cca733	Mozambique
+KM262038	#cca733	Mozambique
+LC682830	#33cc80	Malawi
+LC682828	#33cc80	Malawi
+n29	#cc6678	Zimbabwe
+n31	#cc6678	Zimbabwe
+n34	#33cc80	Malawi
+LC682845	#33cc80	Malawi
+n4040	#33cc80	Malawi
+LC682829	#33cc80	Malawi
+MW349550	#cca733	Mozambique
+MW248384	#cca733	Mozambique
+LC380150	#cc6678	Zimbabwe
+LC380126	#cc99b8	Zambia
+LC380221	#cc6678	Zimbabwe
+LC380230	#cc6678	Zimbabwe
+n4747	#89cc66	Namibia
+JX473838	#89cc66	Namibia
+DQ194866	#89cc66	Namibia
+DQ194867	#89cc66	Namibia
+n5555	#89cc66	Namibia
+KX148204	#89cc66	Namibia
+n5656	#89cc66	Namibia
+DQ194875	#89cc66	Namibia
+n5858	#9ecc33	South Africa
+DQ194900	#9ecc33	South Africa
+n62	#cc6678	Zimbabwe
+KY553272	#cc6678	Zimbabwe
+KT119721	#99c0cc	Central African Republic
+KT119720	#99c0cc	Central African Republic
+KT119682	#99c0cc	Central African Republic
+KT119751	#99c0cc	Central African Republic
+n83	#cc99a4	Tanzania
+AY502137	#bc99cc	Kenya
+n104	#bc99cc	Kenya
+MN726831	#bc99cc	Kenya
+MW055117	#bc99cc	Kenya
+MW055113	#bc99cc	Kenya
+n138138	#99c7cc	Sudan
+FJ947011	#99c7cc	Sudan
+n140	#99c7cc	Sudan
+FJ947010	#99c7cc	Sudan
+FJ947021	#99c7cc	Sudan
+FJ947013	#99c7cc	Sudan
+n144144	#99c7cc	Sudan
+FJ947006	#99c7cc	Sudan
+n148148	#bc99cc	Kenya
+n149	#bc99cc	Kenya
+MW055056	#bc99cc	Kenya
+MW055053	#bc99cc	Kenya
+n155155	#a466cc	Ethiopia
+MZ417963	#a466cc	Ethiopia
+EU853618	#c7cc33	Côte d'Ivoire
+FJ545676	#c7cc33	Côte d'Ivoire
+MH481708	#b2cc33	Liberia
+MH481710	#b2cc33	Liberia
+EU888747	#3387cc	Nigeria
+EU888773	#3387cc	Nigeria
+KP976114	#66a2cc	Mali
+KP976115	#66a2cc	Mali
+n296296	#3349cc	Mauritania
+n298	#3349cc	Mauritania
+n14	#cca733	Mozambique
+n21	#cca733	Mozambique
+n2323	#cca733	Mozambique
+n2525	#cca733	Mozambique
+n2929	#cc6678	Zimbabwe
+n3030	#cc6678	Zimbabwe
+LC380220	#cc99b8	Zambia
+AY605006	#cc6678	Zimbabwe
+n3434	#33cc80	Malawi
+LC682855	#33cc80	Malawi
+n41	#33cc80	Malawi
+LC682823	#33cc80	Malawi
+n48	#89cc66	Namibia
+n53	#89cc66	Namibia
+JQ691445	#89cc66	Namibia
+DQ194890	#89cc66	Namibia
+DQ194882	#89cc66	Namibia
+EF686059	#cc6a66	-
+JQ691433	#89cc66	Namibia
+DQ489844	#9ecc33	South Africa
+n6262	#cc6678	Zimbabwe
+n63	#cc6678	Zimbabwe
+n8383	#cc99a4	Tanzania
+MW055043	#bc99cc	Kenya
+n104104	#bc99cc	Kenya
+n105105	#bc99cc	Kenya
+n139	#99c7cc	Sudan
+FJ947015	#99c7cc	Sudan
+FJ947023	#99c7cc	Sudan
+FJ947016	#99c7cc	Sudan
+FJ947025	#99c7cc	Sudan
+FJ947020	#99c7cc	Sudan
+MW055049	#bc99cc	Kenya
+MW055055	#bc99cc	Kenya
+MW055123	#bc99cc	Kenya
+MW074787	#bc99cc	Kenya
+n156	#a466cc	Ethiopia
+n159159	#a466cc	Ethiopia
+n297	#3349cc	Mauritania
+EU514577	#3349cc	Mauritania
+EU514578	#3349cc	Mauritania
+EU514579	#3349cc	Mauritania
+n1414	#ccaf66	Lesotho
+n1818	#cca733	Mozambique
+n2121	#cca733	Mozambique
+KX148203	#cca733	Mozambique
+n24	#cca733	Mozambique
+KM262043	#cca733	Mozambique
+KM262037	#cca733	Mozambique
+FJ842763	#6695cc	Swaziland
+n30	#cc6678	Zimbabwe
+AY605041	#cc6678	Zimbabwe
+AY605014	#cc6678	Zimbabwe
+KM262046	#cca733	Mozambique
+n35	#33cc80	Malawi
+n3939	#33cc80	Malawi
+LC682827	#33cc80	Malawi
+MZ418100	#a466cc	Ethiopia
+n4848	#89cc66	Namibia
+n5252	#89cc66	Namibia
+DQ194889	#89cc66	Namibia
+DQ194881	#89cc66	Namibia
+KF831554	#cc6678	Zimbabwe
+KF831529	#cc6678	Zimbabwe
+KF831555	#cc6678	Zimbabwe
+KY553270	#cc6678	Zimbabwe
+n84	#cc99a4	Tanzania
+KY210269	#cc99a4	Tanzania
+n105	#bc99cc	Kenya
+MW055046	#bc99cc	Kenya
+MW055044	#bc99cc	Kenya
+MW055116	#bc99cc	Kenya
+FJ947018	#99c7cc	Sudan
+FJ947008	#99c7cc	Sudan
+n156156	#a466cc	Ethiopia
+n159	#a466cc	Ethiopia
+MZ417938	#a466cc	Ethiopia
+MZ417940	#a466cc	Ethiopia
+n297297	#3349cc	Mauritania
+EU514576	#3349cc	Mauritania
+n15	#ccaf66	Lesotho
+n1717	#ccaf66	Lesotho
+n19	#cca733	Mozambique
+KJ744310	#9ecc33	South Africa
+n2222	#cca733	Mozambique
+MW248386	#cca733	Mozambique
+n2424	#cca733	Mozambique
+n25	#cca733	Mozambique
+MW248385	#cca733	Mozambique
+LC380152	#cc6678	Zimbabwe
+n3535	#33cc80	Malawi
+n38	#33cc80	Malawi
+LC683185	#33cc80	Malawi
+KM262041	#cca733	Mozambique
+n49	#89cc66	Namibia
+n52	#89cc66	Namibia
+JX473841	#89cc66	Namibia
+JX473840	#89cc66	Namibia
+n8484	#cc99a4	Tanzania
+n102	#cc99a4	Tanzania
+AY502138	#bc99cc	Kenya
+AY502136	#bc99cc	Kenya
+n157	#a466cc	Ethiopia
+MZ417997	#a466cc	Ethiopia
+MZ417991	#a466cc	Ethiopia
+MZ417969	#a466cc	Ethiopia
+EU514575	#3349cc	Mauritania
+EU514580	#3349cc	Mauritania
+n1515	#ccaf66	Lesotho
+n16	#ccaf66	Lesotho
+n18	#ccaf66	Lesotho
+MF197288	#ccaf66	Lesotho
+n1919	#cca733	Mozambique
+KM262044	#cca733	Mozambique
+MW248383	#cca733	Mozambique
+MW248387	#cca733	Mozambique
+KM262039	#cca733	Mozambique
+KM262049	#cca733	Mozambique
+KM262048	#cca733	Mozambique
+KM262047	#cca733	Mozambique
+MW349549	#cca733	Mozambique
+n36	#33cc80	Malawi
+KM262040	#cca733	Mozambique
+n3838	#33cc80	Malawi
+LC683164	#33cc80	Malawi
+n4949	#89cc66	Namibia
+KR534227	#cc99a4	Tanzania
+JQ691415	#89cc66	Namibia
+JQ691453	#89cc66	Namibia
+n85	#cc99a4	Tanzania
+n9898	#cc99a4	Tanzania
+n102102	#cc99b8	Zambia
+LC380124	#cc99b8	Zambia
+n157157	#a466cc	Ethiopia
+MZ418003	#a466cc	Ethiopia
+MF197298	#ccaf66	Lesotho
+MF197299	#ccaf66	Lesotho
+MF197300	#ccaf66	Lesotho
+MF197301	#ccaf66	Lesotho
+MF197302	#ccaf66	Lesotho
+MF197303	#ccaf66	Lesotho
+MF197289	#ccaf66	Lesotho
+MF197293	#ccaf66	Lesotho
+MF197296	#ccaf66	Lesotho
+MF197304	#ccaf66	Lesotho
+MF197305	#ccaf66	Lesotho
+MF197306	#ccaf66	Lesotho
+MF197287	#ccaf66	Lesotho
+MF197297	#ccaf66	Lesotho
+n1616	#ccaf66	Lesotho
+n17	#ccaf66	Lesotho
+MF197307	#ccaf66	Lesotho
+MF197294	#ccaf66	Lesotho
+n20	#cca733	Mozambique
+n2020	#9ecc33	South Africa
+n3636	#33cc80	Malawi
+MF425806	#cc6678	Zimbabwe
+n39	#33cc80	Malawi
+LC683165	#33cc80	Malawi
+n50	#89cc66	Namibia
+n5151	#89cc66	Namibia
+n8585	#cc99a4	Tanzania
+n9595	#33cc57	Uganda
+n9999	#cc99a4	Tanzania
+LC380110	#cc99b8	Zambia
+LC380116	#cc99b8	Zambia
+n158	#a466cc	Ethiopia
+MZ418008	#a466cc	Ethiopia
+MF197290	#ccaf66	Lesotho
+MF197291	#ccaf66	Lesotho
+MF197292	#ccaf66	Lesotho
+MF197295	#ccaf66	Lesotho
+AF177100	#cc6a66	-
+DQ786033	#9ecc33	South Africa
+MF197279	#9ecc33	South Africa
+MW413405	#9ecc33	South Africa
+n37	#33cc80	Malawi
+n3737	#33cc80	Malawi
+LC683162	#33cc80	Malawi
+LC683160	#33cc80	Malawi
+n5050	#89cc66	Namibia
+n51	#89cc66	Namibia
+JQ691428	#89cc66	Namibia
+JQ691418	#89cc66	Namibia
+n86	#cc99a4	Tanzania
+n9292	#33cc57	Uganda
+n96	#33cc57	Uganda
+KJ133675	#33cc57	Uganda
+DQ431397	#cc6a66	-
+n101101	#99b2cc	Rwanda
+EU853583	#89cc33	Burundi
+n158158	#a466cc	Ethiopia
+MZ418025	#a466cc	Ethiopia
+LC682825	#33cc80	Malawi
+LC682826	#33cc80	Malawi
+LC683166	#33cc80	Malawi
+LC683169	#33cc80	Malawi
+JQ691446	#89cc66	Namibia
+JQ691457	#89cc66	Namibia
+DQ194862	#89cc66	Namibia
+DQ194857	#89cc66	Namibia
+n8686	#cc99a4	Tanzania
+n9090	#cc99a4	Tanzania
+n93	#33cc57	Uganda
+LC029892	#33cc57	Uganda
+n9696	#33cc57	Uganda
+KJ133678	#33cc57	Uganda
+MW074784	#bc99cc	Kenya
+KX148205	#99b2cc	Rwanda
+EU853582	#99b2cc	Rwanda
+MZ418072	#a466cc	Ethiopia
+MZ418060	#a466cc	Ethiopia
+n87	#cc99a4	Tanzania
+KU055523	#99c0cc	Central African Republic
+n91	#cc99a4	Tanzania
+MW055048	#bc99cc	Kenya
+n9393	#33cc57	Uganda
+n95	#33cc57	Uganda
+n97	#33cc57	Uganda
+LC029894	#33cc57	Uganda
+LC380109	#cc99b8	Zambia
+KJ133687	#33cc57	Uganda
+n8787	#cc99a4	Tanzania
+KR534262	#cc99a4	Tanzania
+n9191	#cc99a4	Tanzania
+EU296435	#cc99a4	Tanzania
+n94	#33cc57	Uganda
+AB505877	#33cc57	Uganda
+LC029889	#33cc57	Uganda
+AB505880	#33cc57	Uganda
+n9797	#33cc57	Uganda
+KJ133671	#33cc57	Uganda
+n8888	#cc99a4	Tanzania
+n8989	#cc99a4	Tanzania
+n92	#cc99a4	Tanzania
+KR534256	#cc99a4	Tanzania
+n9494	#33cc57	Uganda
+KJ133682	#33cc57	Uganda
+n98	#33cc57	Uganda
+KJ133673	#33cc57	Uganda
+n89	#cc99a4	Tanzania
+MG407536	#cc99a4	Tanzania
+n90	#cc99a4	Tanzania
+DQ900568	#cc99a4	Tanzania
+KJ133674	#33cc57	Uganda
+AF177111	#cc6a66	-
+KJ133662	#33cc57	Uganda
+LC029897	#33cc57	Uganda
+KJ133684	#33cc57	Uganda
+KJ133661	#33cc57	Uganda
+EU296436	#cc99a4	Tanzania
+EU296439	#cc99a4	Tanzania
+MG407534	#cc99a4	Tanzania
+KR534260	#cc99a4	Tanzania

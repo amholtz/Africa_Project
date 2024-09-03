@@ -1,0 +1,81 @@
+cat data/sequence_alignments/gene_specific_analysis/g.txt data/sequence_alignments/gene_specific_analysis/wgs.txt > data/sequence_alignments/gene_specific_analysis/G_wgs.txt
+cat data/sequence_alignments/gene_specific_analysis/n.txt data/sequence_alignments/gene_specific_analysis/wgs.txt > data/sequence_alignments/gene_specific_analysis/N_wgs.txt
+cat data/sequence_alignments/gene_specific_analysis/m.txt data/sequence_alignments/gene_specific_analysis/wgs.txt > data/sequence_alignments/gene_specific_analysis/M_wgs.txt
+cat data/sequence_alignments/gene_specific_analysis/l.txt data/sequence_alignments/gene_specific_analysis/wgs.txt > data/sequence_alignments/gene_specific_analysis/L_wgs.txt
+cat data/sequence_alignments/gene_specific_analysis/p.txt data/sequence_alignments/gene_specific_analysis/wgs.txt > data/sequence_alignments/gene_specific_analysis/P_wgs.txt
+
+#This is to remove all the .2, .3 etc that are in the names of the sequences
+sed 's/\.[0-9][0-9]*//g' cutalign_L.fa > cutalign_L_new.fa
+sed 's/\.[0-9][0-9]*//g' cutalign_N.fa > cutalign_N_new.fa
+sed 's/\.[0-9][0-9]*//g' cutalign_G.fa > cutalign_G_new.fa
+sed 's/\.[0-9][0-9]*//g' cutalign_P.fa > cutalign_P_new.fa
+sed 's/\.[0-9][0-9]*//g' cutalign_M.fa > cutalign_M_new.fa
+
+goalign subset -i data/sequence_alignments/gene_specific_analysis/cutalign_G.fa -f data/sequence_alignments/gene_specific_analysis/G_wgs.txt --unaligned -o data/sequence_alignments/gene_specific_analysis/cutalign_G_only.fa
+goalign subset -i data/sequence_alignments/gene_specific_analysis/cutalign_N.fa -f data/sequence_alignments/gene_specific_analysis/N_wgs.txt --unaligned -o data/sequence_alignments/gene_specific_analysis/cutalign_N_only.fa
+goalign subset -i data/sequence_alignments/gene_specific_analysis/cutalign_M.fa -f data/sequence_alignments/gene_specific_analysis/M_wgs.txt --unaligned -o data/sequence_alignments/gene_specific_analysis/cutalign_M_only.fa
+goalign subset -i data/sequence_alignments/gene_specific_analysis/cutalign_L.fa -f data/sequence_alignments/gene_specific_analysis/L_wgs.txt --unaligned -o data/sequence_alignments/gene_specific_analysis/cutalign_L_only.fa
+goalign subset -i data/sequence_alignments/gene_specific_analysis/cutalign_P.fa -f data/sequence_alignments/gene_specific_analysis/P_wgs.txt --unaligned -o data/sequence_alignments/gene_specific_analysis/cutalign_P_only.fa
+
+
+mafft --reorder --keeplength --maxambiguous 0.05 --addfragments data/sequence_alignments/gene_specific_analysis/cutalign_G_only.fa --auto data/sequence_alignments/gene_specific_analysis/Ggene_Ref.fa > data/sequence_alignments/gene_specific_analysis/Ggene_aln.fa
+mafft --reorder --keeplength --maxambiguous 0.05 --addfragments data/sequence_alignments/gene_specific_analysis/cutalign_N_only.fa --auto data/sequence_alignments/gene_specific_analysis/Ngene_Ref.fa > data/sequence_alignments/gene_specific_analysis/Ngene_aln.fa
+mafft --reorder --keeplength --maxambiguous 0.05 --addfragments data/sequence_alignments/gene_specific_analysis/cutalign_M_only.fa --auto data/sequence_alignments/gene_specific_analysis/Mgene_Ref.fa > data/sequence_alignments/gene_specific_analysis/Mgene_aln.fa
+mafft --reorder --keeplength --maxambiguous 0.05 --addfragments data/sequence_alignments/gene_specific_analysis/cutalign_P_only.fa --auto data/sequence_alignments/gene_specific_analysis/Pgene_Ref.fa > data/sequence_alignments/gene_specific_analysis/Pgene_aln.fa
+mafft --reorder --keeplength --maxambiguous 0.05 --addfragments data/sequence_alignments/gene_specific_analysis/cutalign_L_only.fa --auto data/sequence_alignments/gene_specific_analysis/Lgene_Ref.fa > data/sequence_alignments/gene_specific_analysis/Lgene_aln.fa
+
+
+goalign concat -i data/sequence_alignments/gene_specific_analysis/Ngene_aln.fa data/sequence_alignments/gene_specific_analysis/Pgene_aln.fa data/sequence_alignments/gene_specific_analysis/Mgene_aln.fa data/sequence_alignments/gene_specific_analysis/Ggene_aln.fa data/sequence_alignments/gene_specific_analysis/Lgene_aln.fa -o data/concat_seq_genes.fasta
+
+#FASTTTREE BASH
+
+TERMINAL
+$ ssh aholtz@ssh.pasteur.fr
+-Enter your password
+
+$ tmux new -s rabies_world
+
+-Enter Maestro
+$ ssh maestro.pasteur.fr
+-Enter your password again
+
+enter directory:
+$ cd /pasteur/zeus/projets/p02/NGS_Viroscreen/aholtz/Africa/
+
+sbatch fasttree_batch.sh
+-----> You can check progress in /Volumes/NGS_Viroscreen/aholtz/Africa/fasttree_rabies_africa.err
+
+We want to collapse branches with lengths with less than 0.5.
+We want to remove branch lengths that represent less than 0.5 mutations/site
+
+So -> branch length = num of sub along branch / alignment length
+
+So -> 0.5/10860 = 0.000046, we would like to collapse all branches with length less than 0.000046
+
+#Did this locally
+gotree collapse length -i Africa_RABV_July2024.nwk -l 0.000046 -o Africa_RABV_July2024.nwk_collapsed_0.5.nwk
+
+
+##MANUALLY SET ROOT IN iTOL
+
+#With outgroup
+lsd2_mac -i Africa_RABV_July2024.nwk -d lsd_dates.txt -s 10860 -o Africa_OutRem_RootOutgroup.date -e 3 -w rate.txt
+
+
+
+#Subsampling script
+python3 python/py_subsampling.py --input_tree data/Africa_RABV.nwk --input_locs data/metadata_final.tab --size 2000 --output_ids subsampled_2000_1 subsampled_2000_2
+
+
+#Subsampling script for minimal removal (just high countries like Tanzania)
+python3 python/py_subsampling.py --input_tree data/Africa_RABV.nwk --input_locs data/metadata_final.tab --size 4000 --output_ids subsampled_4000_1 subsampled_4000_2
+
+#PastML
+pastml -t data/Africa_CI_OutRem.date.nwk -d data/metadata_final_wisolate.tab -c Host --prediction_method MPPA --root_date 1365 --html_compressed HTML_compressed_Africa_MPPA_Host.html --upload_to_itol -o Africa_Full_pastML_MPPA_Host --tip_size_threshold 100
+
+#For Colorwheel
+pastml -t data/Africa_CI_OutRem.date.nwk -d data/metadata_final_wisolate_DOG.tab -c dog --prediction_method COPY --root_date 1365 --html_compressed HTML_compressed_Africa_MPPA_Host_COLOR.html --upload_to_itol -o Africa_Full_pastML_MPPA_Host_COLOR
+
+
+#Aminoacid alignment
+mafft --reorder --keeplength --addfragments /Users/aholtz/Dropbox/rabies/Africa_Project/data/AA/AA_seq.fasta --auto data/sequence_alignments/gene_specific_analysis/Ggene_Ref.fa > data/sequence_alignments/gene_specific_analysis/Ggene_aln.fa

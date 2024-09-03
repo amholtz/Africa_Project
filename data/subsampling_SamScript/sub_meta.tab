@@ -1,0 +1,637 @@
+Accession	Length	Clade	Isolate	loc	Collection_Date	Host	clade_simple	fragment	region23	cluster
+OM971003	11794	AL_Cosmopolitan	1442MxCoatiYuc15	Mexico	2015	Nasua narica	Cosmopolitan_Clade	WGS	Central America	4834
+LC682825	460	AL_Cosmopolitan_AF1b		Malawi	2020	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	6661
+LC682827	460	AL_Cosmopolitan_AF1b		Malawi	2019	Felis catus	Cosmopolitan_Clade	N	Eastern Africa	0
+LC682832	460	AL_Cosmopolitan_AF1b		Malawi	2019	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	6078
+LC682834	460	AL_Cosmopolitan_AF1b		Malawi	2019	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	6074
+LC682836	460	AL_Cosmopolitan_AF1b		Malawi	2019	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC682846	460	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	6079
+LC682847	397	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC682849	460	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC682852	418	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	6675
+LC683168	608	AL_Cosmopolitan		Malawi	2019	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC683170	608	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	6678
+LC683175	608	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	7566
+LC683178	608	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC683180	608	AL_Cosmopolitan_AF1b		Malawi	2021	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	0
+LC683182	608	AL_Cosmopolitan_AF1b		Malawi	2021	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	0
+LC683183	608	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	6696
+LC683185	608	AL_Cosmopolitan_AF1b		Malawi	2021	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+OM542195	11801	AL_Cosmopolitan_CE	2258140221L_POL	Poland	2021	Vulpes vulpes	Cosmopolitan_Clade	WGS	Eastern Europe	4917
+OM863569	11859	AL_Arctic_AL1a	DS-A	India	2021	Hyaena hyaena	Arctic_Clade	WGS	Southern Asia	0
+MW248384	648	AL_Cosmopolitan_AF1b		Mozambique	2018	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+MW248385	649	AL_Cosmopolitan_AF1b		Mozambique	2018	feline	Cosmopolitan_Clade	N	Eastern Africa	0
+MW248387	647	AL_Cosmopolitan_AF1b		Mozambique	2018	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7375
+MW349550	540	AL_Cosmopolitan_AF1b		Mozambique	2018	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+MH514981	11923	AL_Africa-2	SA252888SEN_2013	Senegal	2013	Canis lupus familiaris	AL_Africa-2	WGS	Western Africa	4491
+MZ418020	726	AL_Cosmopolitan_AF1a	ETH1516DGADGULLELE17	Ethiopia	2017	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	3939
+MZ418052	726	AL_Cosmopolitan_AF1a	ETH1287DGADARADA12	Ethiopia	2012	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	3959
+MZ418056	726	AL_Cosmopolitan_AF1a	ETH1312DGOROLIYU15	Ethiopia	2015	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+MZ418073	726	AL_Cosmopolitan_AF1a	ETH1354DGADKOLFEKERANIO15	Ethiopia	2015	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	3962
+MZ418086	726	AL_Cosmopolitan_AF1a	ETH1560FXAMHARANWOLLO16	Ethiopia	2016	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+MZ418091	726	AL_Cosmopolitan_AF1a	ETH1291DGSNNPRAMBA15	Ethiopia	2015	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	3935
+MZ418095	726	AL_Cosmopolitan_AF1a	ETH1452DGSNNPRAZENA16	Ethiopia	2016	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	5138
+MZ418100	726	AL_Cosmopolitan_AF1a	ETH1555FXADADDISKETEMA15	Ethiopia	2015	side-stripped jackal	Cosmopolitan_Clade	N	Eastern Africa	3932
+MT370503	561	AL_Africa-2	20RD-308-4	Benin	2018	Canis familiaris	AL_Africa-2	N	Western Africa	4432
+MW553267	320	AL_Cosmopolitan_AF1a		Gabon	2019	Homo sapiens	Cosmopolitan_Clade	L	Middle Africa	4938
+MW055047	277	AL_Cosmopolitan_AF1b	201110175	Kenya	2018	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	7434
+MW055048	1575	AL_Cosmopolitan_AF1b	2011100176	Kenya	2018	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	0
+MW055052	1575	AL_Cosmopolitan_AF1a	Z0826363	Kenya	2018	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	5115
+MW074784	345	AL_Cosmopolitan_AF1b	2011100176	Kenya	2018	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+MW074786	301	AL_Cosmopolitan_AF1b	2011100176	Kenya	2018	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+MW074787	234	AL_Cosmopolitan_AF1a	Z0826364	Kenya	2018	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+MK858226	579	AL_Cosmopolitan_AF1b	SPU288/88	South Africa	1988	Homo sapiens	Cosmopolitan_Clade	N	Southern Africa	7367
+MN602878	592	AL_Cosmopolitan_AF1b	ZIMjackal355/17	Zimbabwe	2017	Canis mesomelas	Cosmopolitan_Clade	G	Eastern Africa	7522
+MN049979	1353	AL_Africa-2	17013LIB	Liberia	2017	Canis familiaris	AL_Africa-2	N	Western Africa	0
+MN049980	1353	AL_Africa-2	18009LIB	Liberia	2018	Canis familiaris	AL_Africa-2	N	Western Africa	0
+MN049981	1353	AL_Africa-2	18008LIB	Liberia	2018	Canis familiaris	AL_Africa-2	N	Western Africa	4538
+MN049984	1353	AL_Africa-2	18018LIB	Liberia	2018	Canis familiaris	AL_Africa-2	N	Western Africa	0
+MT454632	11902	AL_Cosmopolitan_AF1b	155/15	South Africa	2015	Proteles cristata	Cosmopolitan_Clade	WGS	Southern Africa	6380
+MT454636	11923	AL_Cosmopolitan_AF1b	516/16	South Africa	2016	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Africa	6952
+MT454637	11923	AL_Cosmopolitan_AF1b	583/16	South Africa	2016	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Africa	0
+MT454644	11923	AL_Cosmopolitan_AF1b	368/17	South Africa	2017	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Africa	0
+MT454645	11922	AL_Cosmopolitan_AF1b	400/17	South Africa	2017	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Africa	6528
+MK598342	11799	AL_Cosmopolitan_CA3	44190	Hungary	2009	Vulpes vulpes	Cosmopolitan_Clade	WGS	Eastern Europe	4899
+MK598345	11798	AL_Cosmopolitan_EE	2690	Hungary	2010	Vulpes vulpes	Cosmopolitan_Clade	WGS	Eastern Europe	4908
+MK598391	11798	AL_Cosmopolitan_NEE	9435	Hungary	2014	Vulpes vulpes	Cosmopolitan_Clade	WGS	Eastern Europe	4905
+MN534895	11792	AL_Arctic_AL3	RABV_Nepal_2019	Nepal	2019	Homo sapiens	Arctic_Clade	WGS	Southern Asia	4691
+MK467461	592	AL_Cosmopolitan_AF1b	08-94	South Africa	1994	Proteles cristata	Cosmopolitan_Clade	G	Southern Africa	6328
+MK467468	592	AL_Cosmopolitan_AF1b	302-00	South Africa	2000	Proteles cristata	Cosmopolitan_Clade	G	Southern Africa	7573
+MK467477	592	AL_Cosmopolitan_AF1b	578-06	South Africa	2006	Proteles cristata	Cosmopolitan_Clade	G	Southern Africa	7530
+MK467479	592	AL_Cosmopolitan_AF1b	404-07	South Africa	2007	Proteles cristata	Cosmopolitan_Clade	G	Southern Africa	7559
+MK467481	592	AL_Cosmopolitan_AF1b	718-09	South Africa	2009	Proteles cristata	Cosmopolitan_Clade	G	Southern Africa	0
+MK467497	592	AL_Cosmopolitan_AF1b	551-15	South Africa	2015	Proteles cristata	Cosmopolitan_Clade	G	Southern Africa	6536
+MK467514	592	AL_Cosmopolitan_AF1b	630-16	South Africa	2016	Otocyon megalotis	Cosmopolitan_Clade	G	Southern Africa	0
+MK467520	592	AL_Cosmopolitan_AF1b	368-17	South Africa	2017	Otocyon megalotis	Cosmopolitan_Clade	G	Southern Africa	6425
+MN099706	1539	AL_Cosmopolitan		Nigeria	2017	mouse	Cosmopolitan_Clade	G	Western Africa	4845
+MN196576	400	AL_Africa-2	16Enugu	Nigeria	2016	Canis familiaris	AL_Africa-2	N	Western Africa	0
+MN726814	11846	AL_Cosmopolitan_AF1b	M009_field	Kenya	2018	feline	Cosmopolitan_Clade	WGS	Eastern Africa	7422
+MN726820	11819	AL_Cosmopolitan_AF1b	SD683	Tanzania	2017	Felis catus	Cosmopolitan_Clade	WGS	Eastern Africa	7749
+MG407551	400	AL_Cosmopolitan_AF1b	ZANfel33/17	Tanzania	2017	Felis catus	Cosmopolitan_Clade	N	Eastern Africa	7709
+MK111075	11874	AL_Cosmopolitan_Vac		Hungary	2015	Vulpes vulpes	Cosmopolitan_Clade	WGS	Eastern Europe	0
+MK760679	11722	AL_Cosmopolitan_CA2	87-44	Iran	2008	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Asia	4920
+MK760687	11722	AL_Cosmopolitan_ME1a	88-27	Iran	2009	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Asia	4893
+MK760723	11722	AL_Cosmopolitan_CA1	92-287	Iran	2013	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Asia	4901
+MK760729	11727	AL_Arctic	92-351	Iran	2014	Canis lupus familiaris	Arctic_Clade	WGS	Southern Asia	0
+MK541001	11926	AL_Arctic_A	ON.2017.0103BOV	Canada	2017	Bos taurus	Arctic_Clade	WGS	Northern America	4686
+LC380092	461	AL_Cosmopolitan_AF1b		Zambia	2014	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	6732
+LC380093	461	AL_Cosmopolitan_AF1b		Zambia	2015	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6740
+LC380094	461	AL_Cosmopolitan_AF1b		Zambia	2015	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6780
+LC380101	461	AL_Cosmopolitan_AF1b		Zambia	2005	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380102	461	AL_Cosmopolitan_AF1b		Zambia	2006	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380105	461	AL_Cosmopolitan_AF1b		Zambia	2013	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	7394
+LC380109	461	AL_Cosmopolitan_AF1b		Zambia	2013	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380110	461	AL_Cosmopolitan_AF1b		Zambia	2012	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380115	461	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380120	461	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380121	461	AL_Cosmopolitan_AF1b		Zambia	2001	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380128	461	AL_Cosmopolitan_AF1b		Zambia	2005	Sus scrofa	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380130	461	AL_Cosmopolitan_AF1b		Zambia	2015	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6776
+LC380133	461	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380134	461	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380135	461	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6118
+LC380139	461	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6736
+LC380142	461	AL_Cosmopolitan_AF1b		Zambia	2015	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6783
+LC380143	461	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380144	461	AL_Cosmopolitan_AF1b		Zambia	2014	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380146	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380149	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6782
+LC380152	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380153	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380155	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380156	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380159	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6738
+LC380160	461	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+LC380164	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	7565
+LC380181	609	AL_Cosmopolitan_AF1b		Zambia	2012	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	6090
+LC380187	609	AL_Cosmopolitan_AF1b		Zambia	2012	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	7557
+LC380188	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380191	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	7531
+LC380195	609	AL_Cosmopolitan_AF1b		Zambia	2001	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380198	609	AL_Cosmopolitan_AF1b		Zambia	2015	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380202	609	AL_Cosmopolitan_AF1b		Zambia	2005	Sus scrofa	Cosmopolitan_Clade	G	Eastern Africa	7642
+LC380204	609	AL_Cosmopolitan_AF1b		Zambia	2015	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	7631
+LC380206	609	AL_Cosmopolitan_AF1b		Zambia	2000	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380207	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	7551
+LC380208	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	7584
+LC380213	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380214	609	AL_Cosmopolitan_AF1b		Zambia	2015	Canis Adustus	Cosmopolitan_Clade	G	Eastern Africa	6097
+LC380217	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380219	609	AL_Cosmopolitan_AF1b		Zambia	2015	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	6099
+LC380220	609	AL_Cosmopolitan_AF1b		Zambia	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380222	609	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	6755
+LC380223	609	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	6747
+LC380226	609	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380229	609	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	0
+LC380235	609	AL_Cosmopolitan_AF1b		Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	6790
+MK234794	272	AL_Africa-2	RABV-BILL	Nigeria	2016	Canis lupus familiaris; male	AL_Africa-2	N	Western Africa	4213
+MK471246	1353	AL_Africa-2	1557-2IZSVe	Guinea	2018	Canis lupus familiaris	AL_Africa-2	N	Western Africa	0
+MK471247	1353	AL_Africa-2	1557-4IZSVe	Guinea	2018	Canis lupus familiaris	AL_Africa-2	N	Western Africa	0
+MK471249	1575	AL_Africa-2	IZSVe_1557-2	Guinea	2018	Canis lupus familiaris	AL_Africa-2	G	Western Africa	0
+MK471250	1575	AL_Africa-2	IZSVe-1557-4	Guinea	2018	Canis lupus familiaris	AL_Africa-2	G	Western Africa	0
+MK471251	1575	AL_Africa-2	IZSVe_1557-5	Guinea	2018	Canis lupus familiaris	AL_Africa-2	G	Western Africa	4580
+KY982922	11925	AL_Arctic_AL2	CQHy2014D150/China/2014	China	2014	Canis familiaris	Arctic_Clade	WGS	Eastern Asia	0
+KY997452	11928	AL_Arctic_AL2	CQHy2014DY/China/2014	China	2014	Canis familiaris	Arctic_Clade	WGS	Eastern Asia	0
+MH660455	13152	AL_Cosmopolitan_Vac		Germany	2017	-	Cosmopolitan_Clade	WGS	Western Europe	0
+MF425797	592	AL_Cosmopolitan_AF1b	ZW204/14	Zimbabwe	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+MF425807	592	AL_Cosmopolitan_AF1b	ZW307/15	Zimbabwe	2015	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	6690
+MF425810	592	AL_Cosmopolitan_AF1b	ZW427/15	Zimbabwe	2015	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	6757
+MF425812	592	AL_Cosmopolitan_AF1b	ZW515/15	Zimbabwe	2015	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	6798
+KY681360	592	AL_Cosmopolitan_AF1b	07/462	South Africa	2007	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+KY681398	592	AL_Cosmopolitan_AF1b	15/286	South Africa	2015	Canis mesomelas	Cosmopolitan_Clade	G	Southern Africa	0
+KY681410	592	AL_Cosmopolitan_AF1b	15/643	South Africa	2015	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+MH481710	1575	AL_Africa-2	IZSVe_18RD/666-4	Liberia	2017	Canis familiaris	AL_Africa-2	G	Western Africa	4554
+MH267792	11884	AL_Cosmopolitan_CA1	CNIM1703	China	2017	Ovis aries	Cosmopolitan_Clade	WGS	Eastern Asia	0
+MF765758	554	AL_Cosmopolitan		Liberia	2016	Canis familiaris	Cosmopolitan_Clade	N	Western Africa	0
+KY860599	11924	AL_Cosmopolitan_ME2	sub5791	Turkey	2014	Canis familiaris	Cosmopolitan_Clade	WGS	Western Asia	4889
+KY860613	11926	AL_Arctic_AL2	RV303	Russia	1989	Canis familiaris	Arctic_Clade	WGS	Eastern Europe	0
+MG458310	11923	AL_Cosmopolitan_WE	RV1189	Serbia	1986	Bos taurus	Cosmopolitan_Clade	WGS	Southern Europe	0
+MG458316	11923	AL_Cosmopolitan_AF4	RV2322	Egypt	1998	Canis familiaris	Cosmopolitan_Clade	WGS	Northern Africa	4848
+MG458318	11918	AL_Cosmopolitan_AF1b	RV2481	South Africa	2008	Homo sapiens	Cosmopolitan_Clade	WGS	Southern Africa	0
+MG458320	11927	AL_Arctic_AL1a	RV2924	Nepal	2012	Homo sapiens	Arctic_Clade	WGS	Southern Asia	0
+KY553255	1353	AL_Africa-3	RV1044	Zimbabwe	1994	Civettictis civetta	AL_Africa-3	N	Eastern Africa	0
+KY553266	1353	AL_Africa-3	19671	Zimbabwe	1991	Civettictis civetta	AL_Africa-3	N	Eastern Africa	0
+KY553267	1353	AL_Cosmopolitan_AF1b	20246	Zimbabwe	1992	Civettictis civetta	Cosmopolitan_Clade	N	Eastern Africa	0
+KY553269	1353	AL_Cosmopolitan_AF1b	20639	Zimbabwe	1992	Civettictis civetta	Cosmopolitan_Clade	N	Eastern Africa	0
+KY553270	1353	AL_Cosmopolitan_AF1b	22319	Zimbabwe	1994	Civettictis civetta	Cosmopolitan_Clade	N	Eastern Africa	6319
+KY553271	1353	AL_Cosmopolitan_AF1b	22759	Zimbabwe	1994	Civettictis civetta	Cosmopolitan_Clade	N	Eastern Africa	0
+KY553272	1353	AL_Cosmopolitan_AF1b	RV589	Zimbabwe	1992	Mellivora capensis	Cosmopolitan_Clade	N	Eastern Africa	6317
+KY553274	1575	AL_Cosmopolitan_AF1b	150_05G	South Africa	2005	Civettictis civetta	Cosmopolitan_Clade	G	Southern Africa	7549
+KY553275	1575	AL_Cosmopolitan_AF1b	834_06G	South Africa	2006	Civettictis civetta	Cosmopolitan_Clade	G	Southern Africa	7544
+KY553277	1575	AL_Cosmopolitan_AF1b	955_97G	South Africa	1997	Civettictis civetta	Cosmopolitan_Clade	G	Southern Africa	0
+KY553278	1575	AL_Africa-3	19671G	Zimbabwe	1991	Civettictis civetta	AL_Africa-3	G	Eastern Africa	4713
+KY553279	1575	AL_Cosmopolitan_AF1b	20607G	Zimbabwe	1992	mongoose	Cosmopolitan_Clade	G	Eastern Africa	0
+KY553280	1575	AL_Cosmopolitan_AF1b	RV332G	Zimbabwe	1990	Civettictis civetta	Cosmopolitan_Clade	G	Eastern Africa	0
+KY553281	1575	AL_Cosmopolitan_AF1b	RV511G	South Africa	1991	Civettictis civetta	Cosmopolitan_Clade	G	Southern Africa	7546
+KY553282	1575	AL_Cosmopolitan_AF1b	RV589G	Zimbabwe	1991	Mellivora capensis	Cosmopolitan_Clade	G	Eastern Africa	0
+MF538629	1353	AL_Africa-2	15041TCH	Chad	2014	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+MF538631	1353	AL_Africa-2	15044TCH	Chad	2015	Canis familiaris	AL_Africa-2	N	Middle Africa	4173
+KY210228	11856	AL_Cosmopolitan_AF1b	rv2866	Tanzania	2011	Capra hircus	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KY210234	11914	AL_Cosmopolitan_AF1b	rv2878	Tanzania	2011	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	7798
+KY210254	11922	AL_Cosmopolitan_AF1b	rv3059	Tanzania	2013	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	7458
+KY210269	11923	AL_Cosmopolitan_AF1b	rv3079	Tanzania	2013	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	7465
+KY210275	11914	AL_Cosmopolitan_AF1b	rv3087	Tanzania	2013	Bos taurus	Cosmopolitan_Clade	WGS	Eastern Africa	0
+MF537548	1040	AL_Cosmopolitan_AF1a	12V-3708_CEN_YAO	Cameroon	2012	Canis lupus familiaris	Cosmopolitan_Clade	N	Middle Africa	4988
+MF537575	1040	AL_Cosmopolitan_AF1b	14V-4292_EAS_GAR	Cameroon	2014	Canis lupus familiaris	Cosmopolitan_Clade	N	Middle Africa	0
+MF537576	1040	AL_Africa-2	14V-1960_NOW_KUM	Cameroon	2014	Canis lupus familiaris	AL_Africa-2	N	Middle Africa	4292
+MF197280	592	AL_Cosmopolitan_AF1b	14/392	South Africa	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6880
+MF197287	592	AL_Cosmopolitan_AF1b	201/12	Lesotho	2012	Bos taurus	Cosmopolitan_Clade	G	Southern Africa	0
+MF197288	592	AL_Cosmopolitan_AF1b	190/12	Lesotho	2012	Capra hircus	Cosmopolitan_Clade	G	Southern Africa	0
+MF197289	592	AL_Cosmopolitan_AF1b	151/12	Lesotho	2012	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+MF197292	592	AL_Cosmopolitan_AF1b	137/13	Lesotho	2013	30270887	Cosmopolitan_Clade	G	Southern Africa	6917
+MF197294	592	AL_Cosmopolitan_AF1b	07/13	Lesotho	2013	Bos taurus	Cosmopolitan_Clade	G	Southern Africa	0
+MF197296	592	AL_Cosmopolitan_AF1b	99/14	Lesotho	2014	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6923
+MF197298	592	AL_Cosmopolitan_AF1b	08/14	Lesotho	2014	Bos taurus	Cosmopolitan_Clade	G	Southern Africa	6929
+MF197301	592	AL_Cosmopolitan_AF1b	45a/14	Lesotho	2014	Bos taurus	Cosmopolitan_Clade	G	Southern Africa	6927
+MF197303	592	AL_Cosmopolitan_AF1b	21/15	Lesotho	2015	Bos taurus	Cosmopolitan_Clade	G	Southern Africa	0
+MF197305	592	AL_Cosmopolitan_AF1b	17/15	Lesotho	2015	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6937
+MF197306	592	AL_Cosmopolitan_AF1b	30/15	Lesotho	2015	Ovis aries	Cosmopolitan_Clade	G	Southern Africa	0
+MF197307	592	AL_Cosmopolitan_AF1b	22/16	Lesotho	2016	Bos taurus	Cosmopolitan_Clade	G	Southern Africa	0
+KY563715	1575	AL_Cosmopolitan_AF1b	22547	Zimbabwe	1994	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	6651
+KY563716	1575	AL_Cosmopolitan_AF1b	22759	Zimbabwe	1994	Civettictis civetta	Cosmopolitan_Clade	G	Eastern Africa	0
+KT892003	541	AL_Cosmopolitan_AF1b	556-12	South Africa	2012	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	0
+KM262037	592	AL_Cosmopolitan_AF1b	MOZdg298.93	Mozambique	1993	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+KM262040	592	AL_Cosmopolitan_AF1b	MOZdg633.00	Mozambique	2000	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+KM262041	592	AL_Cosmopolitan_AF1b	MOZdg315.04	Mozambique	2004	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+KM262044	592	AL_Cosmopolitan_AF1b	MOZdg659.05	Mozambique	2005	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	0
+KM262045	592	AL_Cosmopolitan_AF1b	MOZdg687.05	Mozambique	2005	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	6815
+KM262046	592	AL_Cosmopolitan_AF1b	MOZfel131.12	Mozambique	2012	Felis catus	Cosmopolitan_Clade	G	Eastern Africa	0
+KM262048	592	AL_Cosmopolitan_AF1b	MOZbov1018.12	Mozambique	2012	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	6826
+KX148102	11922	AL_Cosmopolitan_AM2a	91026MEX	Mexico	1991	Canis familiaris	Cosmopolitan_Clade	WGS	Central America	4836
+KX148103	11922	AL_Cosmopolitan_AF1b	87021AFS	South Africa	1981	Homo sapiens	Cosmopolitan_Clade	WGS	Southern Africa	0
+KX148104	11923	AL_Cosmopolitan_YUGCOW	86058YOU	Montenegro	1978	Bos taurus	Cosmopolitan_Clade	WGS	Southern Europe	0
+KX148122	11801	AL_Cosmopolitan_CE	92012GER	Germany	1991	Vulpes vulpes	Cosmopolitan_Clade	WGS	Western Europe	4916
+KX148127	11801	AL_Cosmopolitan_WE	91047FRA	France	1991	Vulpes vulpes	Cosmopolitan_Clade	WGS	Western Europe	0
+KX148129	11801	AL_Cosmopolitan_WE	94091SLN	Slovenia	1994	Vulpes vulpes	Cosmopolitan_Clade	WGS	Southern Europe	0
+KX148134	11801	AL_Cosmopolitan_WE	94029FRA	France	1994	Vulpes vulpes	Cosmopolitan_Clade	WGS	Western Europe	0
+KX148151	11801	AL_Cosmopolitan_NEE	96042POL	Poland	1996	Vulpes vulpes	Cosmopolitan_Clade	WGS	Eastern Europe	0
+KX148161	11801	AL_Cosmopolitan_YUGFOX	86133SER	Serbia	1972	Vulpes vulpes	Cosmopolitan_Clade	WGS	Southern Europe	0
+KX148162	11801	AL_Cosmopolitan_ME2	94002TUR	Turkey	1993	Canis familiaris	Cosmopolitan_Clade	WGS	Western Asia	0
+KX148192	11802	AL_Cosmopolitan_ME1b	93033ISR	Israel	1993	Canis familiaris	Cosmopolitan_Clade	WGS	Western Asia	0
+KX148193	11805	AL_Cosmopolitan_AF1a	08342FRA	Morocco	2008	Canis familiaris	Cosmopolitan_Clade	WGS	Northern Africa	5844
+KX148194	11805	AL_Cosmopolitan_AF1a	89017MAR	Morocco	1989	Canis familiaris	Cosmopolitan_Clade	WGS	Northern Africa	5629
+KX148195	11804	AL_Cosmopolitan_AF1a	04031FRA	Morocco	2004	Canis familiaris	Cosmopolitan_Clade	WGS	Northern Africa	0
+KX148198	11804	AL_Cosmopolitan_AF1a	93128SOM	Somalia	1993	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	5146
+KX148201	11805	AL_Cosmopolitan_AF1a	86003BRE	Nigeria	1986	Canis familiaris	Cosmopolitan_Clade	WGS	Western Africa	0
+KX148203	11801	AL_Cosmopolitan_AF1b	86031MOZ	Mozambique	1986	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KX148204	11800	AL_Cosmopolitan_AF1b	92030NAM	Namibia	1992	Canis familiaris	Cosmopolitan_Clade	WGS	Southern Africa	0
+KX148205	11801	AL_Cosmopolitan_AF1b	94289RWA	Rwanda	1994	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	7627
+KX148206	11801	AL_Cosmopolitan_AF1b	96013TAN	Tanzania	1996	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KX148207	11801	AL_Cosmopolitan_AF1b	14015ITA	Kenya	2014	Homo sapiens	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KX148208	11802	AL_Cosmopolitan_AF1b	92029CAR	Central African Republic	1992	Canis familiaris	Cosmopolitan_Clade	WGS	Middle Africa	0
+KX148215	11803	AL_Cosmopolitan_AM3a	95022BRE	Brazil	1995	Canis familiaris	Cosmopolitan_Clade	WGS	South America	4828
+KX148219	11800	AL_Africa-3	14017BOT	Botswana	2009	honey badger	AL_Africa-3	WGS	Southern Africa	4722
+KX148225	11806	AL_Arctic_AL1b	02052AFG	Afghanistan	2002	Canis familiaris	Arctic_Clade	WGS	Southern Asia	4693
+KX148229	11801	AL_Africa-2	90012NIG	Niger	1990	Canis familiaris	AL_Africa-2	WGS	Western Africa	0
+KX148231	11801	AL_Africa-2	90010NIG	Niger	1990	Canis familiaris	AL_Africa-2	WGS	Western Africa	0
+KX148235	11801	AL_Africa-2	01007CI	Côte d'Ivoire	2001	Canis familiaris	AL_Africa-2	WGS	Western Africa	0
+KX148236	11802	AL_Africa-2	93011MAU	Mauritania	1993	Canis familiaris	AL_Africa-2	WGS	Western Africa	0
+KX148241	11801	AL_Africa-2	96009TCH	Chad	1996	Canis familiaris	AL_Africa-2	WGS	Middle Africa	0
+KX148242	11801	AL_Africa-2	95002CAM	Cameroon	1994	Canis familiaris	AL_Africa-2	WGS	Middle Africa	0
+KU938829	11900	AL_Cosmopolitan	201203037@2012Puno	Peru	2012	Desmodus rotundus	Cosmopolitan_Clade	WGS	South America	0
+KU564993	1353	AL_Africa-2	367	Chad	2013	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+KU564995	1353	AL_Africa-2	369	Chad	2013	Canis familiaris	AL_Africa-2	N	Middle Africa	4148
+KU055515	211	AL_Cosmopolitan_AF1a	03009MAR	Morocco	2003	Canis familiaris	Cosmopolitan_Clade	L	Northern Africa	5947
+KU055517	211	AL_Cosmopolitan_AF1a	04028GAB	Gabon	2004	Felis catus	Cosmopolitan_Clade	L	Middle Africa	0
+KU055521	211	AL_Africa-2	07149RCA	Central African Republic	2004	Canis familiaris	AL_Africa-2	L	Middle Africa	0
+KU055522	211	AL_Cosmopolitan_AF1b	07158RCA	Central African Republic	2006	Canis familiaris	Cosmopolitan_Clade	L	Middle Africa	7623
+KU055524	211	AL_Africa-2	07209SEN	Senegal	2007	Homo sapiens	AL_Africa-2	L	Western Africa	0
+KU055525	211	AL_Africa-2	07214MAL	Mali	2007	Canis familiaris	AL_Africa-2	L	Western Africa	0
+KU055526	211	AL_Africa-2	07222MAL	Mali	2007	Canis familiaris	AL_Africa-2	L	Western Africa	0
+KU055527	211	AL_Africa-2	14010SEN	Senegal	2001	Homo sapiens	AL_Africa-2	L	Western Africa	4459
+KU055528	211	AL_Africa-2	14011SEN	Senegal	2004	Felis catus	AL_Africa-2	L	Western Africa	4027
+KU055529	211	AL_Africa-2	14012SEN	Senegal	2005	Homo sapiens	AL_Africa-2	L	Western Africa	0
+KU055530	211	AL_Africa-2	14013SEN	Senegal	2011	Canis familiaris	AL_Africa-2	L	Western Africa	0
+KU055539	211	AL_Africa-2	8660GUI	Guinea	1986	Canis familiaris	AL_Africa-2	L	Western Africa	0
+KU055542	211	AL_Africa-2	8718NIG	Niger	1987	Homo sapiens	AL_Africa-2	L	Western Africa	0
+KU055546	211	AL_Africa-2	8801CAM	Cameroon	1987	Canis familiaris	AL_Africa-2	L	Middle Africa	4139
+KU055550	211	AL_Africa-2	9012NIG	Nigeria	1992	Canis familiaris	AL_Africa-2	L	Western Africa	0
+KU055555	211	AL_Africa-2	9131MAU	Mauritania	1991	Canis familiaris	AL_Africa-2	L	Western Africa	0
+KU055556	211	AL_Africa-2	9136MAU	Mauritania	1991	Capra hircus	AL_Africa-2	L	Western Africa	0
+KU055562	211	AL_Africa-2	9239IC	Côte d'Ivoire	1992	Canis familiaris	AL_Africa-2	L	Western Africa	0
+KP976113	548	AL_Africa-2	420/2006	Mali	2006	Canis lupus familiaris	AL_Africa-2	N	Western Africa	0
+KP976117	548	AL_Africa-2	003/2009	Mali	2009	Canis lupus familiaris	AL_Africa-2	N	Western Africa	4567
+KP976119	548	AL_Africa-2	149/2011	Mali	2011	Canis lupus familiaris	AL_Africa-2	N	Western Africa	4545
+KP976121	548	AL_Africa-2	176/2010	Mali	2010	Canis lupus familiaris	AL_Africa-2	N	Western Africa	0
+KP976129	548	AL_Africa-2	587/2009	Mali	2009	Canis lupus familiaris	AL_Africa-2	N	Western Africa	4472
+KR906737	11920	AL_Cosmopolitan_AF1b	RV2500.1	Tanzania	2008	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	7737
+KR906738	11923	AL_Cosmopolitan_AF1b	RV2501.1	Tanzania	2004	Bos taurus	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906740	11914	AL_Cosmopolitan_AF1b	RV2503.1	Tanzania	2009	Felis catus	Cosmopolitan_Clade	WGS	Eastern Africa	7678
+KR906745	11914	AL_Cosmopolitan_AF1b	RV2773.1	Tanzania	2010	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906748	11923	AL_Cosmopolitan_AF1b	RV2776.1	Tanzania	2010	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	6088
+KR906751	11915	AL_Cosmopolitan_AF1b	RV2780.1	Tanzania	2011	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	6671
+KR906761	11845	AL_Cosmopolitan_AF1b	RV2811.1	Tanzania	2010	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906764	11914	AL_Cosmopolitan_AF1b	RV2815.1	Tanzania	2010	Capra hircus	Cosmopolitan_Clade	WGS	Eastern Africa	7635
+KR906766	11914	AL_Cosmopolitan_AF1b	RV2817.1	Tanzania	2010	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906767	11914	AL_Cosmopolitan_AF1b	RV2861.1	Tanzania	2011	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	7701
+KR906769	11923	AL_Cosmopolitan_AF1b	RV2871.1	Tanzania	2011	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906775	11854	AL_Cosmopolitan_AF1b	RV2902.1	Tanzania	2011	unknown	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906786	11923	AL_Cosmopolitan_AF1b	RV3128.1	Tanzania	2012	Sus scrofa	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906787	11923	AL_Cosmopolitan_AF1b	RV3131.1	Tanzania	2012	Bos taurus	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KR906792	11923	AL_Cosmopolitan_AF1b	RV3123.1	Tanzania	2012	Canis familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	7778
+KP994608	540	AL_Cosmopolitan_AF1b	12/696	South Africa	2012	Felis catus	Cosmopolitan_Clade	N	Southern Africa	6892
+KP994610	540	AL_Cosmopolitan_AF1b	12/69	South Africa	2010	Felis catus	Cosmopolitan_Clade	N	Southern Africa	6896
+KP994612	540	AL_Cosmopolitan_AF1b	13/167	South Africa	2013	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	6939
+KP994618	540	AL_Cosmopolitan_AF1b	08/426	South Africa	2008	Felis catus	Cosmopolitan_Clade	N	Southern Africa	6877
+KP994620	540	AL_Cosmopolitan_AF1b	09/353	South Africa	2009	Felis catus	Cosmopolitan_Clade	N	Southern Africa	6976
+KU739038	1575	AL_Africa-2	G_139BF-2007	Burkina Faso	2007	Canis familiaris	AL_Africa-2	G	Western Africa	0
+KU739039	1575	AL_Africa-2	G_9BF-2007	Burkina Faso	2007	Canis familiaris	AL_Africa-2	G	Western Africa	0
+KU739040	1575	AL_Cosmopolitan_AF1b	G_3580BOT-2009	Botswana	2009	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+KU739043	1575	AL_Africa-2	G_251NIG-2007	Niger	2007	Canis familiaris	AL_Africa-2	G	Western Africa	0
+KT119658	5052	AL_Africa-2	07155RCA_2005_074	Central African Republic	2005	Canis familiaris	AL_Africa-2	N	Middle Africa	4099
+KT119665	5052	AL_Cosmopolitan_AF1b	07160RCA_2007_030	Central African Republic	2007	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	6193
+KT119704	5052	AL_Cosmopolitan_AF1b	10014RCA_2007_907	Central African Republic	2007	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	6221
+KT119753	5052	AL_Cosmopolitan_AF1b	othercity_11032RCA_2011_559	Central African Republic	2011	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	6191
+KT119767	5054	AL_Africa-2	othercity_09057RCA_2009_674	Central African Republic	2009	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+KT119771	5054	AL_Cosmopolitan_AF1a	8693GAB_1986_211	Gabon	1986	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	4927
+KT119772	5054	AL_Cosmopolitan_AF1a	8698GAB_1986_392	Gabon	1986	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	0
+KT119774	5054	AL_Africa-2	8802CAM_1987_800	Cameroon	1987	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+KT119776	5051	AL_Cosmopolitan_AF1b	8915ZAI_1989_247	Democratic Republic of the Congo	1989	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	0
+KT119778	5052	AL_Africa-2	9021TCH_1990_507	Chad	1990	Canis familiaris	AL_Africa-2	N	Middle Africa	4062
+KT119779	5054	AL_Africa-2	9218TCH_1992_322	Chad	1992	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+KT119780	5054	AL_Cosmopolitan_AF1b	9228CAF_1992_336	Central African Republic	1992	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	6175
+KT119783	5054	AL_Cosmopolitan_AF1a	9350GAB_1993_679	Gabon	1993	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	4930
+KT119784	5052	AL_Africa-2	9502CAM_1995_912	Cameroon	1994	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+KT119785	5055	AL_Cosmopolitan_AF1a	9608GAB_1996_240	Gabon	1996	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	4935
+KT119786	5052	AL_Africa-2	97138TCH_1997_923	Chad	1997	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+KM594039	11881	AL_Cosmopolitan_AM3b	IP 7841/09	Brazil	2009	Cerdocyon thous	Cosmopolitan_Clade	WGS	South America	4826
+KR534223	405	AL_Cosmopolitan_AF1b	RV2497	Tanzania	2007	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7438
+KR534225	405	AL_Cosmopolitan_AF1b	RV2769	Tanzania	2010	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7671
+KR534227	405	AL_Cosmopolitan_AF1b	RV2787	Tanzania	2010	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+KR080521	1353	AL_Africa-2	252NigeriaMinna2012	Nigeria	2012	Canis familiaris	AL_Africa-2	N	Western Africa	0
+KR080522	1353	AL_Africa-2	276NigeriaBida2012	Nigeria	2012	Canis familiaris	AL_Africa-2	N	Western Africa	4050
+KT336435	11923	AL_Cosmopolitan_AF1b	21467	Zimbabwe	1993	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Eastern Africa	0
+KT336437	11923	AL_Cosmopolitan_AF1b	34312	South Africa	2012	Canis lupus familiaris	Cosmopolitan_Clade	WGS	Southern Africa	0
+KJ133663	534	AL_Cosmopolitan_AF1b	RS13-266.4/Bovine/2010/Moyo	Uganda	2010	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+KJ133670	548	AL_Cosmopolitan_AF1b	RS13-266.12/Dog/2011/Ntoroko	Uganda	2011	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7644
+KJ133672	543	AL_Cosmopolitan_AF1a	RS13-266.14/Dog/2010/Moyo	Uganda	2010	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	5112
+KJ133676	540	AL_Cosmopolitan_AF1a	RS13-266.20/Dog/2012/Ntoroko	Uganda	2012	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	5108
+KJ133686	465	AL_Cosmopolitan_AF1b	RS13-266.34/Dog/2013/Moyo	Uganda	2012	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7732
+KJ133687	552	AL_Cosmopolitan_AF1b	RS13-266.35/Bovine/2012/Kabale	Uganda	2012	Bos taurus	Cosmopolitan_Clade	N	Eastern Africa	0
+KP345881	1353	AL_Africa-2	14009FRA	France	2014	Homo sapiens	AL_Africa-2	N	Western Europe	0
+LC029890	1487	AL_Cosmopolitan_AF1b	UGdg14	Uganda	2011	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7575
+LC029896	587	AL_Cosmopolitan_AF1b	UGdg24	Uganda	2012	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7661
+LC029897	1499	AL_Cosmopolitan_AF1b	UGbv30	Uganda	2012	Felis catus	Cosmopolitan_Clade	N	Eastern Africa	7662
+KP257624	548	AL_Cosmopolitan_AF1b	RS14-705.3/Dog/2014/Congo	Democratic Republic of the Congo	2013	Canis lupus familiaris	Cosmopolitan_Clade	N	Middle Africa	6558
+KJ744303	648	AL_Cosmopolitan_AF1b	10_387	South Africa	2010	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	7377
+KJ921998	400	AL_Africa-2	EN0442013	Nigeria	2012	Canis familiaris	AL_Africa-2	N	Western Africa	4030
+KF022181	1350	AL_Africa-2	109N/2005	Nigeria	2005	Canis familiaris	AL_Africa-2	N	Western Africa	4206
+KF022186	1350	AL_Africa-2	161N/2005	Nigeria	2005	Canis familiaris	AL_Africa-2	N	Western Africa	0
+KF022189	1350	AL_Africa-2	177N/2005	Nigeria	2005	Canis familiaris	AL_Africa-2	N	Western Africa	4187
+KF734688	566	AL_Africa-2	CAR_12/019	Central African Republic	2012	Canis familiaris	AL_Africa-2	N	Middle Africa	4341
+KF734696	566	AL_Cosmopolitan_AF1b	CAR_12/033	Central African Republic	2012	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	6177
+KF734738	566	AL_Africa-2	CAR_12/024	Central African Republic	2012	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+KC660210	891	AL_Cosmopolitan_AF1b	11/121	South Africa	2011	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6966
+KC660220	891	AL_Cosmopolitan_AF1b	11/252	South Africa	2011	Bos primigenius	Cosmopolitan_Clade	G	Southern Africa	6986
+KC660347	886	AL_Cosmopolitan_AF1b	11/62	South Africa	2011	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6831
+KF831519	220	AL_Cosmopolitan	TUNIDOG	Tunisia	1986	Canis familiaris	Cosmopolitan_Clade	N	Northern Africa	0
+KF831554	543	AL_Cosmopolitan_AF1b	ZIMBJACKAL	Zimbabwe	1990	jackal	Cosmopolitan_Clade	N	Eastern Africa	6323
+KC660159	700	AL_Cosmopolitan_AF1b	SPU134/12	South Africa	2012	Homo sapiens	Cosmopolitan_Clade	G	Southern Africa	6916
+KC787073	708	AL_Cosmopolitan_AF1c	86009MAD_1985	Madagascar	1985	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	6034
+KC876039	572	AL_Africa-2	12RS1924-2	Nigeria	2011	Capra hircus	AL_Africa-2	N	Western Africa	0
+KF155000	11923	AL_Cosmopolitan_CA2	RV2516	Iraq	2010	Bos taurus	Cosmopolitan_Clade	WGS	Western Asia	0
+KC737850	11925	AL_Cosmopolitan_AM3a	A11-5300	United States	2011	Homo sapiens	Cosmopolitan_Clade	WGS	Northern America	0
+KC792032	1572	AL_Cosmopolitan_AF1b	A11_6212	Kenya	2011	zebra	Cosmopolitan_Clade	G	Eastern Africa	0
+JQ691418	400	AL_Cosmopolitan_AF1b	19K08	Namibia	2008	Tragelaphus strepsiceros (Kudu)	Cosmopolitan_Clade	N	Southern Africa	6627
+JQ691433	400	AL_Cosmopolitan_AF1b	64J08	Namibia	2008	Canis mesomelas (Jackal)	Cosmopolitan_Clade	N	Southern Africa	0
+JQ691450	400	AL_Cosmopolitan_AF1b	178J09	Namibia	2009	Canis mesomelas (Jackal)	Cosmopolitan_Clade	N	Southern Africa	6594
+JQ691453	400	AL_Cosmopolitan_AF1b	191K09	Namibia	2009	Tragelaphus strepsiceros (Kudu)	Cosmopolitan_Clade	N	Southern Africa	6623
+JQ691463	400	AL_Cosmopolitan_AF1b	244K09	Namibia	2009	Tragelaphus strepsiceros (Kudu)	Cosmopolitan_Clade	N	Southern Africa	6607
+KC171645	11928	AL_Arctic_AL2	BV9901PJ	South Korea	1999	Canis familiaris	Arctic_Clade	WGS	Eastern Asia	0
+JQ756137	592	AL_Cosmopolitan_AF1b	1000-10	South Africa	2010	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+HQ266607	609	AL_Cosmopolitan_AF1b	567/04	South Africa	2004	Canis familiaris	Cosmopolitan_Clade	M	Southern Africa	0
+HQ266608	609	AL_Cosmopolitan_AF1b	31/05	South Africa	2005	Vulpes vulpes	Cosmopolitan_Clade	M	Southern Africa	0
+HQ266609	609	AL_Cosmopolitan_AF1b	262/06	South Africa	2006	Canis familiaris	Cosmopolitan_Clade	M	Southern Africa	0
+HQ266611	609	AL_Cosmopolitan_AF1b	819/05	South Africa	2005	black-backed jackal	Cosmopolitan_Clade	M	Southern Africa	6514
+HQ266613	609	AL_MASTER	113/91	South Africa	1991	Atilax paludinosus	AL_MASTER	M	Southern Africa	0
+HQ266615	609	AL_Africa-3	22107	South Africa	1994	Galerella sanguinea	AL_Africa-3	M	Southern Africa	0
+HQ266620	1575	AL_Cosmopolitan_AF1b	262/06	South Africa	2006	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6708
+HQ266621	1575	AL_Cosmopolitan_AF1b	479/96	South Africa	1996	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6311
+HQ266625	894	AL_Cosmopolitan_AF1b	479/96	South Africa	1996	Canis familiaris	Cosmopolitan_Clade	P	Southern Africa	6314
+HQ266626	894	AL_Cosmopolitan_AF1b	567/04	South Africa	2004	Canis familiaris	Cosmopolitan_Clade	P	Southern Africa	0
+HQ266627	894	AL_Cosmopolitan_AF1b	31/05	South Africa	2005	Vulpes vulpes	Cosmopolitan_Clade	P	Southern Africa	0
+HQ266628	894	AL_Cosmopolitan_AF1b	262/06	South Africa	2006	Canis familiaris	Cosmopolitan_Clade	P	Southern Africa	0
+HQ266631	894	AL_MASTER	113/91	South Africa	1991	Atilax paludinosus	AL_MASTER	P	Southern Africa	0
+HQ266633	894	AL_Africa-3	22107	Zimbabwe	1994	Galerella sanguinea	AL_Africa-3	P	Eastern Africa	0
+JN162077	593	AL_Africa-3	956-06	South Africa	2006	25685866	AL_Africa-3	G	Southern Africa	4726
+KC196743	11923	AL_Africa-2	DRV-NG11	Nigeria	2011	Canis familiaris	AL_Africa-2	WGS	Western Africa	0
+JX473841	11923	AL_Cosmopolitan_AF1b	240K09	Namibia	2009	Tragelaphus strepsiceros (Namibian kudu)	Cosmopolitan_Clade	WGS	Southern Africa	6604
+AB699220	11928	AL_Arctic_AL1a		Bangladesh	2010	Capra hircus	Arctic_Clade	WGS	Southern Asia	0
+JQ944709	11927	AL_Cosmopolitan	EPHVAC	Ethiopia	2008	-	Cosmopolitan_Clade	WGS	Eastern Africa	0
+JQ685943	11925	AL_Cosmopolitan_AM2b	A10-0511	United States	2009	Vulpes vulpes	Cosmopolitan_Clade	WGS	Northern America	4840
+JQ685944	11925	AL_Cosmopolitan_AM1	NC839	United States	1984	Mephitis mephitis	Cosmopolitan_Clade	WGS	Northern America	4880
+JQ685970	11923	AL_Cosmopolitan_AM4	CASK2	United States	1974	Mephitis mephitis	Cosmopolitan_Clade	WGS	Northern America	4833
+JQ685975	11925	AL_Cosmopolitan_Vac2	MEXSK3636	Mexico	2009	Spilogale putorius	Cosmopolitan_Clade	WGS	Central America	4842
+HM179504	1353	AL_Cosmopolitan_AF1b	262/06	South Africa	2006	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	0
+HM179505	1353	AL_Cosmopolitan_AF1b	567/04	South Africa	2004	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	0
+HM179506	1353	AL_Cosmopolitan_AF1b	479/96	South Africa	1996	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	6322
+JF327498	592	AL_Cosmopolitan_AF1b	83/09	South Africa	2009	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+JF327499	592	AL_Cosmopolitan_AF1b	491/91	South Africa	1991	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+JF747614	648	AL_Cosmopolitan_AF1b	UPV130	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	0
+EU851120	1353	AL_Cosmopolitan_AF1a		Spain	1995	Felis catus	Cosmopolitan_Clade	N	Southern Europe	5848
+EU851122	1353	AL_Cosmopolitan_AF1a		Spain	1993	Canis familiaris	Cosmopolitan_Clade	N	Southern Europe	5842
+EU851123	1353	AL_Cosmopolitan_AF1a		Spain	1993	Canis familiaris	Cosmopolitan_Clade	N	Southern Europe	0
+EU851124	1353	AL_Cosmopolitan_AF1a		Spain	1997	Equus caballus	Cosmopolitan_Clade	N	Southern Europe	0
+EU851125	1353	AL_Cosmopolitan_AF1a		Spain	2002	Canis familiaris	Cosmopolitan_Clade	N	Southern Europe	0
+EU851126	1353	AL_Cosmopolitan_AF1a		Spain	1997	Canis familiaris	Cosmopolitan_Clade	N	Southern Europe	0
+EU851127	1353	AL_Cosmopolitan_AF1a		Spain	1990	Canis familiaris	Cosmopolitan_Clade	N	Southern Europe	5627
+EU851128	1353	AL_Cosmopolitan_AF1a		Spain	1996	Canis familiaris	Cosmopolitan_Clade	N	Southern Europe	0
+HM368093	405	AL_Africa-2	G12N_2008	Ghana	2008	Canis familiaris	AL_Africa-2	N	Western Africa	4010
+HM368094	405	AL_Cosmopolitan_AF1b	G13N_2008	Ghana	2008	Canis familiaris	Cosmopolitan_Clade	N	Western Africa	0
+HM368121	405	AL_MASTER	G48N_2008	Ghana	2008	Canis familiaris	AL_MASTER	N	Western Africa	0
+HM368125	405	AL_Africa-2	G51N_2008	Ghana	2008	Canis familiaris	AL_Africa-2	N	Western Africa	4446
+HM368137	405	AL_Cosmopolitan_AF1a	G64N_2008	Ghana	2008	Canis familiaris	Cosmopolitan_Clade	N	Western Africa	4941
+HM368142	405	AL_Africa-2	G6N_2008	Ghana	2008	Canis familiaris	AL_Africa-2	N	Western Africa	0
+GU808521	592	AL_Cosmopolitan_AF1b	d129/07	South Africa	2007	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6713
+AB572934	461	AL_Cosmopolitan_AF1b		Zambia	2000	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6109
+AB572953	461	AL_Cosmopolitan_AF1b		Zambia	2008	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6124
+AB572962	609	AL_Cosmopolitan_AF1b		Zambia	2008	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	7587
+AB572963	609	AL_Cosmopolitan_AF1b		Zambia	2008	Bos taurus	Cosmopolitan_Clade	G	Eastern Africa	7569
+AB572980	609	AL_Cosmopolitan_AF1b		Zambia	2007	Canis lupus familiaris	Cosmopolitan_Clade	G	Eastern Africa	7578
+GU798393	1073	AL_Cosmopolitan_AF1a	86131TUN/1986	Tunisia	1986	Homo sapiens	Cosmopolitan_Clade	P	Northern Africa	5067
+GU798396	1073	AL_Cosmopolitan_AF1a	08228ALG/2002	Algeria	2002	Ovis	Cosmopolitan_Clade	P	Northern Africa	0
+GU798424	1073	AL_Cosmopolitan_AF1a	08105MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	5684
+GU798431	1073	AL_Cosmopolitan_AF1a	08201ALG/2008	Algeria	2008	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	5692
+GU798434	1073	AL_Cosmopolitan_AF1a	08330MAR/2008	Morocco	2008	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	5689
+GU798436	1073	AL_Cosmopolitan_AF1a	08024MAR/2007	Morocco	2007	Ovis	Cosmopolitan_Clade	P	Northern Africa	5693
+GU798449	1073	AL_Cosmopolitan_AF1a	08020MAR/2007	Morocco	2007	Equus asinus	Cosmopolitan_Clade	P	Northern Africa	5646
+GU798477	1073	AL_Cosmopolitan_AF1a	08033MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	5632
+GU798518	1073	AL_Cosmopolitan_AF1a	9107MAR/1990	Morocco	1990	Homo sapiens	Cosmopolitan_Clade	P	Northern Africa	0
+GU798520	1073	AL_Cosmopolitan_AF1a	08317MAR/2008	Morocco	2008	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	5858
+GU798525	1073	AL_Cosmopolitan_AF1a	08038MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	P	Northern Africa	5704
+GU798540	1073	AL_Cosmopolitan_AF1a	08096MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	P	Northern Africa	5853
+GU798554	1073	AL_Cosmopolitan_AF1a	08139ALG/2007	Algeria	2007	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	0
+GU798555	1073	AL_Cosmopolitan_AF1a	08064MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	5875
+GU798557	1073	AL_Cosmopolitan_AF1a	08239ALG/2003	Algeria	2003	Ovis	Cosmopolitan_Clade	P	Northern Africa	0
+GU798558	1073	AL_Cosmopolitan_AF1a	08067MAR/2007	Morocco	2007	Equus asinus	Cosmopolitan_Clade	P	Northern Africa	5877
+GU798580	1073	AL_Cosmopolitan_AF1a	08132ALG/2007	Algeria	2007	Canis lupus familiaris	Cosmopolitan_Clade	P	Northern Africa	5878
+GU798702	639	AL_Cosmopolitan_AF1a	08112MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	G	Northern Africa	5527
+GU798708	639	AL_Cosmopolitan_AF1a	08113MAR/2007	Morocco	2007	Felis silvestris catus	Cosmopolitan_Clade	G	Northern Africa	5565
+GU798713	640	AL_Cosmopolitan_AF1a	08110MAR/2007	Morocco	2007	Equus	Cosmopolitan_Clade	G	Northern Africa	5865
+GU798715	639	AL_Cosmopolitan_AF1a	09005MAR/2004	Morocco	2004	Homo sapiens	Cosmopolitan_Clade	G	Northern Africa	0
+GU798718	639	AL_Cosmopolitan_AF1a	08201ALG/2008	Algeria	2008	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	0
+GU798719	639	AL_Cosmopolitan_AF1a	08188ALG/2008	Algeria	2008	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	0
+GU798720	640	AL_Cosmopolitan_AF1a	08005MAR/2007	Morocco	2007	Equus	Cosmopolitan_Clade	G	Northern Africa	0
+GU798730	639	AL_Cosmopolitan_AF1a	09006MAR/2004	Morocco	2004	Homo sapiens	Cosmopolitan_Clade	G	Northern Africa	5984
+GU798732	639	AL_Cosmopolitan_AF1a	08006MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	5955
+GU798760	639	AL_Cosmopolitan_AF1a	08046MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	G	Northern Africa	0
+GU798787	639	AL_Cosmopolitan_AF1a	08093MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	G	Northern Africa	5961
+GU798790	639	AL_Cosmopolitan_AF1a	08066MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	5869
+GU798792	639	AL_Cosmopolitan_AF1a	08076MAR/2007	Morocco	2007	Equus	Cosmopolitan_Clade	G	Northern Africa	5951
+GU798807	639	AL_Cosmopolitan_AF1a	08317MAR/2008	Morocco	2008	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	5927
+GU798815	639	AL_Cosmopolitan_AF1a	08095MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	6002
+GU798827	640	AL_Cosmopolitan_AF1a	08096MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	G	Northern Africa	5995
+GU798834	641	AL_Cosmopolitan_AF1a	08084MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	5568
+GU798841	640	AL_Cosmopolitan_AF1a	08139ALG/2007	Algeria	2007	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	0
+GU798843	639	AL_Cosmopolitan_AF1a	08061MAR/2007	Morocco	2007	Equus asinus	Cosmopolitan_Clade	G	Northern Africa	0
+GU798844	639	AL_Cosmopolitan_AF1a	08239ALG/2003	Algeria	2003	Ovis	Cosmopolitan_Clade	G	Northern Africa	0
+GU798846	639	AL_Cosmopolitan_AF1a	08074MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	G	Northern Africa	5577
+GU798866	640	AL_Cosmopolitan_AF1a	08156ALG/2005	Algeria	2005	Canis lupus familiaris	Cosmopolitan_Clade	G	Northern Africa	5579
+GU798912	639	AL_Cosmopolitan_AF1a	08154ALG/2004	Algeria	2004	Canis	Cosmopolitan_Clade	G	Northern Africa	5226
+GU798109	1350	AL_Cosmopolitan_AF1a	08228ALG/2002	Algeria	2002	Ovis	Cosmopolitan_Clade	N	Northern Africa	0
+GU798110	1350	AL_Cosmopolitan_AF1a	9108MAR/1990	Morocco	1990	Homo sapiens	Cosmopolitan_Clade	N	Northern Africa	5476
+GU798122	1350	AL_Cosmopolitan_AF1a	09002MAR/2003	Morocco	2003	Homo sapiens	Cosmopolitan_Clade	N	Northern Africa	5478
+GU798126	1350	AL_Cosmopolitan_AF1a	08325MAR/2008	Morocco	2008	Bos	Cosmopolitan_Clade	N	Northern Africa	0
+GU798128	1350	AL_Cosmopolitan_AF1a	08112MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	N	Northern Africa	5555
+GU798130	1350	AL_Cosmopolitan_AF1a	08337MAR/2008	Morocco	2008	Canis lupus familiaris	Cosmopolitan_Clade	N	Northern Africa	5558
+GU798133	1350	AL_Cosmopolitan_AF1a	08114MAR/2006	Morocco	2006	Canis lupus familiaris	Cosmopolitan_Clade	N	Northern Africa	0
+GU798139	1350	AL_Cosmopolitan_AF1a	08110MAR/2007	Morocco	2007	Equus	Cosmopolitan_Clade	N	Northern Africa	5744
+GU798143	1350	AL_Cosmopolitan_AF1a	08306MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	N	Northern Africa	0
+GU798145	1350	AL_Cosmopolitan_AF1a	08188ALG/2008	Algeria	2008	Canis lupus familiaris	Cosmopolitan_Clade	N	Northern Africa	5757
+GU798156	1350	AL_Cosmopolitan_AF1a	09006MAR/2004	Morocco	2004	Homo sapiens	Cosmopolitan_Clade	N	Northern Africa	5758
+GU798210	1350	AL_Cosmopolitan_AF1a	08103MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	N	Northern Africa	5772
+GU798232	1350	AL_Cosmopolitan_AF1a	08025MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	N	Northern Africa	5740
+GU798243	1350	AL_Cosmopolitan_AF1a	08097MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	N	Northern Africa	5861
+GU798249	1350	AL_Cosmopolitan_AF1a	08099MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	N	Northern Africa	5849
+GU798250	1350	AL_Cosmopolitan_AF1a	08087MAR/2007	Morocco	2007	Canis lupus familiaris	Cosmopolitan_Clade	N	Northern Africa	0
+GU798253	1350	AL_Cosmopolitan_AF1a	08096MAR/2007	Morocco	2007	Bos	Cosmopolitan_Clade	N	Northern Africa	0
+GU798257	1350	AL_Cosmopolitan_AF1a	08018MAR/2007	Morocco	2007	Equus asinus	Cosmopolitan_Clade	N	Northern Africa	5171
+GU798261	1350	AL_Cosmopolitan_AF1a	08200ALG/2008	Algeria	2008	Homo sapiens	Cosmopolitan_Clade	N	Northern Africa	0
+GU798267	1350	AL_Cosmopolitan_AF1a	08139ALG/2007	Algeria	2007	Canis lupus familiaris	Cosmopolitan_Clade	N	Northern Africa	0
+GU798269	1350	AL_Cosmopolitan_AF1a	08061MAR/2007	Morocco	2007	Equus asinus	Cosmopolitan_Clade	N	Northern Africa	5186
+GU798270	1350	AL_Cosmopolitan_AF1a	08239ALG/2003	Algeria	2003	Ovis	Cosmopolitan_Clade	N	Northern Africa	0
+GU798271	1350	AL_Cosmopolitan_AF1a	08067MAR/2007	Morocco	2007	Equus asinus	Cosmopolitan_Clade	N	Northern Africa	5185
+GU798289	1350	AL_Cosmopolitan_AF1a	9619ALG/1996	Algeria	1996	Homo sapiens	Cosmopolitan_Clade	N	Northern Africa	5212
+GU798298	1350	AL_Cosmopolitan_AF1a	9137ALG/1991	Algeria	1991	-	Cosmopolitan_Clade	N	Northern Africa	0
+GU798370	1350	AL_Cosmopolitan_AF1a	08134ALG/2007	Algeria	2007	Canis lupus familiaris	Cosmopolitan_Clade	N	Northern Africa	5217
+GU815997	502	AL_Africa-2	9026CI	Côte d'Ivoire	1990	Canis familiaris	AL_Africa-2	L	Western Africa	0
+FJ465385	1575	AL_Africa-3	22/01	South Africa	2001	feline	AL_Africa-3	G	Southern Africa	0
+FJ465400	1575	AL_MASTER	389/02	South Africa	2002	Felis nigripes	AL_MASTER	G	Southern Africa	0
+FJ465403	1575	AL_MASTER	718/98	South Africa	1998	Genetta genetta	AL_MASTER	G	Southern Africa	4703
+FJ465408	1575	AL_Africa-3	22107	Zimbabwe	1994	Galerella sanguinea	AL_Africa-3	G	Eastern Africa	0
+FJ465409	1575	AL_MASTER	SN0080	Namibia	1980	Genetta genetta	AL_MASTER	G	Southern Africa	0
+GU992322	1353	AL_Cosmopolitan_Vac	93128MAR	Morocco	1993	-	Cosmopolitan_Clade	N	Northern Africa	0
+FJ392367	1353	AL_Africa-3	22/01	South Africa	2001	feline	AL_Africa-3	N	Southern Africa	0
+FJ392382	1353	AL_MASTER	389/02	South Africa	2002	Felis nigripes	AL_MASTER	N	Southern Africa	0
+FJ392386	1353	AL_MASTER	718/98	South Africa	1998	Genetta genetta	AL_MASTER	N	Southern Africa	4708
+FJ392391	1353	AL_Africa-3	22107	Zimbabwe	1994	Galerella sanguinea	AL_Africa-3	N	Eastern Africa	0
+FJ392392	1353	AL_MASTER	SN0080	Namibia	1980	Genetta genetta	AL_MASTER	N	Southern Africa	0
+GQ918286	592	AL_Cosmopolitan_AF1b	109.94	South Africa	1994	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6987
+GQ918301	592	AL_Cosmopolitan_AF1b	133.83	South Africa	1983	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+GQ918318	592	AL_Cosmopolitan_AF1b	151.86	South Africa	1986	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+GQ918321	592	AL_Cosmopolitan_AF1b	156.99	South Africa	1999	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+GQ983385	592	AL_Cosmopolitan_AF1b	176.91	South Africa	1991	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+GQ983402	592	AL_Cosmopolitan_AF1b	199.02	South Africa	2002	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+GQ983436	592	AL_Cosmopolitan_AF1b	257.00	South Africa	2000	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6812
+GQ983438	592	AL_Cosmopolitan_AF1b	262.92	South Africa	1992	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6808
+GQ983450	592	AL_Cosmopolitan_AF1b	276.88	South Africa	1988	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+GQ983504	592	AL_Cosmopolitan_AF1b	455.88	South Africa	1988	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+GQ983522	592	AL_Cosmopolitan_AF1b	64.94	South Africa	1994	Canis lupus familiaris	Cosmopolitan_Clade	G	Southern Africa	6934
+GQ983534	592	AL_Cosmopolitan_AF1b	759.86	South Africa	1986	-	Cosmopolitan_Clade	G	Southern Africa	6992
+FJ947007	405	AL_Cosmopolitan_AF1a	RV1552	Sudan	1992	Capra hircus	Cosmopolitan_Clade	N	Northern Africa	0
+FJ947027	405	AL_Cosmopolitan_AF1a	RV1771	Sudan	2004	camel	Cosmopolitan_Clade	N	Northern Africa	0
+FJ947029	405	AL_Cosmopolitan_AF1a	RV2335	Sudan	2006	Equus caballus	Cosmopolitan_Clade	N	Northern Africa	5147
+AB505877	203	AL_Cosmopolitan_AF1b		Uganda	2003	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	7773
+FJ842721	592	AL_Cosmopolitan_AF1b	d390/08	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6871
+FJ842722	594	AL_Cosmopolitan_AF1b	d233/08	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6867
+FJ842726	590	AL_Cosmopolitan_AF1b	d652/08	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+FJ842732	592	AL_Cosmopolitan_AF1b	d1008/08	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6859
+FJ842744	592	AL_Cosmopolitan_AF1b	d206/07	South Africa	2007	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6818
+FJ842749	592	AL_Cosmopolitan_AF1b	d414/07	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6843
+FJ842754	592	AL_Cosmopolitan_AF1b	d1118/07	South Africa	2007	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+FJ842760	592	AL_Cosmopolitan_AF1b	d544/08	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	6874
+FJ842762	592	AL_Cosmopolitan_AF1b	d548/08	South Africa	2008	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+FJ842763	592	AL_Cosmopolitan_AF1b	d85/04	Swaziland	2004	Canis familiaris	Cosmopolitan_Clade	G	Southern Africa	0
+EU982551	593	AL_Africa-3	27988	Zimbabwe	2001	Civettictis civetta (African civet)	AL_Africa-3	G	Eastern Africa	0
+EU888645	400	AL_Africa-2	RD3/08	Nigeria	2008	Canis familiaris	AL_Africa-2	N	Western Africa	4288
+EU888647	400	AL_Africa-2	RD10/07	Nigeria	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4334
+EU888656	400	AL_Africa-2	RD30/07	Nigeria	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU888658	400	AL_Africa-2	RD38/05	Nigeria	2005	Canis familiaris	AL_Africa-2	N	Western Africa	4276
+EU888659	400	AL_Africa-2	RD43/07	Nigeria	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4379
+EU888662	400	AL_Africa-2	RD47/07	Nigeria	2007	Felis catus	AL_Africa-2	N	Western Africa	0
+EU888679	400	AL_Africa-2	RD77/07	Nigeria	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU888688	400	AL_Africa-2	RD95/07	Nigeria	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4175
+EU888723	399	AL_Africa-2	RD183/06	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	4230
+EU888729	400	AL_Africa-2	13136/89	Nigeria	1989	Canis familiaris	AL_Africa-2	N	Western Africa	4053
+EU888734	592	AL_Africa-2	RD11/07	Nigeria	2007	Canis familiaris	AL_Africa-2	G	Western Africa	4596
+EU888742	592	AL_Africa-2	RD38/05	Nigeria	2005	Canis familiaris	AL_Africa-2	G	Western Africa	4608
+EU888743	592	AL_Africa-2	RD44/07	Nigeria	2007	Canis familiaris	AL_Africa-2	G	Western Africa	0
+EU888790	593	AL_Africa-2	RD173/06	Nigeria	2006	Canis familiaris	AL_Africa-2	G	Western Africa	4550
+FJ435704	400	AL_Africa-2	RD101/05	Nigeria	2005	Canis familiaris	AL_Africa-2	N	Western Africa	4306
+FJ440104	1350	AL_Cosmopolitan_AF1a		Equatorial Guinea	2008	Homo sapiens	Cosmopolitan_Clade	N	Middle Africa	0
+EU643579	343	AL_Cosmopolitan_AF1a	DogTN/Ar00	Tunisia	2000	Canis familiaris	Cosmopolitan_Clade	N	Northern Africa	5189
+EU643587	343	AL_Cosmopolitan_AF1a	DogTN/Ks98	Tunisia	1998	Canis familiaris	Cosmopolitan_Clade	N	Northern Africa	0
+EU643588	343	AL_Cosmopolitan_AF1a	DogTN/Jd99	Tunisia	1999	Canis familiaris	Cosmopolitan_Clade	N	Northern Africa	0
+FJ545660	1575	AL_Africa-2	SierraLeonne.07208SL/1997	Sierra Leone	1997	Felis catus	AL_Africa-2	G	Western Africa	0
+FJ545662	1575	AL_Africa-2	CentralAfRep.070149RCA/2004	Central African Republic	2004	Canis familiaris	AL_Africa-2	G	Middle Africa	0
+FJ545663	1575	AL_Africa-2	Guinea.8660GUI/1986	Guinea	1986	Canis familiaris	AL_Africa-2	G	Western Africa	3998
+FJ545664	1575	AL_Africa-2	Mauritania.8689MAU/1986	Mauritania	1986	camel	AL_Africa-2	G	Western Africa	0
+FJ545666	1575	AL_Africa-2	Senegal.07197SEN/1995	Senegal	1995	Canis familiaris	AL_Africa-2	G	Western Africa	0
+FJ545667	1575	AL_Africa-2	Mauritania.9421MAU/1994	Mauritania	1994	Canis familiaris	AL_Africa-2	G	Western Africa	4583
+FJ545668	1575	AL_Africa-2	Mali.07226MALI/2007	Mali	2007	Canis familiaris	AL_Africa-2	G	Western Africa	0
+FJ545669	1575	AL_Africa-2	Mali.07217MALI/2007	Mali	2007	Canis familiaris	AL_Africa-2	G	Western Africa	4565
+FJ545672	1575	AL_Africa-2	BurkinaFaso.8636HAV/1986	Burkina Faso	1986	Canis familiaris	AL_Africa-2	G	Western Africa	4530
+FJ545673	1575	AL_Africa-2	Benin.8697BEN/1986	Benin	1986	Felis catus	AL_Africa-2	G	Western Africa	4333
+FJ545674	1575	AL_Africa-2	Niger.8718NIG/1987	Niger	1987	Canis familiaris	AL_Africa-2	G	Western Africa	0
+FJ545677	1575	AL_Africa-2	IvoryCoast.8913IC/1989	Côte d'Ivoire	1989	Canis familiaris	AL_Africa-2	G	Western Africa	0
+FJ545678	1575	AL_Africa-2	Niger.9012NIG/1990	Niger	1990	Canis familiaris	AL_Africa-2	G	Western Africa	0
+FJ545679	1575	AL_Africa-2	Niger.9014NIG/1990	Niger	1990	Canis familiaris	AL_Africa-2	G	Western Africa	4060
+FJ545681	1575	AL_Africa-2	IvoryCoast.9026IC/1990	Côte d'Ivoire	1990	Canis familiaris	AL_Africa-2	G	Western Africa	0
+FJ545682	1575	AL_Africa-2	Mauritania.9120MAU/1991	Mauritania	1991	dromedary	AL_Africa-2	G	Western Africa	0
+FJ545683	1575	AL_Africa-2	Chad.9218TCH/1992	Chad	1992	Canis familiaris	AL_Africa-2	G	Middle Africa	0
+EU853566	1353	AL_Cosmopolitan_AF1a	86129TUN	Tunisia	1986	Homo sapiens	Cosmopolitan_Clade	N	Northern Africa	0
+EU853567	1353	AL_Cosmopolitan_AF1a	9618ALG	Algeria	1996	Homo sapiens	Cosmopolitan_Clade	N	Northern Africa	5218
+EU853583	1353	AL_Cosmopolitan_AF1b	9027BUR	Burundi	1990	jackal	Cosmopolitan_Clade	N	Eastern Africa	0
+EU853584	1353	AL_Cosmopolitan_AF1b	07152RCA	Central African Republic	2004	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	6196
+EU853588	1353	AL_Cosmopolitan_AF1b	07159RCA	Central African Republic	2006	Canis familiaris	Cosmopolitan_Clade	N	Middle Africa	6184
+EU853591	1353	AL_Africa-2	08561GMB	Gambia	2008	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853592	1353	AL_Africa-2	07023SEN	Senegal	2005	Homo sapiens	AL_Africa-2	N	Western Africa	0
+EU853593	1353	AL_Africa-2	8659GUI	Guinea	1986	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853594	1353	AL_Africa-2	9361GUI	Guinea	1993	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853595	1353	AL_Africa-2	07208SL	Sierra Leone	1997	Felis catus	AL_Africa-2	N	Western Africa	0
+EU853606	1353	AL_Africa-2	9311MAU	Mauritania	1993	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853612	1353	AL_Africa-2	07214MAL	Mali	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853615	1353	AL_Africa-2	07059IC	Côte d'Ivoire	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853616	1353	AL_Africa-2	8911IC	Côte d'Ivoire	1989	Canis familiaris	AL_Africa-2	N	Western Africa	4556
+EU853620	1353	AL_Africa-2	07222MAL	Mali	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853621	1353	AL_Africa-2	8913IC	Côte d'Ivoire	1989	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853624	1353	AL_Africa-2	9120MAU	Mauritania	1991	dromadery	AL_Africa-2	N	Western Africa	0
+EU853626	1353	AL_Africa-2	07207SEN	Senegal	1997	Homo sapiens	AL_Africa-2	N	Western Africa	4484
+EU853642	1353	AL_Africa-2	9136MAU	Mauritania	1991	Capra hircus	AL_Africa-2	N	Western Africa	0
+EU853643	1353	AL_Africa-2	07009SEN	Senegal	2003	Homo sapiens	AL_Africa-2	N	Western Africa	4488
+EU853645	1353	AL_Africa-2	9547HAV	Burkina Faso	1995	Canis familiaris	AL_Africa-2	N	Western Africa	4412
+EU853646	1353	AL_Africa-2	9009NIG	Niger	1990	Canis familiaris	AL_Africa-2	N	Western Africa	4439
+EU853649	1353	AL_Africa-2	9013NIG	Niger	1990	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853650	1353	AL_Africa-2	8718NIG	Niger	1987	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU853653	1353	AL_Africa-2	9609TCH	Chad	1996	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+EU853657	1353	AL_Africa-2	8733TCH	Chad	1987	Canis familiaris	AL_Africa-2	N	Middle Africa	4057
+EU827274	1350	AL_Africa-2	137BF/2007	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4394
+EU827275	1350	AL_Africa-2	144BF/2007	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU827276	1575	AL_Africa-2	144BF/2007	Burkina Faso	2007	Canis familiaris	AL_Africa-2	G	Western Africa	0
+EU827277	1575	AL_Africa-2	247NIG/2007	Niger	2007	Canis familiaris	AL_Africa-2	G	Western Africa	0
+EU478497	1350	AL_Africa-2	9BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU478498	1350	AL_Africa-2	12BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU478502	1350	AL_Africa-2	36BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4471
+EU478506	1350	AL_Africa-2	46BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4386
+EU478508	1350	AL_Africa-2	69BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU478509	1350	AL_Africa-2	82BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU478511	1350	AL_Africa-2	105BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU478517	1350	AL_Africa-2	143BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4443
+EU478518	1350	AL_Africa-2	49BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4469
+EU478522	1350	AL_Africa-2	96BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4382
+EU478523	1350	AL_Africa-2	132BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4415
+EU478524	1350	AL_Africa-2	142BF	Burkina Faso	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU514571	1350	AL_Africa-2	246NIG/07	Niger	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU514572	1353	AL_Africa-2	247NIG/07	Niger	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU514574	1350	AL_Africa-2	252NIG/07	Niger	2007	Canis familiaris	AL_Africa-2	N	Western Africa	4390
+EU514579	1353	AL_Africa-2	1941MAU/06	Mauritania	2006	Canis familiaris	AL_Africa-2	N	Western Africa	4597
+EU514581	1350	AL_Africa-2	2049MAU/07	Mauritania	2007	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU886632	11907	AL_Cosmopolitan_Vac		Germany	2002	Vulpes vulpes	Cosmopolitan_Clade	WGS	Western Europe	0
+EU296441	282	AL_Cosmopolitan_AF1b	A04-5082	Tanzania	2004	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7492
+EU296442	282	AL_Cosmopolitan_AF1b	A04-5087	Tanzania	2004	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+EU718763	1350	AL_Africa-2	Chad_42_199	Chad	2006	Canis familiaris	AL_Africa-2	N	Middle Africa	4088
+EU718766	1350	AL_Africa-2	Chad2006_71	Chad	2006	Canis familiaris	AL_Africa-2	N	Middle Africa	4081
+EU718769	1350	AL_Africa-2	Chad2006_65	Chad	2006	Canis familiaris	AL_Africa-2	N	Middle Africa	4083
+EU718776	1350	AL_Africa-2	Chad2006_54	Chad	2006	Canis familiaris	AL_Africa-2	N	Middle Africa	4209
+EU718783	1350	AL_Africa-2	Chad2006_45	Chad	2006	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+EU718785	1350	AL_Africa-2	Chad2006_43	Chad	2006	Canis familiaris	AL_Africa-2	N	Middle Africa	0
+EU718786	1350	AL_Africa-2	Chad2006_42	Chad	2006	Canis familiaris	AL_Africa-2	N	Middle Africa	4067
+EU038083	1350	AL_Africa-2	RD120	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU038085	1350	AL_Africa-2	RD142	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	4219
+EU038088	1350	AL_Africa-2	RD150HN	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	4228
+EU038090	1350	AL_Africa-2	RD9905HN	Nigeria	2005	Canis familiaris	AL_Africa-2	N	Western Africa	4225
+EU038091	1350	AL_Africa-2	RD41HN	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	4270
+EU038093	1350	AL_Africa-2	RD9305HN	Nigeria	2005	Canis familiaris	AL_Africa-2	N	Western Africa	4296
+EU038094	1350	AL_Africa-2	RD113HN	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	4272
+EU038098	1350	AL_Africa-2	RD100	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	0
+EU038099	1350	AL_Africa-2	RD115	Nigeria	2006	Canis familiaris	AL_Africa-2	N	Western Africa	0
+DQ900547	1344	AL_Cosmopolitan_AF1b	78	Tanzania	1996	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7406
+DQ900551	1212	AL_Cosmopolitan_AF1b	RV758	Tanzania	1997	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+DQ900552	1341	AL_Cosmopolitan_AF1b	RV759	Tanzania	1997	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+DQ900553	1308	AL_Cosmopolitan_AF1b	RV761	Tanzania	1998	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	7704
+DQ900554	1350	AL_Cosmopolitan_AF1b	RV762	Tanzania	1998	Canis familiaris	Cosmopolitan_Clade	N	Eastern Africa	0
+DQ900570	1350	AL_Cosmopolitan_AF1b	A04-4981	Tanzania	2003	small-spotted genet	Cosmopolitan_Clade	N	Eastern Africa	0
+DQ900575	398	AL_Cosmopolitan_AF1b	A04-4995	Tanzania	2003	Canis familiaris	Cosmopolitan_Clade	G	Eastern Africa	7411
+DQ900579	398	AL_Cosmopolitan_AF1b	A04-4981	Tanzania	2003	small-spotted genet	Cosmopolitan_Clade	G	Eastern Africa	0
+DQ489799	405	AL_Cosmopolitan_AF1b	RV1438	South Africa	1999	Vulpes vulpes	Cosmopolitan_Clade	N	Southern Africa	6394
+DQ489858	405	AL_Cosmopolitan_AF1b	RV1864	South Africa	1994	Vulpes vulpes	Cosmopolitan_Clade	N	Southern Africa	0
+DQ489861	405	AL_Cosmopolitan_AF1b	RV1869	South Africa	1995	Canis mesomelas (jackal)	Cosmopolitan_Clade	N	Southern Africa	6516
+DQ489888	405	AL_Cosmopolitan_AF1b	RV1939	South Africa	2003	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	7371
+DQ489893	405	AL_Cosmopolitan_AF1b	RV1947	South Africa	2005	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	7369
+DQ489896	405	AL_Cosmopolitan_AF1b	RV1950	South Africa	2005	Bos taurus	Cosmopolitan_Clade	N	Southern Africa	7365
+DQ489905	405	AL_Cosmopolitan_AF1b	RV1960	South Africa	2005	Vulpes vulpes	Cosmopolitan_Clade	N	Southern Africa	6449
+AB284507	400	AL_Cosmopolitan_AF1b		Zambia	2000	Canis lupus familiaris	Cosmopolitan_Clade	N	Eastern Africa	6552
+DQ194863	400	AL_Cosmopolitan_AF1b	RV1496	Namibia	2003	kudu	Cosmopolitan_Clade	N	Southern Africa	0
+DQ194866	400	AL_Cosmopolitan_AF1b	RV1499	Namibia	2000	jackal	Cosmopolitan_Clade	N	Southern Africa	6580
+DQ194868	400	AL_Cosmopolitan_AF1b	RV1501	Namibia	2000	jackal	Cosmopolitan_Clade	N	Southern Africa	6540
+DQ194869	400	AL_Cosmopolitan_AF1b	RV1502	Namibia	2003	jackal	Cosmopolitan_Clade	N	Southern Africa	6590
+DQ194874	400	AL_Cosmopolitan_AF1b	RV1507	Namibia	2003	jackal	Cosmopolitan_Clade	N	Southern Africa	6586
+DQ194877	400	AL_Cosmopolitan_AF1b	RV1510	Namibia	2000	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	6556
+DQ194880	400	AL_Cosmopolitan_AF1b	RV1514	Namibia	2003	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	0
+DQ194882	400	AL_Cosmopolitan_AF1b	RV1517	Namibia	2003	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	0
+DQ194884	400	AL_Cosmopolitan_AF1b	RV1519	Namibia	2003	hyena	Cosmopolitan_Clade	N	Southern Africa	6593
+DQ194889	400	AL_Cosmopolitan_AF1b	RV1843	Namibia	1980	kudu	Cosmopolitan_Clade	N	Southern Africa	6582
+DQ194890	400	AL_Cosmopolitan_AF1b	RV1875	Namibia	1980	Canis familiaris	Cosmopolitan_Clade	N	Southern Africa	0
+DQ194900	400	AL_Cosmopolitan_AF1b	RV1841	South Africa	1980	jackal	Cosmopolitan_Clade	N	Southern Africa	6447
+DQ194903	400	AL_Cosmopolitan_AF1b	RV135	South Africa	1980	kudu	Cosmopolitan_Clade	N	Southern Africa	0
+DQ275561	930	AL_Africa-2	V828	Chad	2001	Canis familiaris	AL_Africa-2	P	Middle Africa	0
+AY605005	593	AL_Cosmopolitan_AF1b	equ646	Zimbabwe	2003	15991708	Cosmopolitan_Clade	G	Eastern Africa	0
+AY605006	593	AL_Cosmopolitan_AF1b	j19649	Zimbabwe	1991	15991708	Cosmopolitan_Clade	G	Eastern Africa	6793
+AY605014	592	AL_Cosmopolitan_AF1b	lion29263	Zimbabwe	2003	15991708	Cosmopolitan_Clade	G	Eastern Africa	0
+AY605032	589	AL_Cosmopolitan_AF1b	j27792	Zimbabwe	2001	15991708	Cosmopolitan_Clade	G	Eastern Africa	4847
+AY605038	592	AL_Cosmopolitan_AF1b	j28522	Zimbabwe	2002	15991708	Cosmopolitan_Clade	G	Eastern Africa	0
+AY502137	400	AL_Cosmopolitan_AF1b	RV749	Kenya	1995	-	Cosmopolitan_Clade	N	Eastern Africa	0
+AY502138	400	AL_Cosmopolitan_AF1b	RV754	Kenya	1995	-	Cosmopolitan_Clade	N	Eastern Africa	7489
+AY330744	405	AL_Cosmopolitan_ME2	RV396	Botswana	1990	Felis catus	Cosmopolitan_Clade	N	Southern Africa	0
+AF325470	2092	AL_Cosmopolitan_AF1a	GAB1-DG	Gabon	1986	-	Cosmopolitan_Clade	G	Middle Africa	4933
+AF325479	2091	AL_Cosmopolitan_AF1b	NGA1-HM	Nigeria	1983	Homo sapiens	Cosmopolitan_Clade	G	Western Africa	0

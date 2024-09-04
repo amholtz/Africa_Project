@@ -193,7 +193,7 @@ downsampleTree_N <- function(tree,N,split_char,split_index,reverse){
 #analysis
 # 100seq example
 loc_to_keep <- "ct" # No sequence with this corresponding 'loc' value within metadata file will be excluded from the tree.
-tre <- read.tree("/Users/aholtz/Dropbox/rabies/Africa_Project/data/Africa_RABV_July2024.nwk_collapsed_0.5.nwk")
+tre <- read.nexus("/Users/aholtz/Dropbox/rabies/Africa_Project/data/bats_removed_pruned_TempestRooted.tree")
 metadata <- read.delim2("/Users/aholtz/Dropbox/rabies/Africa_Project/data/meta_edited.tab") 
 metadata <- metadata %>% filter(Accession %in% tre$tip.label)
 colnames(metadata)[5] <- 'loc'

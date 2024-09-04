@@ -98,7 +98,7 @@ Note: Download [concat_seq_genes](https://github.com/amholtz/Africa_Project/data
 
   ```
   goalign subset -i data/africa_aln_July2024.fa -f /data/subsampling_SamScript/keep.csv -o sub_aln.fasta
-    ```
+  ```
 5. [BEAUTi v10.5.0-beta4](https://github.com/beast-dev/beast-mcmc/releases/tag/v10.5.0-beta4) was used to create the XML for BEAST. First running one BEAST rendition without any metadata to create a large tree file to use as an empirical tree input for the GLM analysis to save time.
 
   [sub_aln.fasta](https://github.com/amholtz/Africa_Project/blob/main/data/subsampling_SamScript/sub_aln.fasta) imported as partition (636 taxa)
@@ -141,7 +141,7 @@ Note: Download [concat_seq_genes](https://github.com/amholtz/Africa_Project/data
 beast -beagle_cuda -beagle_GPU -beagle_double -save_every 10000 -save_state beast_Africa_RABV_1_checkpoint.state Africa_RABV_sub_aln.xml
 ```
 
-*Note:* It's best to set up sbatch files to run on the HPC with modules loaded and the commands inside. See [africa_aln_beast.sh] for an example on how to build this file. 
+*Note:* It's best to set up sbatch files to run on the HPC with modules loaded and the commands inside. See [africa_aln_beast.sh] for an example on how to build this file.
 
 # Get in touch
 
